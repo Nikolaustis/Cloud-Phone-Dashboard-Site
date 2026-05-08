@@ -1,0 +1,11 @@
+output/
+baselines/*.csv
+baselines/*.jsonl
+baselines/*.xlsx
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+dashboard/node_modules/
+dashboard/dist/
