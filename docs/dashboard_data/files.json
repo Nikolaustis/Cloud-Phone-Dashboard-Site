@@ -1,0 +1,114 @@
+[
+  {
+    "name": "products.csv",
+    "path": "output/latest/products.csv",
+    "exists": true,
+    "size_bytes": 3970084,
+    "safe_to_open": true
+  },
+  {
+    "name": "products.xlsx",
+    "path": "output/latest/products.xlsx",
+    "exists": true,
+    "size_bytes": 177221,
+    "safe_to_open": true
+  },
+  {
+    "name": "products.jsonl",
+    "path": "output/latest/products.jsonl",
+    "exists": false,
+    "size_bytes": null,
+    "safe_to_open": false
+  },
+  {
+    "name": "daily_changes.xlsx",
+    "path": "output/latest/daily_changes.xlsx",
+    "exists": true,
+    "size_bytes": 140376,
+    "safe_to_open": true
+  },
+  {
+    "name": "baseline_products_updated.xlsx",
+    "path": "output/latest/baseline_products_updated.xlsx",
+    "exists": true,
+    "size_bytes": 155636,
+    "safe_to_open": true
+  },
+  {
+    "name": "quality_price_report.xlsx",
+    "path": "output/latest/quality_price_report.xlsx",
+    "exists": true,
+    "size_bytes": 201665,
+    "safe_to_open": true
+  },
+  {
+    "name": "run_summary.json",
+    "path": "output/latest/run_summary.json",
+    "exists": true,
+    "size_bytes": 2657,
+    "safe_to_open": true
+  },
+  {
+    "name": "dashboard_data/frontend_price_overview.json",
+    "path": "output/latest/dashboard_data/frontend_price_overview.json",
+    "exists": true,
+    "size_bytes": 41118,
+    "safe_to_open": true
+  },
+  {
+    "name": "dashboard_data/pairing_matrix.json",
+    "path": "output/latest/dashboard_data/pairing_matrix.json",
+    "exists": true,
+    "size_bytes": 20671,
+    "safe_to_open": true
+  },
+  {
+    "name": "dashboard_data/duration_price_comparison.json",
+    "path": "output/latest/dashboard_data/duration_price_comparison.json",
+    "exists": true,
+    "size_bytes": 248077,
+    "safe_to_open": true
+  },
+  {
+    "name": "dashboard_data/price_trends.json",
+    "path": "output/latest/dashboard_data/price_trends.json",
+    "exists": true,
+    "size_bytes": 2299149,
+    "safe_to_open": true
+  },
+  {
+    "name": "dashboard_data/price_change_tracking.json",
+    "path": "output/latest/dashboard_data/price_change_tracking.json",
+    "exists": true,
+    "size_bytes": 1174,
+    "safe_to_open": true
+  },
+  {
+    "name": "dashboard_data/product_text_changes.json",
+    "path": "output/latest/dashboard_data/product_text_changes.json",
+    "exists": true,
+    "size_bytes": 351,
+    "safe_to_open": true
+  },
+  {
+    "name": "dashboard_data/metric_definitions.json",
+    "path": "output/latest/dashboard_data/metric_definitions.json",
+    "exists": true,
+    "size_bytes": 6068,
+    "safe_to_open": true
+  },
+  {
+    "name": "dashboard_data/schedule_status.json",
+    "path": "output/latest/dashboard_data/schedule_status.json",
+    "exists": true,
+    "size_bytes": 373,
+    "safe_to_open": true
+  },
+  {
+    "name": "dashboard_data/meta.json",
+    "path": "output/latest/dashboard_data/meta.json",
+    "exists": true,
+    "size_bytes": 259,
+    "safe_to_open": true
+  }
+]
