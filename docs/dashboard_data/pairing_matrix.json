@@ -22,7 +22,7 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "VIP",
-        "competitor_config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
+        "competitor_config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
         "config_similarity_score": 67,
         "comparability_level": "weak_match",
         "pairing_source": "manual_mapping",
@@ -66,7 +66,7 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "VIP",
-        "competitor_config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
+        "competitor_config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
         "config_similarity_score": 78,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
@@ -110,7 +110,7 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "VIP",
-        "competitor_config": "VIP / Android 12.0 / 8 cores / 4GB / 64GB",
+        "competitor_config": "VIP / Android 12 / 8 cores / 4GB / 64GB",
         "config_similarity_score": 78,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
@@ -154,7 +154,7 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "VIP",
-        "competitor_config": "VIP / Android 15.0 / 8 cores / 4GB / 64GB",
+        "competitor_config": "VIP / Android 15 / 8 cores / 4GB / 64GB",
         "config_similarity_score": 75,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
@@ -198,7 +198,7 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "KVIP",
-        "competitor_config": "KVIP / Android 10.0 / 8 cores / 6GB / 80GB",
+        "competitor_config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
         "config_similarity_score": 78.85,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
@@ -242,7 +242,7 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "KVIP",
-        "competitor_config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
+        "competitor_config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
         "config_similarity_score": 78.85,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
@@ -286,7 +286,7 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "KVIP",
-        "competitor_config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
+        "competitor_config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
         "config_similarity_score": 75.85,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
@@ -330,7 +330,7 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "SVIP",
-        "competitor_config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
+        "competitor_config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
         "config_similarity_score": 90,
         "comparability_level": "strong_match",
         "pairing_source": "manual_mapping",
@@ -374,11 +374,11 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "SVIP",
-        "competitor_config": "SVIP / Android 12.0 / 8 cores / 8GB / 128GB",
-        "config_similarity_score": 83,
+        "competitor_config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+        "config_similarity_score": 87,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
-        "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_lower_1; cpu_same; ram_same; storage_same; region_no_overlap; duration_same",
+        "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same",
         "included_in_core_median": true,
         "exclusion_reason": ""
       },
@@ -418,7 +418,7 @@
       "Redfinger": {
         "competitor_platform": "Redfinger",
         "competitor_product_model": "XVIP",
-        "competitor_config": "XVIP / Android 10.0 / 8 cores / 16GB / 256GB",
+        "competitor_config": "XVIP / Android 10 / 8 cores / 16GB / 256GB",
         "config_similarity_score": 87.2,
         "comparability_level": "adjusted_match",
         "pairing_source": "manual_mapping",
