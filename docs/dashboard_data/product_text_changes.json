@@ -2342,54 +2342,6 @@
   {
     "platform": "Redfinger",
     "product_model": "SVIP",
-    "config": "SVIP / A10.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 15.95,
-    "current_promotion_text": "≈0.53/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
-    "config": "SVIP / A10.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 139.950003,
-    "current_promotion_text": "≈0.38/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
-    "config": "SVIP / A10.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 6.95,
-    "current_promotion_text": "≈0.99/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
-    "config": "SVIP / A10.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 45.950001,
-    "current_promotion_text": "≈0.51/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
     "config": "SVIP / A10 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
@@ -2438,54 +2390,6 @@
   {
     "platform": "Redfinger",
     "product_model": "SVIP",
-    "config": "SVIP / A12.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 15.95,
-    "current_promotion_text": "≈0.53/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
-    "config": "SVIP / A12.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 139.950003,
-    "current_promotion_text": "≈0.38/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
-    "config": "SVIP / A12.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 6.95,
-    "current_promotion_text": "≈0.99/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
-    "config": "SVIP / A12.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 45.950001,
-    "current_promotion_text": "≈0.51/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
     "config": "SVIP / A12 / 8 cores / 8GB / 128GB",
     "duration_bucket": 30,
     "duration_display": "30天",
@@ -2530,54 +2434,6 @@
     "previous_promotion_text": "≈0.51/day",
     "promotion_text_changed": false,
     "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
-    "config": "SVIP / A15.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 15.95,
-    "current_promotion_text": "≈0.53/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
-    "config": "SVIP / A15.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 139.950003,
-    "current_promotion_text": "≈0.38/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
-    "config": "SVIP / A15.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 6.95,
-    "current_promotion_text": "≈0.99/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "SVIP",
-    "config": "SVIP / A15.0 / 8 cores / 8GB / 128GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 45.950001,
-    "current_promotion_text": "≈0.51/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "Redfinger",
@@ -2634,10 +2490,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 15.95,
-    "current_promotion_text": "≈0.53/day",
+    "current_promotion_text": "New Users  off--Limited 24H！; ≈0.47/day; ≈0.53/day",
     "previous_promotion_text": "New Users  off--Limited 24H！; ≈0.47/day; ≈0.53/day",
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "promotion_text_changed": false,
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "Redfinger",

@@ -770,11 +770,11 @@
       "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
       "duration_days": 15,
       "ug_effective_price_30d": 25.98,
-      "competitor_median_quality_adjusted_price_30d": 27.097104,
+      "competitor_median_quality_adjusted_price_30d": 26.473994,
       "core_match_rows": 9,
       "weak_match_rows": 0,
       "weak_median_quality_adjusted_price_30d": null,
-      "ugphone_relative_index": 95.877404,
+      "ugphone_relative_index": 98.134041,
       "market_position_label": "competitive",
       "alert_level": "none",
       "reason_code": "unchanged",
@@ -800,11 +800,11 @@
       "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
       "duration_days": 90,
       "ug_effective_price_30d": 14.663333,
-      "competitor_median_quality_adjusted_price_30d": 15.305871,
+      "competitor_median_quality_adjusted_price_30d": 14.978653,
       "core_match_rows": 18,
       "weak_match_rows": 0,
       "weak_median_quality_adjusted_price_30d": null,
-      "ugphone_relative_index": 95.802016,
+      "ugphone_relative_index": 97.894871,
       "market_position_label": "competitive",
       "alert_level": "none",
       "reason_code": "unchanged",
@@ -830,11 +830,11 @@
       "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
       "duration_days": 365,
       "ug_effective_price_30d": 12.410137,
-      "competitor_median_quality_adjusted_price_30d": 11.248893,
+      "competitor_median_quality_adjusted_price_30d": 11.049805,
       "core_match_rows": 9,
       "weak_match_rows": 0,
       "weak_median_quality_adjusted_price_30d": null,
-      "ugphone_relative_index": 110.323185,
+      "ugphone_relative_index": 112.310914,
       "market_position_label": "slightly_high",
       "alert_level": "warning",
       "reason_code": "abnormal_unexplained",
@@ -875,14 +875,14 @@
       "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
       "duration_days": 15,
       "ug_effective_price_30d": 25.98,
-      "competitor_median_quality_adjusted_price_30d": 27.370127,
+      "competitor_median_quality_adjusted_price_30d": 21.385714,
       "core_match_rows": 7,
       "weak_match_rows": 2,
       "weak_median_quality_adjusted_price_30d": 27.814699,
-      "ugphone_relative_index": 94.921006,
-      "market_position_label": "competitive",
-      "alert_level": "none",
-      "reason_code": "unchanged",
+      "ugphone_relative_index": 121.482968,
+      "market_position_label": "high",
+      "alert_level": "critical",
+      "reason_code": "abnormal_unexplained",
       "notes": "core uses strong_match and adjusted_match only; weak_match median is informational."
     },
     {
@@ -905,11 +905,11 @@
       "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
       "duration_days": 90,
       "ug_effective_price_30d": 16.996667,
-      "competitor_median_quality_adjusted_price_30d": 15.485674,
+      "competitor_median_quality_adjusted_price_30d": 15.654958,
       "core_match_rows": 7,
       "weak_match_rows": 2,
       "weak_median_quality_adjusted_price_30d": 14.032059,
-      "ugphone_relative_index": 109.75736,
+      "ugphone_relative_index": 108.570505,
       "market_position_label": "slightly_high",
       "alert_level": "warning",
       "reason_code": "abnormal_unexplained",
@@ -920,11 +920,11 @@
       "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
       "duration_days": 180,
       "ug_effective_price_30d": 14.331667,
-      "competitor_median_quality_adjusted_price_30d": 14.989484,
+      "competitor_median_quality_adjusted_price_30d": 15.609288,
       "core_match_rows": 7,
       "weak_match_rows": 2,
       "weak_median_quality_adjusted_price_30d": 13.077704,
-      "ugphone_relative_index": 95.611477,
+      "ugphone_relative_index": 91.814995,
       "market_position_label": "competitive",
       "alert_level": "none",
       "reason_code": "unchanged",
@@ -935,11 +935,11 @@
       "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
       "duration_days": 365,
       "ug_effective_price_30d": 16.437534,
-      "competitor_median_quality_adjusted_price_30d": 11.257027,
+      "competitor_median_quality_adjusted_price_30d": 11.300505,
       "core_match_rows": 7,
       "weak_match_rows": 2,
       "weak_median_quality_adjusted_price_30d": 12.04445,
-      "ugphone_relative_index": 146.020206,
+      "ugphone_relative_index": 145.458402,
       "market_position_label": "high",
       "alert_level": "critical",
       "reason_code": "abnormal_unexplained",
@@ -1058,11 +1058,11 @@
     },
     {
       "name": "competitive",
-      "value": 19
+      "value": 18
     },
     {
       "name": "high",
-      "value": 20
+      "value": 21
     },
     {
       "name": "slightly_high",
@@ -1076,7 +1076,7 @@
   "alert_distribution": [
     {
       "name": "critical",
-      "value": 20
+      "value": 21
     },
     {
       "name": "info",
@@ -1084,7 +1084,7 @@
     },
     {
       "name": "none",
-      "value": 39
+      "value": 38
     },
     {
       "name": "warning",
@@ -1193,8 +1193,8 @@
     {
       "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
       "ug_config": "MVIP A13 8 cores/8GB/128GB",
-      "relative_index": 146.020206,
-      "adjusted_gap_pct": 0.460202,
+      "relative_index": 145.458402,
+      "adjusted_gap_pct": 0.454584,
       "reason_code": "abnormal_unexplained",
       "confidence_level": "medium",
       "alert_level": "critical",
@@ -1301,10 +1301,10 @@
       "needs_data_review": false
     },
     {
-      "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__365d",
-      "ug_config": "GVIP A10 4 cores/4GB/64GB",
-      "relative_index": 116.664994,
-      "adjusted_gap_pct": 0.16665,
+      "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__15d",
+      "ug_config": "MVIP A13 8 cores/8GB/128GB",
+      "relative_index": 121.482968,
+      "adjusted_gap_pct": 0.21483,
       "reason_code": "abnormal_unexplained",
       "confidence_level": "medium",
       "alert_level": "critical",
@@ -1312,10 +1312,10 @@
       "needs_data_review": false
     },
     {
-      "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb__365d",
-      "ug_config": "KVIP A12 6 cores/5.3GB/64GB",
-      "relative_index": 115.547139,
-      "adjusted_gap_pct": 0.155471,
+      "ug_config_id": "gvip___android_10___4_cores___4gb___64gb__365d",
+      "ug_config": "GVIP A10 4 cores/4GB/64GB",
+      "relative_index": 116.664994,
+      "adjusted_gap_pct": 0.16665,
       "reason_code": "abnormal_unexplained",
       "confidence_level": "medium",
       "alert_level": "critical",

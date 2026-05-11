@@ -12865,16 +12865,16 @@
     "duration_days": 1,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 29.785714,
+    "competitor_config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 13.95,
     "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 29.785714,
+    "quality_adjusted_price_30d": 13.95,
     "config_similarity_score": 81,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=7-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=30-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 215.543938
@@ -12886,9 +12886,9 @@
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
     "competitor_config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 13.95,
+    "raw_effective_price_30d": 15.95,
     "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 13.95,
+    "quality_adjusted_price_30d": 15.95,
     "config_similarity_score": 81,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
@@ -13045,26 +13045,6 @@
     "duration_days": 7,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 29.785714,
-    "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 29.785714,
-    "config_similarity_score": 90,
-    "comparability_level": "strong_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=7-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 93.898327
-  },
-  {
-    "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__7d",
-    "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
-    "duration_days": 7,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "SVIP",
     "competitor_config": "SVIP / Android 12 / 8 cores / 8GB / 128GB",
     "raw_effective_price_30d": 29.785714,
     "quality_adjustment_factor": 0.977932,
@@ -13075,6 +13055,26 @@
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=27; source_product_name=7-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "competitive",
+    "ugphone_relative_index": 93.898327
+  },
+  {
+    "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__7d",
+    "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "duration_days": 7,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "SVIP",
+    "competitor_config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 29.785714,
+    "quality_adjustment_factor": 0.946597,
+    "quality_adjusted_price_30d": 28.195063,
+    "config_similarity_score": 85,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=7-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 93.898327
@@ -13157,7 +13157,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.877404
+    "ugphone_relative_index": 98.134041
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__15d",
@@ -13177,7 +13177,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.877404
+    "ugphone_relative_index": 98.134041
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__15d",
@@ -13197,7 +13197,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.877404
+    "ugphone_relative_index": 98.134041
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__15d",
@@ -13217,27 +13217,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=7-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.877404
-  },
-  {
-    "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__15d",
-    "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
-    "duration_days": 15,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 29.785714,
-    "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 29.785714,
-    "config_similarity_score": 81,
-    "comparability_level": "adjusted_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=7-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 95.877404
+    "ugphone_relative_index": 98.134041
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__15d",
@@ -13257,7 +13237,27 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=30-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.877404
+    "ugphone_relative_index": 98.134041
+  },
+  {
+    "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__15d",
+    "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "duration_days": 15,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "SVIP",
+    "competitor_config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 15.95,
+    "quality_adjustment_factor": 1,
+    "quality_adjusted_price_30d": 15.95,
+    "config_similarity_score": 81,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=30-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "competitive",
+    "ugphone_relative_index": 98.134041
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__15d",
@@ -13277,7 +13277,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_same; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=52; productId=3593; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.877404
+    "ugphone_relative_index": 98.134041
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__15d",
@@ -13297,7 +13297,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_higher; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=72; productId=3595; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.877404
+    "ugphone_relative_index": 98.134041
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__15d",
@@ -13317,7 +13317,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_same; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=52; productId=1946; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.877404
+    "ugphone_relative_index": 98.134041
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__30d",
@@ -13425,16 +13425,16 @@
     "duration_days": 30,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 15.95,
-    "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 15.95,
-    "config_similarity_score": 90,
-    "comparability_level": "strong_match",
+    "competitor_config": "SVIP / Android 12 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 13.95,
+    "quality_adjustment_factor": 0.977932,
+    "quality_adjusted_price_30d": 13.642146,
+    "config_similarity_score": 87,
+    "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=30-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=27; source_product_name=30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 93.981191
@@ -13605,16 +13605,16 @@
     "duration_days": 30,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 15.95,
-    "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 15.95,
-    "config_similarity_score": 90,
-    "comparability_level": "strong_match",
+    "competitor_config": "SVIP / Android 12 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 13.95,
+    "quality_adjustment_factor": 0.977932,
+    "quality_adjusted_price_30d": 13.642146,
+    "config_similarity_score": 87,
+    "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=30-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=27; source_product_name=30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 93.981191
@@ -13697,7 +13697,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13717,7 +13717,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13737,7 +13737,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13757,27 +13757,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=90-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
-  },
-  {
-    "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
-    "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
-    "duration_days": 90,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 15.316667,
-    "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 15.316667,
-    "config_similarity_score": 90,
-    "comparability_level": "strong_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=90-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13797,7 +13777,27 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=27; source_product_name=90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
+  },
+  {
+    "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
+    "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "duration_days": 90,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "SVIP",
+    "competitor_config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 15.316667,
+    "quality_adjustment_factor": 0.946597,
+    "quality_adjusted_price_30d": 14.498709,
+    "config_similarity_score": 85,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=90-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "competitive",
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13817,7 +13817,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_same; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=52; productId=1943; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13837,7 +13837,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_higher; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=72; productId=2541; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13857,7 +13857,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_same; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=52; productId=4772; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13877,7 +13877,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13897,7 +13897,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13917,7 +13917,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13937,27 +13937,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=90-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
-  },
-  {
-    "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
-    "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
-    "duration_days": 90,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 15.316667,
-    "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 15.316667,
-    "config_similarity_score": 90,
-    "comparability_level": "strong_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=90-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13977,7 +13957,27 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=27; source_product_name=90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
+  },
+  {
+    "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
+    "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "duration_days": 90,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "SVIP",
+    "competitor_config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 15.316667,
+    "quality_adjustment_factor": 0.946597,
+    "quality_adjusted_price_30d": 14.498709,
+    "config_similarity_score": 85,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=90-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "competitive",
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -13997,7 +13997,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_same; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=52; productId=1943; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -14017,7 +14017,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_higher; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=72; productId=2541; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__90d",
@@ -14037,7 +14037,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_same; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=52; productId=4772; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.802016
+    "ugphone_relative_index": 97.894871
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__180d",
@@ -14125,16 +14125,16 @@
     "duration_days": 180,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 15.316667,
+    "competitor_config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 13.95,
     "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 15.316667,
+    "quality_adjusted_price_30d": 13.95,
     "config_similarity_score": 81,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=90-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=30-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 93.569097
@@ -14146,9 +14146,9 @@
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
     "competitor_config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 13.95,
+    "raw_effective_price_30d": 15.95,
     "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 13.95,
+    "quality_adjusted_price_30d": 15.95,
     "config_similarity_score": 81,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
@@ -14237,7 +14237,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 110.323185
+    "ugphone_relative_index": 112.310914
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__365d",
@@ -14257,7 +14257,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 110.323185
+    "ugphone_relative_index": 112.310914
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__365d",
@@ -14277,7 +14277,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 110.323185
+    "ugphone_relative_index": 112.310914
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__365d",
@@ -14297,27 +14297,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=365-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 110.323185
-  },
-  {
-    "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__365d",
-    "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
-    "duration_days": 365,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 11.50274,
-    "quality_adjustment_factor": 1,
-    "quality_adjusted_price_30d": 11.50274,
-    "config_similarity_score": 90,
-    "comparability_level": "strong_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=365-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "slightly_high",
-    "ugphone_relative_index": 110.323185
+    "ugphone_relative_index": 112.310914
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__365d",
@@ -14337,7 +14317,27 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=27; source_product_name=365-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 110.323185
+    "ugphone_relative_index": 112.310914
+  },
+  {
+    "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__365d",
+    "ug_config": "MVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "duration_days": 365,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "SVIP",
+    "competitor_config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 11.50274,
+    "quality_adjustment_factor": 0.946597,
+    "quality_adjusted_price_30d": 10.888457,
+    "config_similarity_score": 85,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=365-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "slightly_high",
+    "ugphone_relative_index": 112.310914
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__365d",
@@ -14357,7 +14357,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_same; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=52; productId=4826; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 110.323185
+    "ugphone_relative_index": 112.310914
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__365d",
@@ -14377,7 +14377,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_higher; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=72; productId=4840; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 110.323185
+    "ugphone_relative_index": 112.310914
   },
   {
     "ug_config_id": "mvip___android_10___8_cores___8gb___128gb__365d",
@@ -14397,7 +14397,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_same; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=52; productId=1944; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 110.323185
+    "ugphone_relative_index": 112.310914
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__1d",
@@ -14485,16 +14485,16 @@
     "duration_days": 1,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 15.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 29.785714,
+    "competitor_config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 13.95,
     "quality_adjustment_factor": 0.978639,
-    "quality_adjusted_price_30d": 29.149453,
+    "quality_adjusted_price_30d": 13.65201,
     "config_similarity_score": 78,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=7-Day; server_code=TH_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=30-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
     "ugphone_relative_index": 204.854887
@@ -14506,9 +14506,9 @@
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
     "competitor_config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 13.95,
+    "raw_effective_price_30d": 15.95,
     "quality_adjustment_factor": 0.978639,
-    "quality_adjusted_price_30d": 13.65201,
+    "quality_adjusted_price_30d": 15.609288,
     "config_similarity_score": 78,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
@@ -14665,26 +14665,6 @@
     "duration_days": 7,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 15.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 29.785714,
-    "quality_adjustment_factor": 0.978639,
-    "quality_adjusted_price_30d": 29.149453,
-    "config_similarity_score": 87,
-    "comparability_level": "adjusted_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=7-Day; server_code=TH_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 101.598275
-  },
-  {
-    "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__7d",
-    "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
-    "duration_days": 7,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "SVIP",
     "competitor_config": "SVIP / Android 12 / 8 cores / 8GB / 128GB",
     "raw_effective_price_30d": 29.785714,
     "quality_adjustment_factor": 1.011034,
@@ -14695,6 +14675,26 @@
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_lower_1; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=27; source_product_name=7-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "competitive",
+    "ugphone_relative_index": 101.598275
+  },
+  {
+    "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__7d",
+    "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
+    "duration_days": 7,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "SVIP",
+    "competitor_config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 29.785714,
+    "quality_adjustment_factor": 1.03385,
+    "quality_adjusted_price_30d": 30.793948,
+    "config_similarity_score": 79,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_lower_2_plus; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=7-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
     "ugphone_relative_index": 101.598275
@@ -14776,8 +14776,8 @@
     "pairing_source": "manual_mapping",
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 94.921006
+    "market_position_label": "high",
+    "ugphone_relative_index": 121.482968
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__15d",
@@ -14796,8 +14796,8 @@
     "pairing_source": "manual_mapping",
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 94.921006
+    "market_position_label": "high",
+    "ugphone_relative_index": 121.482968
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__15d",
@@ -14816,8 +14816,8 @@
     "pairing_source": "manual_mapping",
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 94.921006
+    "market_position_label": "high",
+    "ugphone_relative_index": 121.482968
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__15d",
@@ -14836,28 +14836,8 @@
     "pairing_source": "manual_mapping",
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=7-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 94.921006
-  },
-  {
-    "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__15d",
-    "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
-    "duration_days": 15,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 15.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 29.785714,
-    "quality_adjustment_factor": 0.978639,
-    "quality_adjusted_price_30d": 29.149453,
-    "config_similarity_score": 78,
-    "comparability_level": "adjusted_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=7-Day; server_code=TH_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 94.921006
+    "market_position_label": "high",
+    "ugphone_relative_index": 121.482968
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__15d",
@@ -14876,8 +14856,28 @@
     "pairing_source": "manual_mapping",
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=30-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 94.921006
+    "market_position_label": "high",
+    "ugphone_relative_index": 121.482968
+  },
+  {
+    "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__15d",
+    "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
+    "duration_days": 15,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "SVIP",
+    "competitor_config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 15.95,
+    "quality_adjustment_factor": 0.978639,
+    "quality_adjusted_price_30d": 15.609288,
+    "config_similarity_score": 78,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=30-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "high",
+    "ugphone_relative_index": 121.482968
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__15d",
@@ -14896,8 +14896,8 @@
     "pairing_source": "manual_mapping",
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_1; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=72; productId=3595; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 94.921006
+    "market_position_label": "high",
+    "ugphone_relative_index": 121.482968
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__15d",
@@ -14916,8 +14916,8 @@
     "pairing_source": "manual_mapping",
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_2_plus; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=52; productId=3593; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 94.921006
+    "market_position_label": "high",
+    "ugphone_relative_index": 121.482968
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__15d",
@@ -14936,8 +14936,8 @@
     "pairing_source": "manual_mapping",
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_1; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=72; productId=2546; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 94.921006
+    "market_position_label": "high",
+    "ugphone_relative_index": 121.482968
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__30d",
@@ -15045,16 +15045,16 @@
     "duration_days": 30,
     "competitor_platform": "Redfinger",
     "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 15.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 15.95,
-    "quality_adjustment_factor": 0.978639,
-    "quality_adjusted_price_30d": 15.609288,
-    "config_similarity_score": 87,
+    "competitor_config": "SVIP / Android 12 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 13.95,
+    "quality_adjustment_factor": 1.011034,
+    "quality_adjusted_price_30d": 14.103927,
+    "config_similarity_score": 83,
     "comparability_level": "adjusted_match",
     "included_in_core_median": true,
     "exclusion_reason": "",
     "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=30-Day; server_code=TH_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_lower_1; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=27; source_product_name=30-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
     "ugphone_relative_index": 114.346348
@@ -15137,7 +15137,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 109.75736
+    "ugphone_relative_index": 108.570505
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__90d",
@@ -15157,7 +15157,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 109.75736
+    "ugphone_relative_index": 108.570505
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__90d",
@@ -15177,7 +15177,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 109.75736
+    "ugphone_relative_index": 108.570505
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__90d",
@@ -15197,27 +15197,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=90-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 109.75736
-  },
-  {
-    "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__90d",
-    "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
-    "duration_days": 90,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 15.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 15.316667,
-    "quality_adjustment_factor": 0.978639,
-    "quality_adjusted_price_30d": 14.989484,
-    "config_similarity_score": 87,
-    "comparability_level": "adjusted_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=90-Day; server_code=TH_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "slightly_high",
-    "ugphone_relative_index": 109.75736
+    "ugphone_relative_index": 108.570505
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__90d",
@@ -15237,7 +15217,27 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_lower_1; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=27; source_product_name=90-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 109.75736
+    "ugphone_relative_index": 108.570505
+  },
+  {
+    "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__90d",
+    "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
+    "duration_days": 90,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "SVIP",
+    "competitor_config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 15.316667,
+    "quality_adjustment_factor": 1.03385,
+    "quality_adjusted_price_30d": 15.83513,
+    "config_similarity_score": 79,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_lower_2_plus; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=90-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "slightly_high",
+    "ugphone_relative_index": 108.570505
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__90d",
@@ -15257,7 +15257,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_1; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=72; productId=2541; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 109.75736
+    "ugphone_relative_index": 108.570505
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__90d",
@@ -15277,7 +15277,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_2_plus; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=52; productId=1943; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 109.75736
+    "ugphone_relative_index": 108.570505
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__90d",
@@ -15297,7 +15297,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_1; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=72; productId=4784; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "slightly_high",
-    "ugphone_relative_index": 109.75736
+    "ugphone_relative_index": 108.570505
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__180d",
@@ -15317,7 +15317,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.611477
+    "ugphone_relative_index": 91.814995
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__180d",
@@ -15337,7 +15337,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.611477
+    "ugphone_relative_index": 91.814995
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__180d",
@@ -15357,7 +15357,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.611477
+    "ugphone_relative_index": 91.814995
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__180d",
@@ -15377,27 +15377,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=90-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.611477
-  },
-  {
-    "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__180d",
-    "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
-    "duration_days": 180,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 15.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 15.316667,
-    "quality_adjustment_factor": 0.978639,
-    "quality_adjusted_price_30d": 14.989484,
-    "config_similarity_score": 78,
-    "comparability_level": "adjusted_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=90-Day; server_code=TH_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "competitive",
-    "ugphone_relative_index": 95.611477
+    "ugphone_relative_index": 91.814995
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__180d",
@@ -15417,7 +15397,27 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=30-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.611477
+    "ugphone_relative_index": 91.814995
+  },
+  {
+    "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__180d",
+    "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
+    "duration_days": 180,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "SVIP",
+    "competitor_config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 15.95,
+    "quality_adjustment_factor": 0.978639,
+    "quality_adjusted_price_30d": 15.609288,
+    "config_similarity_score": 78,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_diff_over_30pct; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=30-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "competitive",
+    "ugphone_relative_index": 91.814995
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__180d",
@@ -15437,7 +15437,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_1; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=72; productId=2542; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.611477
+    "ugphone_relative_index": 91.814995
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__180d",
@@ -15457,7 +15457,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_2_plus; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=52; productId=1944; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.611477
+    "ugphone_relative_index": 91.814995
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__180d",
@@ -15477,7 +15477,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_1; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=72; productId=4811; area_code=sg; area_code=us; area_code=nl; new_current_product_not_in_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "competitive",
-    "ugphone_relative_index": 95.611477
+    "ugphone_relative_index": 91.814995
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
@@ -15497,7 +15497,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_same; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
-    "ugphone_relative_index": 146.020206
+    "ugphone_relative_index": 145.458402
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
@@ -15517,7 +15517,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
-    "ugphone_relative_index": 146.020206
+    "ugphone_relative_index": 145.458402
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
@@ -15537,7 +15537,7 @@
     "pairing_notes": "手工推荐: XVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; api_config_good_time; source_config_name=XVIP; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
-    "ugphone_relative_index": 146.020206
+    "ugphone_relative_index": 145.458402
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
@@ -15557,27 +15557,7 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=365-Day; server_code=TH_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
-    "ugphone_relative_index": 146.020206
-  },
-  {
-    "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
-    "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
-    "duration_days": 365,
-    "competitor_platform": "Redfinger",
-    "competitor_product_model": "SVIP",
-    "competitor_config": "SVIP / Android 15.0 / 8 cores / 8GB / 128GB",
-    "raw_effective_price_30d": 11.50274,
-    "quality_adjustment_factor": 0.978639,
-    "quality_adjusted_price_30d": 11.257027,
-    "config_similarity_score": 87,
-    "comparability_level": "adjusted_match",
-    "included_in_core_median": true,
-    "exclusion_reason": "",
-    "pairing_source": "manual_mapping",
-    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_higher; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=64; source_product_name=365-Day; server_code=TH_IDC_01; server_code=JP_SPEED_FAKE_IDC_CODE; server_code=KR_SPEED_FAKE_IDC_CODE; new_current_product_not_in_baseline; device_count_defaulted_to_1",
-    "confidence_level": "medium",
-    "market_position_label": "high",
-    "ugphone_relative_index": 146.020206
+    "ugphone_relative_index": 145.458402
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
@@ -15597,7 +15577,27 @@
     "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_lower_1; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=27; source_product_name=365-Day; server_code=SG_IDC_04; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=HKXC_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
-    "ugphone_relative_index": 146.020206
+    "ugphone_relative_index": 145.458402
+  },
+  {
+    "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
+    "ug_config": "MVIP / Android 13 / 8 cores / 8GB / 128GB",
+    "duration_days": 365,
+    "competitor_platform": "Redfinger",
+    "competitor_product_model": "SVIP",
+    "competitor_config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+    "raw_effective_price_30d": 11.50274,
+    "quality_adjustment_factor": 1.03385,
+    "quality_adjusted_price_30d": 11.892103,
+    "config_similarity_score": 79,
+    "comparability_level": "adjusted_match",
+    "included_in_core_median": true,
+    "exclusion_reason": "",
+    "pairing_source": "manual_mapping",
+    "pairing_notes": "手工推荐: SVIP / 8C / 8GB / 128GB，强配对。; android_competitor_lower_2_plus; cpu_same; ram_same; storage_same; region_no_overlap; duration_same; signed_getGoods_api; classifyValue=17; goodsClassifyId=24; source_product_name=365-Day; server_code=HK_IDC_01; server_code=TH_IDC_01; server_code=TW_IDC_04; server_code=US_IDC_01; current_missing_used_baseline; device_count_defaulted_to_1",
+    "confidence_level": "medium",
+    "market_position_label": "high",
+    "ugphone_relative_index": 145.458402
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
@@ -15617,7 +15617,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_1; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=72; productId=4840; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
-    "ugphone_relative_index": 146.020206
+    "ugphone_relative_index": 145.458402
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
@@ -15637,7 +15637,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_2_plus; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_same; api_price_list; area_code=tw; cardType=52; productId=4826; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
-    "ugphone_relative_index": 146.020206
+    "ugphone_relative_index": 145.458402
   },
   {
     "ug_config_id": "mvip___android_13___8_cores___8gb___128gb__365d",
@@ -15657,7 +15657,7 @@
     "pairing_notes": "手工推荐: XVIP10/XVIP12 / 8C / 8GB / 90GB，存储低于 UG，近似配对。; android_competitor_lower_1; cpu_same; ram_same; storage_competitor_lower; region_no_overlap; duration_diff_over_30pct; api_price_list; area_code=tw; cardType=72; productId=2542; area_code=sg; area_code=us; area_code=nl; current_price_overlay_applied; device_count_defaulted_to_1",
     "confidence_level": "medium",
     "market_position_label": "high",
-    "ugphone_relative_index": 146.020206
+    "ugphone_relative_index": 145.458402
   },
   {
     "ug_config_id": "svip___android_10___8_cores___16gb___200gb__1d",
