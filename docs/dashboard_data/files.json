@@ -1,114 +1,114 @@
 [
   {
     "name": "products.csv",
-    "path": "output\\latest\\products.csv",
+    "path": "output/latest/products.csv",
     "exists": true,
-    "size_bytes": 3781593,
+    "size_bytes": 3970084,
     "safe_to_open": true
   },
   {
     "name": "products.xlsx",
-    "path": "output\\latest\\products.xlsx",
+    "path": "output/latest/products.xlsx",
     "exists": true,
-    "size_bytes": 142414,
+    "size_bytes": 177221,
     "safe_to_open": true
   },
   {
     "name": "products.jsonl",
-    "path": "output\\latest\\products.jsonl",
-    "exists": true,
-    "size_bytes": 15695473,
-    "safe_to_open": true
+    "path": "output/latest/products.jsonl",
+    "exists": false,
+    "size_bytes": null,
+    "safe_to_open": false
   },
   {
     "name": "daily_changes.xlsx",
-    "path": "output\\latest\\daily_changes.xlsx",
+    "path": "output/latest/daily_changes.xlsx",
     "exists": true,
-    "size_bytes": 134654,
+    "size_bytes": 140376,
     "safe_to_open": true
   },
   {
     "name": "baseline_products_updated.xlsx",
-    "path": "output\\latest\\baseline_products_updated.xlsx",
+    "path": "output/latest/baseline_products_updated.xlsx",
     "exists": true,
-    "size_bytes": 142726,
+    "size_bytes": 155636,
     "safe_to_open": true
   },
   {
     "name": "quality_price_report.xlsx",
-    "path": "output\\latest\\quality_price_report.xlsx",
+    "path": "output/latest/quality_price_report.xlsx",
     "exists": true,
-    "size_bytes": 255209,
+    "size_bytes": 201665,
     "safe_to_open": true
   },
   {
     "name": "run_summary.json",
-    "path": "output\\latest\\run_summary.json",
+    "path": "output/latest/run_summary.json",
     "exists": true,
-    "size_bytes": 2658,
+    "size_bytes": 2657,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/frontend_price_overview.json",
-    "path": "output\\latest\\dashboard_data\\frontend_price_overview.json",
+    "path": "output/latest/dashboard_data/frontend_price_overview.json",
     "exists": true,
-    "size_bytes": 39070,
+    "size_bytes": 41118,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/pairing_matrix.json",
-    "path": "output\\latest\\dashboard_data\\pairing_matrix.json",
+    "path": "output/latest/dashboard_data/pairing_matrix.json",
     "exists": true,
-    "size_bytes": 21250,
+    "size_bytes": 20671,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/duration_price_comparison.json",
-    "path": "output\\latest\\dashboard_data\\duration_price_comparison.json",
+    "path": "output/latest/dashboard_data/duration_price_comparison.json",
     "exists": true,
-    "size_bytes": 255352,
+    "size_bytes": 248077,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_trends.json",
-    "path": "output\\latest\\dashboard_data\\price_trends.json",
+    "path": "output/latest/dashboard_data/price_trends.json",
     "exists": true,
-    "size_bytes": 2673003,
+    "size_bytes": 2299149,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_change_tracking.json",
-    "path": "output\\latest\\dashboard_data\\price_change_tracking.json",
+    "path": "output/latest/dashboard_data/price_change_tracking.json",
     "exists": true,
-    "size_bytes": 634687,
+    "size_bytes": 1174,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/product_text_changes.json",
-    "path": "output\\latest\\dashboard_data\\product_text_changes.json",
+    "path": "output/latest/dashboard_data/product_text_changes.json",
     "exists": true,
-    "size_bytes": 211004,
+    "size_bytes": 351,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/metric_definitions.json",
-    "path": "output\\latest\\dashboard_data\\metric_definitions.json",
+    "path": "output/latest/dashboard_data/metric_definitions.json",
     "exists": true,
-    "size_bytes": 6186,
+    "size_bytes": 6068,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/schedule_status.json",
-    "path": "output\\latest\\dashboard_data\\schedule_status.json",
+    "path": "output/latest/dashboard_data/schedule_status.json",
     "exists": true,
-    "size_bytes": 385,
+    "size_bytes": 373,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/meta.json",
-    "path": "output\\latest\\dashboard_data\\meta.json",
+    "path": "output/latest/dashboard_data/meta.json",
     "exists": true,
-    "size_bytes": 268,
+    "size_bytes": 259,
     "safe_to_open": true
   }
 ]

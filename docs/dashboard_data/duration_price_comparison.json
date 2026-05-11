@@ -26,7 +26,7 @@
         "exclusion_reason": "",
         "ugphone_price": 2.69,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -51,7 +51,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
             "current_price": 3.95,
             "config_similarity_score": 67,
             "comparability_level": "weak_match",
@@ -93,9 +93,9 @@
         "ugphone_relative_index": 67.418544,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_10___4_cores___4gb___64gb",
@@ -115,7 +115,7 @@
         "exclusion_reason": "",
         "ugphone_price": 2.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -140,7 +140,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
             "current_price": 3.95,
             "config_similarity_score": 78,
             "comparability_level": "adjusted_match",
@@ -182,9 +182,9 @@
         "ugphone_relative_index": 66.890382,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_12___4_cores___4gb___64gb",
@@ -204,7 +204,7 @@
         "exclusion_reason": "",
         "ugphone_price": 2.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -229,7 +229,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 12 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 12.0 / 8 cores / 4GB / 64GB",
             "current_price": 3.95,
             "config_similarity_score": 78,
             "comparability_level": "adjusted_match",
@@ -271,9 +271,9 @@
         "ugphone_relative_index": 66.890382,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_13___4_cores___4gb___64gb",
@@ -293,7 +293,7 @@
         "exclusion_reason": "",
         "ugphone_price": 2.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -318,7 +318,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 15 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 15.0 / 8 cores / 4GB / 64GB",
             "current_price": 3.95,
             "config_similarity_score": 75,
             "comparability_level": "adjusted_match",
@@ -360,9 +360,9 @@
         "ugphone_relative_index": 66.890382,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
@@ -382,7 +382,7 @@
         "exclusion_reason": "",
         "ugphone_price": 4.29,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -407,7 +407,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 10.0 / 8 cores / 6GB / 80GB",
             "current_price": 4.95,
             "config_similarity_score": 78.85,
             "comparability_level": "adjusted_match",
@@ -449,9 +449,9 @@
         "ugphone_relative_index": 86.666665,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -471,7 +471,7 @@
         "exclusion_reason": "",
         "ugphone_price": 4.29,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -496,7 +496,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
             "current_price": 4.95,
             "config_similarity_score": 78.85,
             "comparability_level": "adjusted_match",
@@ -538,9 +538,9 @@
         "ugphone_relative_index": 86.666665,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -560,7 +560,7 @@
         "exclusion_reason": "",
         "ugphone_price": 4.29,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -585,7 +585,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
             "current_price": 4.95,
             "config_similarity_score": 75.85,
             "comparability_level": "adjusted_match",
@@ -627,9 +627,9 @@
         "ugphone_relative_index": 95.973153,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -649,7 +649,7 @@
         "exclusion_reason": "",
         "ugphone_price": 5.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -674,7 +674,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "SVIP",
-            "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+            "config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
             "current_price": 6.95,
             "config_similarity_score": 90,
             "comparability_level": "strong_match",
@@ -716,9 +716,9 @@
         "ugphone_relative_index": 86.187052,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -738,7 +738,7 @@
         "exclusion_reason": "",
         "ugphone_price": 5.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -763,9 +763,9 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "SVIP",
-            "config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+            "config": "SVIP / Android 12.0 / 8 cores / 8GB / 128GB",
             "current_price": 6.95,
-            "config_similarity_score": 87,
+            "config_similarity_score": 83,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -805,9 +805,9 @@
         "ugphone_relative_index": 100.33501,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -825,9 +825,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 5.99,
+        "ugphone_price": 6.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -852,7 +852,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "XVIP",
-            "config": "XVIP / Android 10 / 8 cores / 16GB / 256GB",
+            "config": "XVIP / Android 10.0 / 8 cores / 16GB / 256GB",
             "current_price": 10.95,
             "config_similarity_score": 87.2,
             "comparability_level": "adjusted_match",
@@ -891,12 +891,12 @@
           }
         },
         "competitor_median_price": 10.95,
-        "ugphone_relative_index": 54.703197,
+        "ugphone_relative_index": 63.835617,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       }
     ],
     "30": [
@@ -918,7 +918,7 @@
         "exclusion_reason": "",
         "ugphone_price": 6.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -943,7 +943,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
             "current_price": 10.95,
             "config_similarity_score": 67,
             "comparability_level": "weak_match",
@@ -985,9 +985,9 @@
         "ugphone_relative_index": 69.96997,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_10___4_cores___4gb___64gb",
@@ -1007,7 +1007,7 @@
         "exclusion_reason": "",
         "ugphone_price": 7.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1032,7 +1032,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
             "current_price": 10.95,
             "config_similarity_score": 78,
             "comparability_level": "adjusted_match",
@@ -1074,9 +1074,9 @@
         "ugphone_relative_index": 66.750209,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_12___4_cores___4gb___64gb",
@@ -1096,7 +1096,7 @@
         "exclusion_reason": "",
         "ugphone_price": 7.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1121,7 +1121,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 12 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 12.0 / 8 cores / 4GB / 64GB",
             "current_price": 10.95,
             "config_similarity_score": 78,
             "comparability_level": "adjusted_match",
@@ -1163,9 +1163,9 @@
         "ugphone_relative_index": 66.750209,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_13___4_cores___4gb___64gb",
@@ -1185,7 +1185,7 @@
         "exclusion_reason": "",
         "ugphone_price": 7.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1210,7 +1210,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 15 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 15.0 / 8 cores / 4GB / 64GB",
             "current_price": 10.95,
             "config_similarity_score": 75,
             "comparability_level": "adjusted_match",
@@ -1252,9 +1252,9 @@
         "ugphone_relative_index": 66.750209,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
@@ -1272,9 +1272,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 9.99,
+        "ugphone_price": 11.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1299,7 +1299,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 10.0 / 8 cores / 6GB / 80GB",
             "current_price": 12.95,
             "config_similarity_score": 78.85,
             "comparability_level": "adjusted_match",
@@ -1338,12 +1338,12 @@
           }
         },
         "competitor_median_price": 12.95,
-        "ugphone_relative_index": 77.142857,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 92.586873,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -1363,7 +1363,7 @@
         "exclusion_reason": "",
         "ugphone_price": 11.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1388,7 +1388,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
             "current_price": 12.95,
             "config_similarity_score": 78.85,
             "comparability_level": "adjusted_match",
@@ -1430,9 +1430,9 @@
         "ugphone_relative_index": 92.586873,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -1452,7 +1452,7 @@
         "exclusion_reason": "",
         "ugphone_price": 11.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1477,7 +1477,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
             "current_price": 12.95,
             "config_similarity_score": 75.85,
             "comparability_level": "adjusted_match",
@@ -1519,9 +1519,9 @@
         "ugphone_relative_index": 100.167084,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -1539,9 +1539,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 14.99,
+        "ugphone_price": 17.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1566,7 +1566,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "SVIP",
-            "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+            "config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
             "current_price": 15.95,
             "config_similarity_score": 90,
             "comparability_level": "strong_match",
@@ -1605,12 +1605,12 @@
           }
         },
         "competitor_median_price": 15.99,
-        "ugphone_relative_index": 93.746091,
-        "market_position_label": "competitive",
+        "ugphone_relative_index": 112.507817,
+        "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -1630,7 +1630,7 @@
         "exclusion_reason": "",
         "ugphone_price": 17.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1655,9 +1655,9 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "SVIP",
-            "config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+            "config": "SVIP / Android 12.0 / 8 cores / 8GB / 128GB",
             "current_price": 15.95,
-            "config_similarity_score": 87,
+            "config_similarity_score": 83,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -1697,9 +1697,9 @@
         "ugphone_relative_index": 112.507817,
         "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -1717,9 +1717,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 22.99,
+        "ugphone_price": 24.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1744,7 +1744,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "XVIP",
-            "config": "XVIP / Android 10 / 8 cores / 16GB / 256GB",
+            "config": "XVIP / Android 10.0 / 8 cores / 16GB / 256GB",
             "current_price": 33.95,
             "config_similarity_score": 87.2,
             "comparability_level": "adjusted_match",
@@ -1783,12 +1783,12 @@
           }
         },
         "competitor_median_price": 33.95,
-        "ugphone_relative_index": 67.717231,
+        "ugphone_relative_index": 73.608247,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       }
     ],
     "90": [
@@ -1808,9 +1808,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 18.99,
+        "ugphone_price": 22.989999,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1835,7 +1835,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
             "current_price": 29.949999,
             "config_similarity_score": 67,
             "comparability_level": "weak_match",
@@ -1874,12 +1874,12 @@
           }
         },
         "competitor_median_price": 20.990001,
-        "ugphone_relative_index": 90.471649,
-        "market_position_label": "competitive",
+        "ugphone_relative_index": 109.528337,
+        "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_10___4_cores___4gb___64gb",
@@ -1897,9 +1897,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 19.989999,
+        "ugphone_price": 28.989999,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1924,7 +1924,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
             "current_price": 29.949999,
             "config_similarity_score": 78,
             "comparability_level": "adjusted_match",
@@ -1963,12 +1963,12 @@
           }
         },
         "competitor_median_price": 27.969999,
-        "ugphone_relative_index": 71.469431,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 103.646765,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_12___4_cores___4gb___64gb",
@@ -1986,9 +1986,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 19.989999,
+        "ugphone_price": 28.989999,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2013,7 +2013,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 12 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 12.0 / 8 cores / 4GB / 64GB",
             "current_price": 29.949999,
             "config_similarity_score": 78,
             "comparability_level": "adjusted_match",
@@ -2052,12 +2052,12 @@
           }
         },
         "competitor_median_price": 27.969999,
-        "ugphone_relative_index": 71.469431,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 103.646765,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_13___4_cores___4gb___64gb",
@@ -2077,7 +2077,7 @@
         "exclusion_reason": "",
         "ugphone_price": 28.989999,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2102,7 +2102,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 15 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 15.0 / 8 cores / 4GB / 64GB",
             "current_price": 29.949999,
             "config_similarity_score": 75,
             "comparability_level": "adjusted_match",
@@ -2144,9 +2144,9 @@
         "ugphone_relative_index": 103.646765,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
@@ -2164,9 +2164,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 29.990001,
+        "ugphone_price": 32.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2191,7 +2191,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 10.0 / 8 cores / 6GB / 80GB",
             "current_price": 35.949999,
             "config_similarity_score": 78.85,
             "comparability_level": "adjusted_match",
@@ -2230,12 +2230,12 @@
           }
         },
         "competitor_median_price": 26.990001,
-        "ugphone_relative_index": 111.115227,
-        "market_position_label": "slightly_high",
+        "ugphone_relative_index": 122.230455,
+        "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -2255,7 +2255,7 @@
         "exclusion_reason": "",
         "ugphone_price": 32.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2280,7 +2280,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
             "current_price": 35.949999,
             "config_similarity_score": 78.85,
             "comparability_level": "adjusted_match",
@@ -2322,9 +2322,9 @@
         "ugphone_relative_index": 122.230455,
         "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -2344,7 +2344,7 @@
         "exclusion_reason": "",
         "ugphone_price": 32.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2369,7 +2369,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
             "current_price": 35.949999,
             "config_similarity_score": 75.85,
             "comparability_level": "adjusted_match",
@@ -2411,9 +2411,9 @@
         "ugphone_relative_index": 104.83,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -2431,9 +2431,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 43.989999,
+        "ugphone_price": 50.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2458,7 +2458,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "SVIP",
-            "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+            "config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
             "current_price": 45.950001,
             "config_similarity_score": 90,
             "comparability_level": "strong_match",
@@ -2497,12 +2497,12 @@
           }
         },
         "competitor_median_price": 45.950001,
-        "ugphone_relative_index": 95.73449,
-        "market_position_label": "competitive",
+        "ugphone_relative_index": 110.968444,
+        "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -2522,7 +2522,7 @@
         "exclusion_reason": "",
         "ugphone_price": 50.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2547,9 +2547,9 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "SVIP",
-            "config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+            "config": "SVIP / Android 12.0 / 8 cores / 8GB / 128GB",
             "current_price": 45.950001,
-            "config_similarity_score": 87,
+            "config_similarity_score": 83,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -2589,9 +2589,9 @@
         "ugphone_relative_index": 110.968444,
         "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -2609,9 +2609,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 69.99,
+        "ugphone_price": 72.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2636,7 +2636,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "XVIP",
-            "config": "XVIP / Android 10 / 8 cores / 16GB / 256GB",
+            "config": "XVIP / Android 10.0 / 8 cores / 16GB / 256GB",
             "current_price": 95.949999,
             "config_similarity_score": 87.2,
             "comparability_level": "adjusted_match",
@@ -2675,12 +2675,12 @@
           }
         },
         "competitor_median_price": 69.99,
-        "ugphone_relative_index": 100.0,
+        "ugphone_relative_index": 104.286327,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       }
     ],
     "180": [
@@ -2702,7 +2702,7 @@
         "exclusion_reason": "",
         "ugphone_price": 37.990002,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2723,7 +2723,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
             "current_price": null,
             "config_similarity_score": 58,
             "comparability_level": "not_comparable",
@@ -2761,9 +2761,9 @@
         "ugphone_relative_index": 95.022521,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_10___4_cores___4gb___64gb",
@@ -2781,9 +2781,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 39.99,
+        "ugphone_price": 45.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2804,7 +2804,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
             "current_price": null,
             "config_similarity_score": 69,
             "comparability_level": "weak_match",
@@ -2839,12 +2839,12 @@
           }
         },
         "competitor_median_price": 50.980002,
-        "ugphone_relative_index": 78.442523,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 90.211844,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_12___4_cores___4gb___64gb",
@@ -2862,9 +2862,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 39.99,
+        "ugphone_price": 45.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2885,7 +2885,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 12 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 12.0 / 8 cores / 4GB / 64GB",
             "current_price": null,
             "config_similarity_score": 69,
             "comparability_level": "weak_match",
@@ -2920,12 +2920,12 @@
           }
         },
         "competitor_median_price": 50.980002,
-        "ugphone_relative_index": 78.442523,
-        "market_position_label": "below_market",
+        "ugphone_relative_index": 90.211844,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_13___4_cores___4gb___64gb",
@@ -2945,7 +2945,7 @@
         "exclusion_reason": "",
         "ugphone_price": 45.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2966,7 +2966,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 15 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 15.0 / 8 cores / 4GB / 64GB",
             "current_price": null,
             "config_similarity_score": 66,
             "comparability_level": "weak_match",
@@ -3004,9 +3004,9 @@
         "ugphone_relative_index": 90.211844,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
@@ -3026,7 +3026,7 @@
         "exclusion_reason": "",
         "ugphone_price": 56.989998,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3047,7 +3047,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 10.0 / 8 cores / 6GB / 80GB",
             "current_price": null,
             "config_similarity_score": 69.85,
             "comparability_level": "weak_match",
@@ -3085,9 +3085,9 @@
         "ugphone_relative_index": 111.788929,
         "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -3107,7 +3107,7 @@
         "exclusion_reason": "",
         "ugphone_price": 56.989998,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3128,7 +3128,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
             "current_price": null,
             "config_similarity_score": 69.85,
             "comparability_level": "weak_match",
@@ -3166,9 +3166,9 @@
         "ugphone_relative_index": 111.788929,
         "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -3188,7 +3188,7 @@
         "exclusion_reason": "",
         "ugphone_price": 56.989998,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3209,7 +3209,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
             "current_price": null,
             "config_similarity_score": 66.85,
             "comparability_level": "weak_match",
@@ -3247,9 +3247,9 @@
         "ugphone_relative_index": null,
         "market_position_label": "unknown",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -3269,7 +3269,7 @@
         "exclusion_reason": "",
         "ugphone_price": 85.990002,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3290,7 +3290,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "SVIP",
-            "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+            "config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
             "current_price": null,
             "config_similarity_score": 81,
             "comparability_level": "adjusted_match",
@@ -3328,9 +3328,9 @@
         "ugphone_relative_index": 111.704341,
         "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -3350,7 +3350,7 @@
         "exclusion_reason": "",
         "ugphone_price": 85.990002,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3371,10 +3371,10 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "SVIP",
-            "config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+            "config": "SVIP / Android 12.0 / 8 cores / 8GB / 128GB",
             "current_price": null,
-            "config_similarity_score": 78,
-            "comparability_level": "adjusted_match",
+            "config_similarity_score": 74,
+            "comparability_level": "weak_match",
             "included_in_core_median": false,
             "exclusion_reason": "actual_duration_bucket_mismatch",
             "pairing_source": "manual_mapping",
@@ -3409,9 +3409,9 @@
         "ugphone_relative_index": 111.704341,
         "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -3429,9 +3429,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 129.99,
+        "ugphone_price": 138.99,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3452,7 +3452,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "XVIP",
-            "config": "XVIP / Android 10 / 8 cores / 16GB / 256GB",
+            "config": "XVIP / Android 10.0 / 8 cores / 16GB / 256GB",
             "current_price": null,
             "config_similarity_score": 78.2,
             "comparability_level": "adjusted_match",
@@ -3487,12 +3487,12 @@
           }
         },
         "competitor_median_price": 135.979998,
-        "ugphone_relative_index": 95.594942,
+        "ugphone_relative_index": 102.213562,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       }
     ],
     "365": [
@@ -3514,7 +3514,7 @@
         "exclusion_reason": "",
         "ugphone_price": 74.990004,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3539,7 +3539,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
             "current_price": 79.950002,
             "config_similarity_score": 67,
             "comparability_level": "weak_match",
@@ -3581,9 +3581,9 @@
         "ugphone_relative_index": 108.99709,
         "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_10___4_cores___4gb___64gb",
@@ -3601,9 +3601,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 79.990005,
+        "ugphone_price": 82.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3628,7 +3628,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
             "current_price": 79.950002,
             "config_similarity_score": 78,
             "comparability_level": "adjusted_match",
@@ -3667,12 +3667,12 @@
           }
         },
         "competitor_median_price": 81.259999,
-        "ugphone_relative_index": 98.437123,
+        "ugphone_relative_index": 102.128972,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_12___4_cores___4gb___64gb",
@@ -3692,7 +3692,7 @@
         "exclusion_reason": "",
         "ugphone_price": 82.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3717,7 +3717,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 12 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 12.0 / 8 cores / 4GB / 64GB",
             "current_price": 79.950002,
             "config_similarity_score": 78,
             "comparability_level": "adjusted_match",
@@ -3759,9 +3759,9 @@
         "ugphone_relative_index": 102.128972,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "gvip___android_13___4_cores___4gb___64gb",
@@ -3781,7 +3781,7 @@
         "exclusion_reason": "",
         "ugphone_price": 82.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3806,7 +3806,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "VIP",
-            "config": "VIP / Android 15 / 8 cores / 4GB / 64GB",
+            "config": "VIP / Android 15.0 / 8 cores / 4GB / 64GB",
             "current_price": 79.950002,
             "config_similarity_score": 75,
             "comparability_level": "adjusted_match",
@@ -3848,9 +3848,9 @@
         "ugphone_relative_index": 102.128972,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
@@ -3870,7 +3870,7 @@
         "exclusion_reason": "",
         "ugphone_price": 82.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3895,7 +3895,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 10.0 / 8 cores / 6GB / 80GB",
             "current_price": 95.949995,
             "config_similarity_score": 78.85,
             "comparability_level": "adjusted_match",
@@ -3937,9 +3937,9 @@
         "ugphone_relative_index": 100.508666,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -3959,7 +3959,7 @@
         "exclusion_reason": "",
         "ugphone_price": 82.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3984,7 +3984,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
             "current_price": 95.949995,
             "config_similarity_score": 78.85,
             "comparability_level": "adjusted_match",
@@ -4026,9 +4026,9 @@
         "ugphone_relative_index": 100.508666,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -4048,7 +4048,7 @@
         "exclusion_reason": "",
         "ugphone_price": 82.990001,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -4073,7 +4073,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "KVIP",
-            "config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+            "config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
             "current_price": 95.949995,
             "config_similarity_score": 75.85,
             "comparability_level": "adjusted_match",
@@ -4115,9 +4115,9 @@
         "ugphone_relative_index": 99.424943,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -4162,7 +4162,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "SVIP",
-            "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+            "config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
             "current_price": 139.950003,
             "config_similarity_score": 90,
             "comparability_level": "strong_match",
@@ -4204,9 +4204,9 @@
         "ugphone_relative_index": 108.633711,
         "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -4251,9 +4251,9 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "SVIP",
-            "config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+            "config": "SVIP / Android 12.0 / 8 cores / 8GB / 128GB",
             "current_price": 139.950003,
-            "config_similarity_score": 87,
+            "config_similarity_score": 83,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -4293,9 +4293,9 @@
         "ugphone_relative_index": 143.888042,
         "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -4313,9 +4313,9 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 249.989996,
+        "ugphone_price": 254.989998,
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -4340,7 +4340,7 @@
           "Redfinger": {
             "platform": "Redfinger",
             "product_model": "XVIP",
-            "config": "XVIP / Android 10 / 8 cores / 16GB / 256GB",
+            "config": "XVIP / Android 10.0 / 8 cores / 16GB / 256GB",
             "current_price": null,
             "config_similarity_score": 78.2,
             "comparability_level": "adjusted_match",
@@ -4375,12 +4375,12 @@
           }
         },
         "competitor_median_price": 253.990001,
-        "ugphone_relative_index": 98.425133,
+        "ugphone_relative_index": 100.393715,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "price_change_pct": null,
+        "reason_code": null,
+        "alert_level": null
       }
     ]
   },
@@ -4428,7 +4428,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "VIP",
-          "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+          "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
           "current_price": 0.99,
           "config_similarity_score": 67,
           "comparability_level": "weak_match",
@@ -4514,7 +4514,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "VIP",
-          "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+          "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
           "current_price": 0.99,
           "config_similarity_score": 58,
           "comparability_level": "not_comparable",
@@ -4600,7 +4600,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "VIP",
-          "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+          "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
           "current_price": 0.99,
           "config_similarity_score": 78,
           "comparability_level": "adjusted_match",
@@ -4659,7 +4659,7 @@
       "duration_parse_status": "success",
       "exclude_from_core_price_comparison": true,
       "exclusion_reason": "non_core_duration_bucket",
-      "ugphone_price": 5.69,
+      "ugphone_price": 5.99,
       "has_price_change": false,
       "promotion_text_changed": false,
       "competitors": {
@@ -4686,7 +4686,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "VIP",
-          "config": "VIP / Android 10 / 8 cores / 4GB / 64GB",
+          "config": "VIP / Android 10.0 / 8 cores / 4GB / 64GB",
           "current_price": 0.99,
           "config_similarity_score": 69,
           "comparability_level": "weak_match",
@@ -4772,7 +4772,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "VIP",
-          "config": "VIP / Android 12 / 8 cores / 4GB / 64GB",
+          "config": "VIP / Android 12.0 / 8 cores / 4GB / 64GB",
           "current_price": 0.99,
           "config_similarity_score": 78,
           "comparability_level": "adjusted_match",
@@ -4831,7 +4831,7 @@
       "duration_parse_status": "success",
       "exclude_from_core_price_comparison": true,
       "exclusion_reason": "non_core_duration_bucket",
-      "ugphone_price": 5.69,
+      "ugphone_price": 5.99,
       "has_price_change": false,
       "promotion_text_changed": false,
       "competitors": {
@@ -4858,7 +4858,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "VIP",
-          "config": "VIP / Android 12 / 8 cores / 4GB / 64GB",
+          "config": "VIP / Android 12.0 / 8 cores / 4GB / 64GB",
           "current_price": 0.99,
           "config_similarity_score": 69,
           "comparability_level": "weak_match",
@@ -4944,7 +4944,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "VIP",
-          "config": "VIP / Android 15 / 8 cores / 4GB / 64GB",
+          "config": "VIP / Android 15.0 / 8 cores / 4GB / 64GB",
           "current_price": 0.99,
           "config_similarity_score": 75,
           "comparability_level": "adjusted_match",
@@ -5030,7 +5030,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "VIP",
-          "config": "VIP / Android 15 / 8 cores / 4GB / 64GB",
+          "config": "VIP / Android 15.0 / 8 cores / 4GB / 64GB",
           "current_price": 0.99,
           "config_similarity_score": 66,
           "comparability_level": "weak_match",
@@ -5116,7 +5116,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "KVIP",
-          "config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
+          "config": "KVIP / Android 10.0 / 8 cores / 6GB / 80GB",
           "current_price": 1.19,
           "config_similarity_score": 78.85,
           "comparability_level": "adjusted_match",
@@ -5202,7 +5202,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "KVIP",
-          "config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
+          "config": "KVIP / Android 10.0 / 8 cores / 6GB / 80GB",
           "current_price": 1.19,
           "config_similarity_score": 69.85,
           "comparability_level": "weak_match",
@@ -5288,7 +5288,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "KVIP",
-          "config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
+          "config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
           "current_price": 1.19,
           "config_similarity_score": 78.85,
           "comparability_level": "adjusted_match",
@@ -5374,7 +5374,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "KVIP",
-          "config": "KVIP / Android 12 / 8 cores / 6GB / 80GB",
+          "config": "KVIP / Android 12.0 / 8 cores / 6GB / 80GB",
           "current_price": 1.19,
           "config_similarity_score": 69.85,
           "comparability_level": "weak_match",
@@ -5460,7 +5460,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "KVIP",
-          "config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+          "config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
           "current_price": 1.19,
           "config_similarity_score": 75.85,
           "comparability_level": "adjusted_match",
@@ -5546,7 +5546,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "KVIP",
-          "config": "KVIP / Android 15 / 8 cores / 6GB / 80GB",
+          "config": "KVIP / Android 15.0 / 8 cores / 6GB / 80GB",
           "current_price": 1.19,
           "config_similarity_score": 66.85,
           "comparability_level": "weak_match",
@@ -5632,7 +5632,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "SVIP",
-          "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+          "config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
           "current_price": null,
           "config_similarity_score": 81,
           "comparability_level": "adjusted_match",
@@ -5714,7 +5714,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "SVIP",
-          "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
+          "config": "SVIP / Android 10.0 / 8 cores / 8GB / 128GB",
           "current_price": null,
           "config_similarity_score": 81,
           "comparability_level": "adjusted_match",
@@ -5796,10 +5796,10 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "SVIP",
-          "config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+          "config": "SVIP / Android 12.0 / 8 cores / 8GB / 128GB",
           "current_price": null,
-          "config_similarity_score": 78,
-          "comparability_level": "adjusted_match",
+          "config_similarity_score": 74,
+          "comparability_level": "weak_match",
           "included_in_core_median": false,
           "exclusion_reason": "actual_duration_bucket_mismatch",
           "pairing_source": "manual_mapping",
@@ -5878,10 +5878,10 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "SVIP",
-          "config": "SVIP / Android 15 / 8 cores / 8GB / 128GB",
+          "config": "SVIP / Android 12.0 / 8 cores / 8GB / 128GB",
           "current_price": null,
-          "config_similarity_score": 78,
-          "comparability_level": "adjusted_match",
+          "config_similarity_score": 74,
+          "comparability_level": "weak_match",
           "included_in_core_median": false,
           "exclusion_reason": "actual_duration_bucket_mismatch",
           "pairing_source": "manual_mapping",
@@ -5933,7 +5933,7 @@
       "duration_parse_status": "success",
       "exclude_from_core_price_comparison": true,
       "exclusion_reason": "non_core_duration_bucket",
-      "ugphone_price": 2.99,
+      "ugphone_price": 3.99,
       "has_price_change": false,
       "promotion_text_changed": false,
       "competitors": {
@@ -5960,7 +5960,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "XVIP",
-          "config": "XVIP / Android 10 / 8 cores / 16GB / 256GB",
+          "config": "XVIP / Android 10.0 / 8 cores / 16GB / 256GB",
           "current_price": null,
           "config_similarity_score": 78.2,
           "comparability_level": "adjusted_match",
@@ -6015,7 +6015,7 @@
       "duration_parse_status": "success",
       "exclude_from_core_price_comparison": true,
       "exclusion_reason": "non_core_duration_bucket",
-      "ugphone_price": 12.99,
+      "ugphone_price": 14.99,
       "has_price_change": false,
       "promotion_text_changed": false,
       "competitors": {
@@ -6042,7 +6042,7 @@
         "Redfinger": {
           "platform": "Redfinger",
           "product_model": "XVIP",
-          "config": "XVIP / Android 10 / 8 cores / 16GB / 256GB",
+          "config": "XVIP / Android 10.0 / 8 cores / 16GB / 256GB",
           "current_price": null,
           "config_similarity_score": 78.2,
           "comparability_level": "adjusted_match",
