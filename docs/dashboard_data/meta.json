@@ -1,9 +1,9 @@
 {
   "is_mock_data": false,
   "source": "dashboard_export",
-  "source_output_dir": "output\\latest",
-  "generated_at_utc": "2026-05-12T02:12:10+00:00",
-  "last_run_at_utc": "2026-05-12T02:11:52+00:00",
+  "source_output_dir": "output\\cloud_phone_monitor_20260512_033456",
+  "generated_at_utc": "2026-05-12T03:49:03+00:00",
+  "last_run_at_utc": "2026-05-12T03:39:46+00:00",
   "last_run_date": "2026-05-12",
   "safe_data_only": true
 }
