@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T02:21:50+00:00",
+  "updated_at": "2026-05-14T02:08:41+00:00",
   "baseline_config_count": 10,
   "core_duration_buckets": [
     7,
@@ -10,14 +10,14 @@
   ],
   "rows_compared": 50,
   "market_position_counts": {
-    "below_market": 20,
-    "competitive": 17,
+    "below_market": 21,
+    "competitive": 16,
     "slightly_high": 6,
     "high": 6,
     "unknown": 1
   },
   "above_market_count": 12,
-  "below_market_count": 20,
+  "below_market_count": 21,
   "attention_items": [
     {
       "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",

@@ -113,7 +113,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 2.99,
+        "ugphone_price": 1.69,
         "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
@@ -179,7 +179,7 @@
           }
         },
         "competitor_median_price": 4.47,
-        "ugphone_relative_index": 66.890382,
+        "ugphone_relative_index": 37.807606,
         "market_position_label": "below_market",
         "promotion_text": null,
         "price_change_pct": 0.0,
@@ -202,7 +202,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 2.99,
+        "ugphone_price": 1.69,
         "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
@@ -268,7 +268,7 @@
           }
         },
         "competitor_median_price": 4.47,
-        "ugphone_relative_index": 66.890382,
+        "ugphone_relative_index": 37.807606,
         "market_position_label": "below_market",
         "promotion_text": null,
         "price_change_pct": 0.0,
@@ -380,7 +380,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 4.29,
+        "ugphone_price": 2.49,
         "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
@@ -446,7 +446,7 @@
           }
         },
         "competitor_median_price": 4.95,
-        "ugphone_relative_index": 86.666665,
+        "ugphone_relative_index": 50.303032,
         "market_position_label": "below_market",
         "promotion_text": null,
         "price_change_pct": 0.0,
@@ -469,7 +469,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 4.29,
+        "ugphone_price": 2.49,
         "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
@@ -535,7 +535,7 @@
           }
         },
         "competitor_median_price": 4.95,
-        "ugphone_relative_index": 86.666665,
+        "ugphone_relative_index": 50.303032,
         "market_position_label": "below_market",
         "promotion_text": null,
         "price_change_pct": 0.0,
@@ -1005,7 +1005,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 7.99,
+        "ugphone_price": 4.99,
         "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
@@ -1071,7 +1071,7 @@
           }
         },
         "competitor_median_price": 11.97,
-        "ugphone_relative_index": 66.750209,
+        "ugphone_relative_index": 41.687552,
         "market_position_label": "below_market",
         "promotion_text": null,
         "price_change_pct": 0.0,
@@ -1094,7 +1094,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 7.99,
+        "ugphone_price": 4.99,
         "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
@@ -1160,7 +1160,7 @@
           }
         },
         "competitor_median_price": 11.97,
-        "ugphone_relative_index": 66.750209,
+        "ugphone_relative_index": 41.687552,
         "market_position_label": "below_market",
         "promotion_text": null,
         "price_change_pct": 0.0,
@@ -1272,7 +1272,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 9.99,
+        "ugphone_price": 5.99,
         "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
@@ -1338,7 +1338,7 @@
           }
         },
         "competitor_median_price": 12.95,
-        "ugphone_relative_index": 77.142857,
+        "ugphone_relative_index": 46.254826,
         "market_position_label": "below_market",
         "promotion_text": null,
         "price_change_pct": 0.0,
@@ -1361,7 +1361,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 11.99,
+        "ugphone_price": 5.99,
         "has_price_change": false,
         "promotion_text_changed": true,
         "competitors": {
@@ -1427,8 +1427,8 @@
           }
         },
         "competitor_median_price": 12.95,
-        "ugphone_relative_index": 92.586873,
-        "market_position_label": "competitive",
+        "ugphone_relative_index": 46.254826,
+        "market_position_label": "below_market",
         "promotion_text": null,
         "price_change_pct": 0.0,
         "reason_code": "promotion_text_changed",
@@ -3475,9 +3475,9 @@
             "included_in_core_median": true,
             "exclusion_reason": "",
             "pairing_source": "manual_mapping",
-            "promotion_text": "180 days-Special Offer; You Save: $113 (54%); 4.23-4.28 特价",
-            "price_variant": "public_offer",
-            "price_variant_label": "公开活动实付价",
+            "promotion_text": "180 days; 日常价",
+            "price_variant": "regular",
+            "price_variant_label": "日常实付价",
             "include_in_core_price_monitor": true,
             "variant_exclusion_reason": "",
             "actual_duration_days": 180,
