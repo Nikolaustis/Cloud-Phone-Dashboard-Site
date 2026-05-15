@@ -65,10 +65,10 @@
     "config": "KVIP / A10 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 13.995,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 14.989999,
+    "current_promotion_text": "45 days-Special Offer; You Save: $6.49(25%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -281,10 +281,10 @@
     "config": "KVIP / A12 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 13.995,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 14.989999,
+    "current_promotion_text": "45 days-Special Offer; You Save: $6.49(25%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -401,10 +401,10 @@
     "config": "KVIP / A14 / 6 cores / 8GB / 41GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 13.995,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 14.989999,
+    "current_promotion_text": "45 days-Special Offer; You Save: $6.49(25%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -520,6 +520,18 @@
     "product_model": "KVIP",
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": "other",
+    "duration_display": "45天",
+    "current_price": 14.989999,
+    "current_promotion_text": "45 days-Special Offer; You Save: $6.49(25%); 4.23-4.28 特价",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "short_duration_excluded"
+  },
+  {
+    "platform": "LDCloud",
+    "product_model": "KVIP",
+    "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
+    "duration_bucket": "other",
     "duration_display": "60天",
     "current_price": 19.99,
     "current_promotion_text": "60 days; Recommend; 日常价",
@@ -617,10 +629,10 @@
     "config": "MVIP / A10 / 8 cores / 16GB / 185GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 34.995,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 39.99,
+    "current_promotion_text": "45 days-Special Offer; You Save: $24.99(31%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -737,10 +749,10 @@
     "config": "MVIP / A12 / 8 cores / 16GB / 185GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 34.995,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 39.99,
+    "current_promotion_text": "45 days-Special Offer; You Save: $24.99(31%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -857,10 +869,10 @@
     "config": "MVIP / A14 / 12 cores / 16GB / 103GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 34.995,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 39.99,
+    "current_promotion_text": "45 days-Special Offer; You Save: $24.99(31%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -977,10 +989,10 @@
     "config": "VIP / A10 / 3 cores / 4GB / 45GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 11.495,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 11.95,
+    "current_promotion_text": "45 days-Special Offer; You Save: $4.49(22%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -1193,10 +1205,10 @@
     "config": "VIP / A12 / 3 cores / 4GB / 45GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 11.495,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 11.95,
+    "current_promotion_text": "45 days-Special Offer; You Save: $4.49(22%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -1313,10 +1325,10 @@
     "config": "VIP / A14 / 4 cores / 6GB / 29GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 11.495,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 11.95,
+    "current_promotion_text": "45 days-Special Offer; You Save: $4.49(22%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -1433,10 +1445,10 @@
     "config": "XVIP / A10 / 8 cores / 8GB / 90GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 20.995,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 19.990001,
+    "current_promotion_text": "45 days-Special Offer; You Save: $9.99(25%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -1649,10 +1661,10 @@
     "config": "XVIP / A12 / 8 cores / 8GB / 90GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 20.995,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 19.990001,
+    "current_promotion_text": "45 days-Special Offer; You Save: $9.99(25%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -1769,10 +1781,10 @@
     "config": "XVIP / A14 / 10 cores / 14GB / 68GB",
     "duration_bucket": "other",
     "duration_display": "45天",
-    "current_price": 20.995,
-    "current_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
+    "current_price": 19.990001,
+    "current_promotion_text": "45 days-Special Offer; You Save: $9.99(25%); 4.23-4.28 特价",
     "previous_promotion_text": "45 days-Duet Pack; Get 2 Devices in total; 4.23-4.28 分拆两台",
-    "promotion_text_changed": false,
+    "promotion_text_changed": true,
     "reason_code": "short_duration_excluded"
   },
   {
@@ -1946,66 +1958,6 @@
   {
     "platform": "Redfinger",
     "product_model": "KVIP",
-    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
-    "duration_bucket": "other",
-    "duration_display": "1天",
-    "current_price": 1.19,
-    "current_promotion_text": "≈1.19/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "short_duration_excluded"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "KVIP",
-    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 12.95,
-    "current_promotion_text": "≈0.43/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "KVIP",
-    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 95.949995,
-    "current_promotion_text": "≈0.26/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "KVIP",
-    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 4.95,
-    "current_promotion_text": "≈0.71/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "KVIP",
-    "config": "KVIP / A12.0 / 8 cores / 6GB / 80GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 35.949999,
-    "current_promotion_text": "≈0.40/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "KVIP",
     "config": "KVIP / A12 / 8 cores / 6GB / 80GB",
     "duration_bucket": "other",
     "duration_display": "1天",
@@ -2758,66 +2710,6 @@
     "previous_promotion_text": "≈0.33/day",
     "promotion_text_changed": false,
     "reason_code": "price_unchanged"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": "other",
-    "duration_display": "1天",
-    "current_price": 0.99,
-    "current_promotion_text": "≈0.99/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "short_duration_excluded"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 10.95,
-    "current_promotion_text": "≈0.37/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 79.950002,
-    "current_promotion_text": "≈0.22/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 3.95,
-    "current_promotion_text": "≈0.56/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A15.0 / 8 cores / 4GB / 64GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 29.949999,
-    "current_promotion_text": "≈0.33/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "Redfinger",
@@ -3129,7 +3021,7 @@
     "current_promotion_text": "48H SAVE $10; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3153,7 +3045,7 @@
     "current_promotion_text": "48H SAVE $3+; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3213,7 +3105,7 @@
     "current_promotion_text": "48H SAVE $10; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3237,7 +3129,7 @@
     "current_promotion_text": "48H SAVE $3+; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3381,7 +3273,7 @@
     "current_promotion_text": "48H SAVE $10; activity",
     "previous_promotion_text": "25% off for a limited time; activity; 🔥Labor Day Sale: -40%🔥; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3405,7 +3297,7 @@
     "current_promotion_text": "48H SAVE $3+; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3465,7 +3357,7 @@
     "current_promotion_text": "48H SAVE $10; activity",
     "previous_promotion_text": "🔥Labor Day Sale: -40%🔥; activity; 25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3489,7 +3381,7 @@
     "current_promotion_text": "48H SAVE $3+; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
