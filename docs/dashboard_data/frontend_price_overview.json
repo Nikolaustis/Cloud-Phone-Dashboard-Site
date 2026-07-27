@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T06:36:16+00:00",
+  "updated_at": "2026-07-27T02:41:35+00:00",
   "baseline_config_count": 18,
   "core_duration_buckets": [
     1,
@@ -14,13 +14,14 @@
   ],
   "rows_compared": 110,
   "market_position_counts": {
-    "high": 26,
-    "below_market": 49,
-    "slightly_high": 12,
-    "competitive": 23
+    "high": 24,
+    "below_market": 45,
+    "slightly_high": 11,
+    "competitive": 27,
+    "unknown": 3
   },
-  "above_market_count": 38,
-  "below_market_count": 49,
+  "above_market_count": 35,
+  "below_market_count": 45,
   "attention_items": [
     {
       "ug_config_id": "uvip___android_10___3_cores___3gb___30gb",
@@ -47,7 +48,7 @@
           "product_model": "Basic",
           "config": "Basic / Android 10 / 6 cores / 4GB / 32GB",
           "current_price": 0.45,
-          "config_similarity_score": 80.33,
+          "config_similarity_score": 82.33,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",
@@ -87,7 +88,7 @@
           "product_model": "VIP",
           "config": "VIP / Android 10 / 3 cores / 4GB / 45GB",
           "current_price": null,
-          "config_similarity_score": 73,
+          "config_similarity_score": 73.5,
           "comparability_level": "weak_match",
           "included_in_core_median": false,
           "exclusion_reason": "actual_duration_bucket_mismatch",
