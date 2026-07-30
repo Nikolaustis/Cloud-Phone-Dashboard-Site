@@ -246,7 +246,7 @@
         "本次活动文案": "180 days-July Promo; You Save: $32.95(42%); 六月180天特价：35.99、44.99、63.99、110.99",
         "促销关键词提醒": "promo",
         "基准行数": 1,
-        "本次匹配行数": 2,
+        "本次匹配行数": 1,
         "商品身份键": "ldcloud|cloud_phone|cloud phone|kvip|kvip14|14|6 cores|8gb|41gb|day|180 day",
         "备注": "本次活动文案命中促销关键词: promo"
       }
@@ -517,7 +517,7 @@
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
         "活动文案": "Limited Time Offer",
-        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Taiwan; Japan; South Korea; Italy",
+        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; South Korea; Italy",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_same; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_matching_subscription_card; footer_order_total_excluded; current_price_overlay_applied; device_count_defaulted_to_1"
       },
       {
@@ -538,7 +538,7 @@
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
         "活动文案": "Limited Time Offer",
-        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Taiwan; Japan; South Korea; Italy",
+        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; South Korea; Italy",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_matching_subscription_card; footer_order_total_excluded; current_price_overlay_applied; device_count_defaulted_to_1"
       },
       {
@@ -559,7 +559,7 @@
         "可比性等级": "adjusted_match",
         "配对来源": "manual_mapping",
         "活动文案": "Limited Time Offer",
-        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Taiwan; Japan; South Korea; Italy",
+        "支持服务器地区": "Hong Kong; Indonesia; Thailand; Singapore; United States; Vietnam; Germany; Brazil; Japan; Taiwan; South Korea; Italy",
         "备注": "手工推荐: Basic / Android 10 / 6C / 4GB / 32GB；CPU/RAM 高于 UG，核心判断需谨慎。; android_competitor_higher; cpu_competitor_higher; ram_competitor_higher; storage_competitor_higher; region_overlap; duration_same; api_config_good_time; source_config_name=Basic; purchase_mode=subscription; quantity=1; api_currentPrice_matching_subscription_card; footer_order_total_excluded; current_price_overlay_applied; device_count_defaulted_to_1"
       },
       {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T02:43:34+00:00",
+  "updated_at": "2026-07-30T01:26:32+00:00",
   "baseline_config_count": 18,
   "core_duration_buckets": [
     1,
@@ -14,14 +14,13 @@
   ],
   "rows_compared": 110,
   "market_position_counts": {
-    "high": 24,
-    "below_market": 45,
-    "slightly_high": 11,
-    "competitive": 27,
-    "unknown": 3
+    "high": 26,
+    "below_market": 49,
+    "slightly_high": 12,
+    "competitive": 23
   },
-  "above_market_count": 35,
-  "below_market_count": 45,
+  "above_market_count": 38,
+  "below_market_count": 49,
   "attention_items": [
     {
       "ug_config_id": "uvip___android_10___3_cores___3gb___30gb",
