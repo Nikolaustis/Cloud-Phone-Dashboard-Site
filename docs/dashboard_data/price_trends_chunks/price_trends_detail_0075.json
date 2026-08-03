@@ -1,7 +1,7 @@
 {
   "type": "price_trends_detail_chunk",
   "chunk_index": 75,
-  "chunk_count": 105,
+  "chunk_count": 106,
   "entry_count": 1,
   "entries": [
     {
@@ -37531,6 +37531,8 @@
             "2026-07-28",
             "2026-07-29",
             "2026-07-30",
+            "2026-08-01",
+            "2026-08-02",
             "2026-08-03"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
@@ -53434,6 +53436,8 @@
             "2026-07-28",
             "2026-07-29",
             "2026-07-30",
+            "2026-08-01",
+            "2026-08-02",
             "2026-08-03"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
@@ -69313,6 +69317,8 @@
             "2026-07-28",
             "2026-07-29",
             "2026-07-30",
+            "2026-08-01",
+            "2026-08-02",
             "2026-08-03"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
