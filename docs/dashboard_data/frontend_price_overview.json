@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T02:00:42+00:00",
+  "updated_at": "2026-08-03T04:16:58+00:00",
   "baseline_config_count": 18,
   "core_duration_buckets": [
     1,
@@ -922,7 +922,7 @@
           "product_model": "XVIP",
           "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
           "current_price": 63.99,
-          "config_similarity_score": 86.92,
+          "config_similarity_score": 85.49,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",

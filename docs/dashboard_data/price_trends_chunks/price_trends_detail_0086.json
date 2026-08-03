@@ -1114,7 +1114,7 @@
             "device_count": 1,
             "package_total_price": 3.95,
             "promotion_text": "≈0.56/day",
-            "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+            "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
             "source_file": "products.csv",
             "stock_status": "available",
             "actual_duration_days": 7.0,
@@ -7515,7 +7515,7 @@
           {
             "date": "2026-08-03",
             "price": 3.95,
-            "price_source": "carry_forward",
+            "price_source": "historical_products_region_paid_price",
             "platform": "Redfinger",
             "product_model": "VIP",
             "config_signature": "8|4|64",
@@ -7526,7 +7526,7 @@
             "device_count": 1,
             "package_total_price": 3.95,
             "promotion_text": "≈0.56/day",
-            "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+            "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
             "source_file": "products.csv",
             "stock_status": "available",
             "actual_duration_days": 7.0,
@@ -7535,10 +7535,8 @@
             "selected_android_versions": null,
             "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
             "purchase_mode": "standard",
-            "source_collection_date": "2026-07-30",
-            "carried_from_date": "2026-07-30",
-            "source_price_source": "historical_products_region_paid_price",
-            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+            "source_collection_date": "2026-08-03",
+            "carried_from_date": "2026-08-03"
           }
         ],
         "Japan": [
@@ -12591,7 +12589,7 @@
           {
             "date": "2026-08-03",
             "price": 3.95,
-            "price_source": "carry_forward",
+            "price_source": "historical_products_region_paid_price",
             "platform": "Redfinger",
             "product_model": "VIP",
             "config_signature": "8|4|64",
@@ -12602,7 +12600,7 @@
             "device_count": 1,
             "package_total_price": 3.95,
             "promotion_text": "≈0.56/day",
-            "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+            "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
             "source_file": "products.csv",
             "stock_status": "available",
             "actual_duration_days": 7.0,
@@ -12611,10 +12609,8 @@
             "selected_android_versions": null,
             "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
             "purchase_mode": "standard",
-            "source_collection_date": "2026-07-30",
-            "carried_from_date": "2026-07-30",
-            "source_price_source": "historical_products_region_paid_price",
-            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+            "source_collection_date": "2026-08-03",
+            "carried_from_date": "2026-08-03"
           }
         ],
         "South Korea": [
@@ -17672,7 +17668,7 @@
             "device_count": 1,
             "package_total_price": 3.95,
             "promotion_text": "≈0.56/day",
-            "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+            "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
             "source_file": "products.csv",
             "stock_status": "available",
             "actual_duration_days": 7.0,
@@ -20284,7 +20280,7 @@
             "device_count": 1,
             "package_total_price": 3.95,
             "promotion_text": "≈0.56/day",
-            "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+            "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
             "source_file": "products.csv",
             "stock_status": "available",
             "actual_duration_days": 7.0,
@@ -22896,7 +22892,7 @@
             "device_count": 1,
             "package_total_price": 3.95,
             "promotion_text": "≈0.56/day",
-            "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+            "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
             "source_file": "products.csv",
             "stock_status": "available",
             "actual_duration_days": 7.0,
@@ -24016,7 +24012,7 @@
             "device_count": 1,
             "package_total_price": 3.95,
             "promotion_text": "≈0.56/day",
-            "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+            "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
             "source_file": "products.csv",
             "stock_status": "available",
             "actual_duration_days": 7.0,
@@ -24056,7 +24052,7 @@
           "thirty_day_avg_price": 3.95,
           "thirty_day_sample_count": 30,
           "price_change_pct": 0.0,
-          "price_source": "historical_products_android_majority_region_paid_price",
+          "price_source": "carry_forward",
           "points": [
             {
               "date": "2026-04-28",
@@ -26792,7 +26788,7 @@
             {
               "date": "2026-08-03",
               "price": 3.95,
-              "price_source": "historical_products_android_majority_region_paid_price",
+              "price_source": "carry_forward",
               "platform": "Redfinger",
               "product_model": "VIP",
               "config_signature": "10|8|4|64",
@@ -26802,7 +26798,7 @@
               "device_count": 1,
               "package_total_price": 3.95,
               "promotion_text": "≈0.56/day",
-              "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+              "source_run_dir": "output/cloud_phone_monitor_20260728_060716",
               "source_file": "products.csv",
               "include_in_core_price_monitor": true,
               "selected_regions": "Brazil; Taiwan; Thailand; United States; Vietnam",
@@ -26813,8 +26809,10 @@
               "actual_duration_display": "7天",
               "comparison_duration_note": "",
               "purchase_mode": "standard",
-              "source_collection_date": "2026-08-03",
-              "carried_from_date": "2026-08-03"
+              "source_collection_date": "2026-07-28",
+              "carried_from_date": "2026-07-28",
+              "source_price_source": "historical_products_android_majority_region_paid_price",
+              "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -27729,7 +27727,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "historical_products_android_region_paid_price",
+                "price_source": "carry_forward",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "10|8|4|64",
@@ -27740,7 +27738,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+                "source_run_dir": "output/cloud_phone_monitor_20260728_060716",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -27749,8 +27747,10 @@
                 "selected_android_versions": "10",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-08-03",
-                "carried_from_date": "2026-08-03"
+                "source_collection_date": "2026-07-28",
+                "carried_from_date": "2026-07-28",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "Hong Kong": [
@@ -37973,7 +37973,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "historical_products_android_region_paid_price",
+                "price_source": "carry_forward",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "10|8|4|64",
@@ -37984,7 +37984,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+                "source_run_dir": "output/cloud_phone_monitor_20260728_060716",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -37993,8 +37993,10 @@
                 "selected_android_versions": "10",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-08-03",
-                "carried_from_date": "2026-08-03"
+                "source_collection_date": "2026-07-28",
+                "carried_from_date": "2026-07-28",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "Thailand": [
@@ -40635,7 +40637,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "historical_products_android_region_paid_price",
+                "price_source": "carry_forward",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "10|8|4|64",
@@ -40646,7 +40648,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+                "source_run_dir": "output/cloud_phone_monitor_20260728_060716",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -40655,8 +40657,10 @@
                 "selected_android_versions": "10",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-08-03",
-                "carried_from_date": "2026-08-03"
+                "source_collection_date": "2026-07-28",
+                "carried_from_date": "2026-07-28",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "United States": [
@@ -43297,7 +43301,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "historical_products_android_region_paid_price",
+                "price_source": "carry_forward",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "10|8|4|64",
@@ -43308,7 +43312,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+                "source_run_dir": "output/cloud_phone_monitor_20260728_060716",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -43317,8 +43321,10 @@
                 "selected_android_versions": "10",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-08-03",
-                "carried_from_date": "2026-08-03"
+                "source_collection_date": "2026-07-28",
+                "carried_from_date": "2026-07-28",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "Vietnam": [
@@ -44231,7 +44237,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "historical_products_android_region_paid_price",
+                "price_source": "carry_forward",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "10|8|4|64",
@@ -44242,7 +44248,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+                "source_run_dir": "output/cloud_phone_monitor_20260728_060716",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -44251,8 +44257,10 @@
                 "selected_android_versions": "10",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-08-03",
-                "carried_from_date": "2026-08-03"
+                "source_collection_date": "2026-07-28",
+                "carried_from_date": "2026-07-28",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ]
           },
@@ -44279,12 +44287,12 @@
           "android_display_mode": "expanded",
           "parent_non_android_config_signature": "8|4|64",
           "purchase_mode": "standard",
-          "valid_collection_point_count": 42,
+          "valid_collection_point_count": 41,
           "distinct_price_count": 1,
           "has_price_change": false,
           "first_valid_date": "2026-04-28",
           "first_valid_price": 3.95,
-          "last_valid_date": "2026-08-03",
+          "last_valid_date": "2026-07-28",
           "last_valid_price": 3.95,
           "collection_price_change_pct": 0.0,
           "min_price": 3.95,
@@ -44297,7 +44305,7 @@
           "selected_android_versions": "10",
           "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 3.95，覆盖 5/5 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
           "stock_status": "available",
-          "source_run_dir": "output/cloud_phone_monitor_20260803_013352",
+          "source_run_dir": "output/cloud_phone_monitor_20260728_060716",
           "source_file": "products.csv",
           "raw_collection_dates": [
             "2026-04-28",
@@ -44396,7 +44404,7 @@
           "thirty_day_avg_price": 3.95,
           "thirty_day_sample_count": 30,
           "price_change_pct": 0.0,
-          "price_source": "carry_forward",
+          "price_source": "historical_products_android_majority_region_paid_price",
           "points": [
             {
               "date": "2026-04-28",
@@ -47088,7 +47096,7 @@
             {
               "date": "2026-08-03",
               "price": 3.95,
-              "price_source": "carry_forward",
+              "price_source": "historical_products_android_majority_region_paid_price",
               "platform": "Redfinger",
               "product_model": "VIP",
               "config_signature": "12|8|4|64",
@@ -47098,7 +47106,7 @@
               "device_count": 1,
               "package_total_price": 3.95,
               "promotion_text": "≈0.56/day",
-              "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+              "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
               "source_file": "products.csv",
               "include_in_core_price_monitor": true,
               "selected_regions": "Brazil; India; Singapore; Taiwan; Thailand; United States; Vietnam",
@@ -47109,10 +47117,8 @@
               "actual_duration_display": "7天",
               "comparison_duration_note": "",
               "purchase_mode": "standard",
-              "source_collection_date": "2026-07-30",
-              "carried_from_date": "2026-07-30",
-              "source_price_source": "historical_products_android_majority_region_paid_price",
-              "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              "source_collection_date": "2026-08-03",
+              "carried_from_date": "2026-08-03"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -48219,7 +48225,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "carry_forward",
+                "price_source": "historical_products_android_region_paid_price",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "12|8|4|64",
@@ -48230,7 +48236,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+                "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -48239,10 +48245,8 @@
                 "selected_android_versions": "12",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-07-30",
-                "carried_from_date": "2026-07-30",
-                "source_price_source": "historical_products_android_region_paid_price",
-                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+                "source_collection_date": "2026-08-03",
+                "carried_from_date": "2026-08-03"
               }
             ],
             "Hong Kong": [
@@ -54633,7 +54637,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "carry_forward",
+                "price_source": "historical_products_android_region_paid_price",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "12|8|4|64",
@@ -54644,7 +54648,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+                "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -54653,10 +54657,8 @@
                 "selected_android_versions": "12",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-07-30",
-                "carried_from_date": "2026-07-30",
-                "source_price_source": "historical_products_android_region_paid_price",
-                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+                "source_collection_date": "2026-08-03",
+                "carried_from_date": "2026-08-03"
               }
             ],
             "Japan": [
@@ -59709,7 +59711,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "carry_forward",
+                "price_source": "historical_products_android_region_paid_price",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "12|8|4|64",
@@ -59720,7 +59722,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+                "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -59729,10 +59731,8 @@
                 "selected_android_versions": "12",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-07-30",
-                "carried_from_date": "2026-07-30",
-                "source_price_source": "historical_products_android_region_paid_price",
-                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+                "source_collection_date": "2026-08-03",
+                "carried_from_date": "2026-08-03"
               }
             ],
             "South Korea": [
@@ -64785,7 +64785,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "carry_forward",
+                "price_source": "historical_products_android_region_paid_price",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "12|8|4|64",
@@ -64796,7 +64796,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+                "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -64805,10 +64805,8 @@
                 "selected_android_versions": "12",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-07-30",
-                "carried_from_date": "2026-07-30",
-                "source_price_source": "historical_products_android_region_paid_price",
-                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+                "source_collection_date": "2026-08-03",
+                "carried_from_date": "2026-08-03"
               }
             ],
             "Thailand": [
@@ -67405,7 +67403,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "carry_forward",
+                "price_source": "historical_products_android_region_paid_price",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "12|8|4|64",
@@ -67416,7 +67414,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+                "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -67425,10 +67423,8 @@
                 "selected_android_versions": "12",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-07-30",
-                "carried_from_date": "2026-07-30",
-                "source_price_source": "historical_products_android_region_paid_price",
-                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+                "source_collection_date": "2026-08-03",
+                "carried_from_date": "2026-08-03"
               }
             ],
             "United States": [
@@ -70025,7 +70021,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "carry_forward",
+                "price_source": "historical_products_android_region_paid_price",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "12|8|4|64",
@@ -70036,7 +70032,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+                "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -70045,10 +70041,8 @@
                 "selected_android_versions": "12",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-07-30",
-                "carried_from_date": "2026-07-30",
-                "source_price_source": "historical_products_android_region_paid_price",
-                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+                "source_collection_date": "2026-08-03",
+                "carried_from_date": "2026-08-03"
               }
             ],
             "Vietnam": [
@@ -71153,7 +71147,7 @@
               {
                 "date": "2026-08-03",
                 "price": 3.95,
-                "price_source": "carry_forward",
+                "price_source": "historical_products_android_region_paid_price",
                 "platform": "Redfinger",
                 "product_model": "VIP",
                 "config_signature": "12|8|4|64",
@@ -71164,7 +71158,7 @@
                 "device_count": 1,
                 "package_total_price": 3.95,
                 "promotion_text": "≈0.56/day",
-                "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+                "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
                 "source_file": "products.csv",
                 "stock_status": "available",
                 "actual_duration_days": 7.0,
@@ -71173,10 +71167,8 @@
                 "selected_android_versions": "12",
                 "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
                 "purchase_mode": "standard",
-                "source_collection_date": "2026-07-30",
-                "carried_from_date": "2026-07-30",
-                "source_price_source": "historical_products_android_region_paid_price",
-                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+                "source_collection_date": "2026-08-03",
+                "carried_from_date": "2026-08-03"
               }
             ]
           },
@@ -71206,12 +71198,12 @@
           "android_display_mode": "expanded",
           "parent_non_android_config_signature": "8|4|64",
           "purchase_mode": "standard",
-          "valid_collection_point_count": 63,
+          "valid_collection_point_count": 64,
           "distinct_price_count": 1,
           "has_price_change": false,
           "first_valid_date": "2026-04-28",
           "first_valid_price": 3.95,
-          "last_valid_date": "2026-07-30",
+          "last_valid_date": "2026-08-03",
           "last_valid_price": 3.95,
           "collection_price_change_pct": 0.0,
           "min_price": 3.95,
@@ -71224,7 +71216,7 @@
           "selected_android_versions": "12",
           "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 3.95，覆盖 7/7 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
           "stock_status": "available",
-          "source_run_dir": "output/cloud_phone_monitor_20260730_010027",
+          "source_run_dir": "output/cloud_phone_monitor_20260803_034730",
           "source_file": "products.csv",
           "raw_collection_dates": [
             "2026-04-28",
