@@ -5,7 +5,7 @@
   "entry_count": 3,
   "entries": [
     {
-      "series_id": "merged_android_ugphone_kvip_1_kvip___12_13___6_cores___5_3gb___64gb____2026_04_29____1_690000______2026_04_30____1_690000______2026_05_06____1_690000______2026_05_07____1_690000______2026_05_08____1_690000______2026_05_09____1_690000______2026_05_11____1_690000______2026_05_12____1_690000______2026_05_13____1_690000______2026_05_14____1_690000______2026_05_15____1_690000______2026_05_18____1_690000______2026_05_19____1_690000______2026_05_20____1_690000______2026_05_21____1_690000______2026_05_22____1_690000______2026_05_25____1_690000______2026_05_27____1_690000______2026_05_28____1_690000______2026_05_29____1_690000______2026_06_01____1_690000______2026_06_02____1_690000______2026_06_03____1_690000______2026_06_04____1_690000______2026_06_05____1_690000______2026_06_08____1_690000______2026_06_09____1_690000______2026_06_10____1_690000______2026_06_11____1_690000______2026_06_12____1_690000______2026_06_15____1_690000______2026_06_16____1_690000______2026_06_17____1_690000______2026_06_18____1_690000______2026_06_22____1_690000______2026_06_23____1_690000______2026_06_24____1_690000______2026_06_25____1_690000______2026_06_26____1_690000______2026_06_29____1_690000______2026_06_30____1_690000______2026_07_01____1_690000______2026_07_02____1_690000______2026_08_03____1_690000",
+      "series_id": "merged_android_ugphone_kvip_1_kvip___12_13___6_cores___5_3gb___64gb____2026_04_29____1_690000______2026_04_30____1_690000______2026_05_06____1_690000______2026_05_07____1_690000______2026_05_08____1_690000______2026_05_09____1_690000______2026_05_11____1_690000______2026_05_12____1_690000______2026_05_13____1_690000______2026_05_14____1_690000______2026_05_15____1_690000______2026_05_18____1_690000______2026_05_19____1_690000______2026_05_20____1_690000______2026_05_21____1_690000______2026_05_22____1_690000______2026_05_25____1_690000______2026_05_27____1_690000______2026_05_28____1_690000______2026_05_29____1_690000______2026_06_01____1_690000______2026_06_02____1_690000______2026_06_03____1_690000______2026_06_04____1_690000______2026_06_05____1_690000______2026_06_08____1_690000______2026_06_09____1_690000______2026_06_10____1_690000______2026_06_11____1_690000______2026_06_12____1_690000______2026_06_15____1_690000______2026_06_16____1_690000______2026_06_17____1_690000______2026_06_18____1_690000______2026_06_22____1_690000______2026_06_23____1_690000______2026_06_24____1_690000______2026_06_25____1_690000______2026_06_26____1_690000______2026_06_29____1_690000______2026_06_30____1_690000______2026_07_01____1_690000______2026_07_02____1_690000______2026_08_04____1_690000",
       "regional_points": {
         "Germany": [
           {
@@ -2714,6 +2714,35 @@
           },
           {
             "date": "2026-08-03",
+            "price": 1.69,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "1",
+            "machine_room_region": "Germany",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 1.69,
+            "promotion_text": "25% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 1.0,
+            "actual_duration_display": "1天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
             "price": 1.69,
             "price_source": "carry_forward",
             "platform": "UgPhone",
@@ -5475,6 +5504,35 @@
             "carried_from_date": "2026-07-02",
             "source_price_source": "historical_products_region_paid_price",
             "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 1.69,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "1",
+            "machine_room_region": "Hong Kong",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 1.69,
+            "promotion_text": "25% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 1.0,
+            "actual_duration_display": "1天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
           }
         ],
         "Japan": [
@@ -8184,6 +8242,35 @@
           },
           {
             "date": "2026-08-03",
+            "price": 1.69,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "1",
+            "machine_room_region": "Japan",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 1.69,
+            "promotion_text": "25% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 1.0,
+            "actual_duration_display": "1天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
             "price": 1.69,
             "price_source": "carry_forward",
             "platform": "UgPhone",
@@ -10945,6 +11032,35 @@
             "carried_from_date": "2026-07-02",
             "source_price_source": "historical_products_region_paid_price",
             "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 1.69,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "1",
+            "machine_room_region": "Singapore",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 1.69,
+            "promotion_text": "25% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 1.0,
+            "actual_duration_display": "1天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
           }
         ],
         "South Korea": [
@@ -13680,6 +13796,35 @@
             "carried_from_date": "2026-07-02",
             "source_price_source": "historical_products_region_paid_price",
             "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 1.69,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "1",
+            "machine_room_region": "South Korea",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 1.69,
+            "promotion_text": "50% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 1.0,
+            "actual_duration_display": "1天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
           }
         ],
         "Taiwan": [
@@ -16389,6 +16534,35 @@
           },
           {
             "date": "2026-08-03",
+            "price": 1.69,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "1",
+            "machine_room_region": "Taiwan",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 1.69,
+            "promotion_text": "25% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 1.0,
+            "actual_duration_display": "1天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
             "price": 1.69,
             "price_source": "carry_forward",
             "platform": "UgPhone",
@@ -19178,6 +19352,35 @@
               "carried_from_date": "2026-07-02",
               "source_price_source": "historical_products_android_majority_region_paid_price",
               "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+            },
+            {
+              "date": "2026-08-04",
+              "price": 1.69,
+              "price_source": "carry_forward",
+              "platform": "UgPhone",
+              "product_model": "KVIP",
+              "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+              "duration_bucket": "1",
+              "price_variant": "public_offer",
+              "price_variant_label": "公开活动实付价",
+              "device_count": 1,
+              "package_total_price": 1.69,
+              "promotion_text": "25% off for a limited time; activity",
+              "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+              "source_file": "products.csv",
+              "include_in_core_price_monitor": true,
+              "selected_regions": "Germany; Hong Kong; Japan; Singapore; South Korea; Taiwan",
+              "selected_android_versions": "10",
+              "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 1.69，覆盖 6/6 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+              "stock_status": "available",
+              "actual_duration_days": 1.0,
+              "actual_duration_display": "1天",
+              "comparison_duration_note": "",
+              "purchase_mode": "subscription",
+              "source_collection_date": "2026-07-02",
+              "carried_from_date": "2026-07-02",
+              "source_price_source": "historical_products_android_majority_region_paid_price",
+              "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -21793,6 +21996,34 @@
               },
               {
                 "date": "2026-08-03",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "Germany",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
                 "price": 1.69,
                 "price_source": "carry_forward",
                 "platform": "UgPhone",
@@ -24456,6 +24687,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "Hong Kong",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "Japan": [
@@ -27069,6 +27328,34 @@
               },
               {
                 "date": "2026-08-03",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "Japan",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
                 "price": 1.69,
                 "price_source": "carry_forward",
                 "platform": "UgPhone",
@@ -29732,6 +30019,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "Singapore",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "South Korea": [
@@ -32345,6 +32660,34 @@
               },
               {
                 "date": "2026-08-03",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "South Korea",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "50% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
                 "price": 1.69,
                 "price_source": "carry_forward",
                 "platform": "UgPhone",
@@ -35008,6 +35351,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "Taiwan",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ]
           },
@@ -35122,7 +35493,8 @@
             "2026-07-30",
             "2026-08-01",
             "2026-08-02",
-            "2026-08-03"
+            "2026-08-03",
+            "2026-08-04"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
         },
@@ -37885,6 +38257,35 @@
               "carried_from_date": "2026-07-02",
               "source_price_source": "historical_products_android_majority_region_paid_price",
               "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+            },
+            {
+              "date": "2026-08-04",
+              "price": 1.69,
+              "price_source": "carry_forward",
+              "platform": "UgPhone",
+              "product_model": "KVIP",
+              "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+              "duration_bucket": "1",
+              "price_variant": "public_offer",
+              "price_variant_label": "公开活动实付价",
+              "device_count": 1,
+              "package_total_price": 1.69,
+              "promotion_text": "25% off for a limited time; activity",
+              "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+              "source_file": "products.csv",
+              "include_in_core_price_monitor": true,
+              "selected_regions": "Hong Kong; Japan; Singapore; South Korea; Taiwan",
+              "selected_android_versions": "12",
+              "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 1.69，覆盖 5/5 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+              "stock_status": "available",
+              "actual_duration_days": 1.0,
+              "actual_duration_display": "1天",
+              "comparison_duration_note": "",
+              "purchase_mode": "subscription",
+              "source_collection_date": "2026-07-02",
+              "carried_from_date": "2026-07-02",
+              "source_price_source": "historical_products_android_majority_region_paid_price",
+              "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -40500,6 +40901,34 @@
               },
               {
                 "date": "2026-08-03",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "Hong Kong",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
                 "price": 1.69,
                 "price_source": "carry_forward",
                 "platform": "UgPhone",
@@ -43163,6 +43592,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "Japan",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "Singapore": [
@@ -45776,6 +46233,34 @@
               },
               {
                 "date": "2026-08-03",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "Singapore",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
                 "price": 1.69,
                 "price_source": "carry_forward",
                 "platform": "UgPhone",
@@ -48439,6 +48924,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "South Korea",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "Taiwan": [
@@ -51077,6 +51590,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "Taiwan",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ]
           },
@@ -51190,7 +51731,8 @@
             "2026-07-30",
             "2026-08-01",
             "2026-08-02",
-            "2026-08-03"
+            "2026-08-03",
+            "2026-08-04"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
         },
@@ -53953,6 +54495,35 @@
               "carried_from_date": "2026-07-02",
               "source_price_source": "historical_products_android_majority_region_paid_price",
               "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+            },
+            {
+              "date": "2026-08-04",
+              "price": 1.69,
+              "price_source": "carry_forward",
+              "platform": "UgPhone",
+              "product_model": "KVIP",
+              "config_signature": "13|6|5.3|64|purchase_mode=subscription",
+              "duration_bucket": "1",
+              "price_variant": "public_offer",
+              "price_variant_label": "公开活动实付价",
+              "device_count": 1,
+              "package_total_price": 1.69,
+              "promotion_text": "25% off for a limited time; activity",
+              "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+              "source_file": "products.csv",
+              "include_in_core_price_monitor": true,
+              "selected_regions": "Hong Kong",
+              "selected_android_versions": "13",
+              "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 1.69，覆盖 1/1 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+              "stock_status": "available",
+              "actual_duration_days": 1.0,
+              "actual_duration_display": "1天",
+              "comparison_duration_note": "",
+              "purchase_mode": "subscription",
+              "source_collection_date": "2026-07-02",
+              "carried_from_date": "2026-07-02",
+              "source_price_source": "historical_products_android_majority_region_paid_price",
+              "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -56593,6 +57164,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 1.69,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "13|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "1",
+                "machine_room_region": "Hong Kong",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 1.69,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 1.0,
+                "actual_duration_display": "1天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "13",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ]
           },
@@ -56702,7 +57301,8 @@
             "2026-07-30",
             "2026-08-01",
             "2026-08-02",
-            "2026-08-03"
+            "2026-08-03",
+            "2026-08-04"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
         }
@@ -57729,6 +58329,32 @@
             "purchase_mode": "non_subscription",
             "source_collection_date": "2026-08-03",
             "carried_from_date": "2026-08-03"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 5.99,
+            "price_source": "historical_products_region_paid_price",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=non_subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "Germany",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time",
+            "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "non_subscription",
+            "source_collection_date": "2026-08-04",
+            "carried_from_date": "2026-08-04"
           }
         ],
         "Hong Kong": [
@@ -58749,6 +59375,32 @@
             "purchase_mode": "non_subscription",
             "source_collection_date": "2026-08-03",
             "carried_from_date": "2026-08-03"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 5.99,
+            "price_source": "historical_products_region_paid_price",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=non_subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "Hong Kong",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time",
+            "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "non_subscription",
+            "source_collection_date": "2026-08-04",
+            "carried_from_date": "2026-08-04"
           }
         ],
         "Japan": [
@@ -59769,6 +60421,32 @@
             "purchase_mode": "non_subscription",
             "source_collection_date": "2026-08-03",
             "carried_from_date": "2026-08-03"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 5.99,
+            "price_source": "historical_products_region_paid_price",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=non_subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "Japan",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time",
+            "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "non_subscription",
+            "source_collection_date": "2026-08-04",
+            "carried_from_date": "2026-08-04"
           }
         ],
         "Singapore": [
@@ -60789,6 +61467,648 @@
             "purchase_mode": "non_subscription",
             "source_collection_date": "2026-08-03",
             "carried_from_date": "2026-08-03"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 5.99,
+            "price_source": "historical_products_region_paid_price",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=non_subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "Singapore",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time",
+            "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "non_subscription",
+            "source_collection_date": "2026-08-04",
+            "carried_from_date": "2026-08-04"
+          }
+        ],
+        "South Korea": [
+          {
+            "date": "2026-04-28",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-04-29",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-04-30",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-01",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-02",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-03",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-04",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-05",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-06",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-07",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-08",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-09",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-10",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-11",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-12",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-13",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-14",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-15",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-16",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-17",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-18",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-19",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-20",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-21",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-22",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-23",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-24",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-25",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-26",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-27",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-28",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-29",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-30",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-05-31",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-01",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-02",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-03",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-04",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-05",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-06",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-07",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-08",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-09",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-10",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-11",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-12",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-13",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-14",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-15",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-16",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-17",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-18",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-19",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-20",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-21",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-22",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-23",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-24",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-25",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-26",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-27",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-28",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-29",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-06-30",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-01",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-02",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-03",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-04",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-05",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-06",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-07",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-08",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-09",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-10",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-11",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-12",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-13",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-14",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-15",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-16",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-17",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-18",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-19",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-20",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-21",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-22",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-23",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-24",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-25",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-26",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-27",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-28",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-29",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-30",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-07-31",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-08-01",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-08-02",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-08-03",
+            "price": null,
+            "price_source": "missing",
+            "missing_reason": "no_previous_collection_price"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 5.99,
+            "price_source": "historical_products_region_paid_price",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=non_subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "South Korea",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time",
+            "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "non_subscription",
+            "source_collection_date": "2026-08-04",
+            "carried_from_date": "2026-08-04"
           }
         ],
         "United States": [
@@ -61733,6 +63053,34 @@
             "purchase_mode": "non_subscription",
             "source_collection_date": "2026-08-03",
             "carried_from_date": "2026-08-03"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 5.99,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=non_subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "United States",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time",
+            "source_run_dir": "output/cloud_phone_monitor_20260803_063238",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "non_subscription",
+            "source_collection_date": "2026-08-03",
+            "carried_from_date": "2026-08-03",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
           }
         ]
       },
@@ -61760,7 +63108,7 @@
           "seven_day_avg_price": 5.99,
           "seven_day_sample_count": 7,
           "thirty_day_avg_price": 5.99,
-          "thirty_day_sample_count": 21,
+          "thirty_day_sample_count": 22,
           "price_change_pct": 0.0,
           "price_source": "historical_products_android_majority_region_paid_price",
           "points": [
@@ -62802,6 +64150,33 @@
               "purchase_mode": "non_subscription",
               "source_collection_date": "2026-08-03",
               "carried_from_date": "2026-08-03"
+            },
+            {
+              "date": "2026-08-04",
+              "price": 5.99,
+              "price_source": "historical_products_android_majority_region_paid_price",
+              "platform": "UgPhone",
+              "product_model": "KVIP",
+              "config_signature": "10|6|5.3|64|purchase_mode=non_subscription",
+              "duration_bucket": "15",
+              "price_variant": "public_offer",
+              "price_variant_label": "公开活动实付价",
+              "device_count": 1,
+              "package_total_price": 5.99,
+              "promotion_text": "25% off for a limited time",
+              "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+              "source_file": "products.csv",
+              "include_in_core_price_monitor": true,
+              "selected_regions": "Germany; Hong Kong; Japan; Singapore",
+              "selected_android_versions": "10",
+              "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 4/4 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+              "stock_status": "available",
+              "actual_duration_days": 15.0,
+              "actual_duration_display": "15天",
+              "comparison_duration_note": "",
+              "purchase_mode": "non_subscription",
+              "source_collection_date": "2026-08-04",
+              "carried_from_date": "2026-08-04"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -63824,6 +65199,32 @@
                 "purchase_mode": "non_subscription",
                 "source_collection_date": "2026-08-03",
                 "carried_from_date": "2026-08-03"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "historical_products_android_region_paid_price",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=non_subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Germany",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "non_subscription",
+                "source_collection_date": "2026-08-04",
+                "carried_from_date": "2026-08-04"
               }
             ],
             "Hong Kong": [
@@ -64844,6 +66245,32 @@
                 "purchase_mode": "non_subscription",
                 "source_collection_date": "2026-08-03",
                 "carried_from_date": "2026-08-03"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "historical_products_android_region_paid_price",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=non_subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Hong Kong",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "non_subscription",
+                "source_collection_date": "2026-08-04",
+                "carried_from_date": "2026-08-04"
               }
             ],
             "Japan": [
@@ -65864,6 +67291,32 @@
                 "purchase_mode": "non_subscription",
                 "source_collection_date": "2026-08-03",
                 "carried_from_date": "2026-08-03"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "historical_products_android_region_paid_price",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=non_subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Japan",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "non_subscription",
+                "source_collection_date": "2026-08-04",
+                "carried_from_date": "2026-08-04"
               }
             ],
             "Singapore": [
@@ -66884,6 +68337,32 @@
                 "purchase_mode": "non_subscription",
                 "source_collection_date": "2026-08-03",
                 "carried_from_date": "2026-08-03"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "historical_products_android_region_paid_price",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=non_subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Singapore",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "non_subscription",
+                "source_collection_date": "2026-08-04",
+                "carried_from_date": "2026-08-04"
               }
             ],
             "United States": [
@@ -67828,6 +69307,34 @@
                 "purchase_mode": "non_subscription",
                 "source_collection_date": "2026-08-03",
                 "carried_from_date": "2026-08-03"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=non_subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "United States",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260803_063238",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "non_subscription",
+                "source_collection_date": "2026-08-03",
+                "carried_from_date": "2026-08-03",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ]
           },
@@ -67851,12 +69358,12 @@
           "android_display_mode": "expanded",
           "parent_non_android_config_signature": "6|5.3|64|purchase_mode=non_subscription",
           "purchase_mode": "non_subscription",
-          "valid_collection_point_count": 16,
+          "valid_collection_point_count": 17,
           "distinct_price_count": 1,
           "has_price_change": false,
           "first_valid_date": "2026-07-14",
           "first_valid_price": 5.99,
-          "last_valid_date": "2026-08-03",
+          "last_valid_date": "2026-08-04",
           "last_valid_price": 5.99,
           "collection_price_change_pct": 0.0,
           "min_price": 5.99,
@@ -67865,11 +69372,11 @@
           "price_change_summary": "采集日价格未变化",
           "price_variant": "public_offer",
           "price_variant_label": "公开活动实付价",
-          "selected_regions": "Germany; Hong Kong; Japan; Singapore; United States",
+          "selected_regions": "Germany; Hong Kong; Japan; Singapore",
           "selected_android_versions": "10",
-          "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 5/5 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+          "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 4/4 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
           "stock_status": "available",
-          "source_run_dir": "output/cloud_phone_monitor_20260803_063238",
+          "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
           "source_file": "products.csv",
           "raw_collection_dates": [
             "2026-04-28",
@@ -67941,7 +69448,8 @@
             "2026-07-30",
             "2026-08-01",
             "2026-08-02",
-            "2026-08-03"
+            "2026-08-03",
+            "2026-08-04"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
         },
@@ -67968,7 +69476,7 @@
           "seven_day_avg_price": 5.99,
           "seven_day_sample_count": 7,
           "thirty_day_avg_price": 5.99,
-          "thirty_day_sample_count": 21,
+          "thirty_day_sample_count": 22,
           "price_change_pct": 0.0,
           "price_source": "historical_products_android_majority_region_paid_price",
           "points": [
@@ -69010,6 +70518,33 @@
               "purchase_mode": "non_subscription",
               "source_collection_date": "2026-08-03",
               "carried_from_date": "2026-08-03"
+            },
+            {
+              "date": "2026-08-04",
+              "price": 5.99,
+              "price_source": "historical_products_android_majority_region_paid_price",
+              "platform": "UgPhone",
+              "product_model": "KVIP",
+              "config_signature": "12|6|5.3|64|purchase_mode=non_subscription",
+              "duration_bucket": "15",
+              "price_variant": "public_offer",
+              "price_variant_label": "公开活动实付价",
+              "device_count": 1,
+              "package_total_price": 5.99,
+              "promotion_text": "25% off for a limited time",
+              "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+              "source_file": "products.csv",
+              "include_in_core_price_monitor": true,
+              "selected_regions": "Hong Kong; Japan; Singapore; South Korea",
+              "selected_android_versions": "12",
+              "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 4/4 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+              "stock_status": "available",
+              "actual_duration_days": 15.0,
+              "actual_duration_display": "15天",
+              "comparison_duration_note": "",
+              "purchase_mode": "non_subscription",
+              "source_collection_date": "2026-08-04",
+              "carried_from_date": "2026-08-04"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -70032,6 +71567,32 @@
                 "purchase_mode": "non_subscription",
                 "source_collection_date": "2026-08-03",
                 "carried_from_date": "2026-08-03"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "historical_products_android_region_paid_price",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=non_subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Hong Kong",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "non_subscription",
+                "source_collection_date": "2026-08-04",
+                "carried_from_date": "2026-08-04"
               }
             ],
             "Japan": [
@@ -71060,6 +72621,32 @@
                 "purchase_mode": "non_subscription",
                 "source_collection_date": "2026-08-03",
                 "carried_from_date": "2026-08-03"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "historical_products_android_region_paid_price",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=non_subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Japan",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "non_subscription",
+                "source_collection_date": "2026-08-04",
+                "carried_from_date": "2026-08-04"
               }
             ],
             "Singapore": [
@@ -72080,13 +73667,656 @@
                 "purchase_mode": "non_subscription",
                 "source_collection_date": "2026-08-03",
                 "carried_from_date": "2026-08-03"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "historical_products_android_region_paid_price",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=non_subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Singapore",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "non_subscription",
+                "source_collection_date": "2026-08-04",
+                "carried_from_date": "2026-08-04"
+              }
+            ],
+            "South Korea": [
+              {
+                "date": "2026-04-28",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-04-29",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-04-30",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-01",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-02",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-03",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-04",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-05",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-06",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-07",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-08",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-09",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-10",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-11",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-12",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-13",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-14",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-15",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-16",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-17",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-18",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-19",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-20",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-21",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-22",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-23",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-24",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-25",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-26",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-27",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-28",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-29",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-30",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-05-31",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-01",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-02",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-03",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-04",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-05",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-06",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-07",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-08",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-09",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-10",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-11",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-12",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-13",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-14",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-15",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-16",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-17",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-18",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-19",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-20",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-21",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-22",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-23",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-24",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-25",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-26",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-27",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-28",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-29",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-06-30",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-01",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-02",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-03",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-04",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-05",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-06",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-07",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-08",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-09",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-10",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-11",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-12",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-13",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-14",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-15",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-16",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-17",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-18",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-19",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-20",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-21",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-22",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-23",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-24",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-25",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-26",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-27",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-28",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-29",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-30",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-07-31",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-08-01",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-08-02",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-08-03",
+                "price": null,
+                "price_source": "missing",
+                "missing_reason": "no_previous_collection_price"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "historical_products_android_region_paid_price",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=non_subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "South Korea",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "non_subscription",
+                "source_collection_date": "2026-08-04",
+                "carried_from_date": "2026-08-04"
               }
             ]
           },
           "available_regions": [
             "Hong Kong",
             "Japan",
-            "Singapore"
+            "Singapore",
+            "South Korea"
           ],
           "android_version": "12",
           "android_versions": [
@@ -72101,12 +74331,12 @@
           "android_display_mode": "expanded",
           "parent_non_android_config_signature": "6|5.3|64|purchase_mode=non_subscription",
           "purchase_mode": "non_subscription",
-          "valid_collection_point_count": 16,
+          "valid_collection_point_count": 17,
           "distinct_price_count": 1,
           "has_price_change": false,
           "first_valid_date": "2026-07-14",
           "first_valid_price": 5.99,
-          "last_valid_date": "2026-08-03",
+          "last_valid_date": "2026-08-04",
           "last_valid_price": 5.99,
           "collection_price_change_pct": 0.0,
           "min_price": 5.99,
@@ -72115,11 +74345,11 @@
           "price_change_summary": "采集日价格未变化",
           "price_variant": "public_offer",
           "price_variant_label": "公开活动实付价",
-          "selected_regions": "Hong Kong; Japan; Singapore",
+          "selected_regions": "Hong Kong; Japan; Singapore; South Korea",
           "selected_android_versions": "12",
-          "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 3/3 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+          "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 4/4 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
           "stock_status": "available",
-          "source_run_dir": "output/cloud_phone_monitor_20260803_063238",
+          "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
           "source_file": "products.csv",
           "raw_collection_dates": [
             "2026-04-28",
@@ -72191,7 +74421,8 @@
             "2026-07-30",
             "2026-08-01",
             "2026-08-02",
-            "2026-08-03"
+            "2026-08-03",
+            "2026-08-04"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
         },
@@ -72218,7 +74449,7 @@
           "seven_day_avg_price": 5.99,
           "seven_day_sample_count": 7,
           "thirty_day_avg_price": 5.99,
-          "thirty_day_sample_count": 21,
+          "thirty_day_sample_count": 22,
           "price_change_pct": 0.0,
           "price_source": "historical_products_android_majority_region_paid_price",
           "points": [
@@ -73260,6 +75491,33 @@
               "purchase_mode": "non_subscription",
               "source_collection_date": "2026-08-03",
               "carried_from_date": "2026-08-03"
+            },
+            {
+              "date": "2026-08-04",
+              "price": 5.99,
+              "price_source": "historical_products_android_majority_region_paid_price",
+              "platform": "UgPhone",
+              "product_model": "KVIP",
+              "config_signature": "13|6|5.3|64|purchase_mode=non_subscription",
+              "duration_bucket": "15",
+              "price_variant": "public_offer",
+              "price_variant_label": "公开活动实付价",
+              "device_count": 1,
+              "package_total_price": 5.99,
+              "promotion_text": "25% off for a limited time",
+              "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+              "source_file": "products.csv",
+              "include_in_core_price_monitor": true,
+              "selected_regions": "Hong Kong",
+              "selected_android_versions": "13",
+              "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 1/1 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+              "stock_status": "available",
+              "actual_duration_days": 15.0,
+              "actual_duration_display": "15天",
+              "comparison_duration_note": "",
+              "purchase_mode": "non_subscription",
+              "source_collection_date": "2026-08-04",
+              "carried_from_date": "2026-08-04"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -74282,6 +76540,32 @@
                 "purchase_mode": "non_subscription",
                 "source_collection_date": "2026-08-03",
                 "carried_from_date": "2026-08-03"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "historical_products_android_region_paid_price",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "13|6|5.3|64|purchase_mode=non_subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Hong Kong",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "13",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "non_subscription",
+                "source_collection_date": "2026-08-04",
+                "carried_from_date": "2026-08-04"
               }
             ]
           },
@@ -74301,12 +76585,12 @@
           "android_display_mode": "expanded",
           "parent_non_android_config_signature": "6|5.3|64|purchase_mode=non_subscription",
           "purchase_mode": "non_subscription",
-          "valid_collection_point_count": 16,
+          "valid_collection_point_count": 17,
           "distinct_price_count": 1,
           "has_price_change": false,
           "first_valid_date": "2026-07-14",
           "first_valid_price": 5.99,
-          "last_valid_date": "2026-08-03",
+          "last_valid_date": "2026-08-04",
           "last_valid_price": 5.99,
           "collection_price_change_pct": 0.0,
           "min_price": 5.99,
@@ -74319,7 +76603,7 @@
           "selected_android_versions": "13",
           "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 1/1 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
           "stock_status": "available",
-          "source_run_dir": "output/cloud_phone_monitor_20260803_063238",
+          "source_run_dir": "output/cloud_phone_monitor_20260804_014340",
           "source_file": "products.csv",
           "raw_collection_dates": [
             "2026-04-28",
@@ -74391,14 +76675,15 @@
             "2026-07-30",
             "2026-08-01",
             "2026-08-02",
-            "2026-08-03"
+            "2026-08-03",
+            "2026-08-04"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
         }
       ]
     },
     {
-      "series_id": "merged_android_ugphone_kvip_15_kvip___12_13___6_cores___5_3gb___64gb____2026_04_29____5_990000______2026_04_30____5_990000______2026_05_06____5_990000______2026_05_07____5_990000______2026_05_08____5_990000______2026_05_09____5_990000______2026_05_11____5_990000______2026_05_12____5_990000______2026_05_13____5_990000______2026_05_14____5_990000______2026_05_15____5_990000______2026_05_18____5_990000______2026_05_19____5_990000______2026_05_20____5_990000______2026_05_21____5_990000______2026_05_22____5_990000______2026_05_25____5_990000______2026_05_27____5_990000______2026_05_28____5_990000______2026_05_29____5_990000______2026_06_01____5_990000______2026_06_02____5_990000______2026_06_03____5_990000______2026_06_04____5_990000______2026_06_05____5_990000______2026_06_08____5_990000______2026_06_09____5_990000______2026_06_10____5_990000______2026_06_11____5_990000______2026_06_12____5_990000______2026_06_15____5_990000______2026_06_16____5_990000______2026_06_17____5_990000______2026_06_18____5_990000______2026_06_22____5_990000______2026_06_23____5_990000______2026_06_24____5_990000______2026_06_25____5_990000______2026_06_26____5_990000______2026_06_29____5_990000______2026_06_30____5_990000______2026_07_01____5_990000______2026_07_02____5_990000______2026_07_06____5_990000______2026_07_07____5_990000______2026_07_08____5_990000______2026_07_09____5_990000______2026_07_10____5_990000______2026_07_11____5_990000______2026_07_12____5_990000______2026_08_03____5_990000",
+      "series_id": "merged_android_ugphone_kvip_15_kvip___12_13___6_cores___5_3gb___64gb____2026_04_29____5_990000______2026_04_30____5_990000______2026_05_06____5_990000______2026_05_07____5_990000______2026_05_08____5_990000______2026_05_09____5_990000______2026_05_11____5_990000______2026_05_12____5_990000______2026_05_13____5_990000______2026_05_14____5_990000______2026_05_15____5_990000______2026_05_18____5_990000______2026_05_19____5_990000______2026_05_20____5_990000______2026_05_21____5_990000______2026_05_22____5_990000______2026_05_25____5_990000______2026_05_27____5_990000______2026_05_28____5_990000______2026_05_29____5_990000______2026_06_01____5_990000______2026_06_02____5_990000______2026_06_03____5_990000______2026_06_04____5_990000______2026_06_05____5_990000______2026_06_08____5_990000______2026_06_09____5_990000______2026_06_10____5_990000______2026_06_11____5_990000______2026_06_12____5_990000______2026_06_15____5_990000______2026_06_16____5_990000______2026_06_17____5_990000______2026_06_18____5_990000______2026_06_22____5_990000______2026_06_23____5_990000______2026_06_24____5_990000______2026_06_25____5_990000______2026_06_26____5_990000______2026_06_29____5_990000______2026_06_30____5_990000______2026_07_01____5_990000______2026_07_02____5_990000______2026_07_06____5_990000______2026_07_07____5_990000______2026_07_08____5_990000______2026_07_09____5_990000______2026_07_10____5_990000______2026_07_11____5_990000______2026_07_12____5_990000______2026_08_04____5_990000",
       "regional_points": {
         "Germany": [
           {
@@ -77119,6 +79404,35 @@
             "carried_from_date": "2026-07-12",
             "source_price_source": "historical_products_region_paid_price",
             "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 5.99,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "Germany",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time",
+            "source_run_dir": "output/cloud_phone_monitor_20260712_020010",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-12",
+            "carried_from_date": "2026-07-12",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
           }
         ],
         "Hong Kong": [
@@ -79828,6 +82142,35 @@
           },
           {
             "date": "2026-08-03",
+            "price": 5.99,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "Hong Kong",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
             "price": 5.99,
             "price_source": "carry_forward",
             "platform": "UgPhone",
@@ -82589,6 +84932,35 @@
             "carried_from_date": "2026-07-02",
             "source_price_source": "historical_products_region_paid_price",
             "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 5.99,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "Japan",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
           }
         ],
         "Singapore": [
@@ -85298,6 +87670,35 @@
           },
           {
             "date": "2026-08-03",
+            "price": 5.99,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "Singapore",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
             "price": 5.99,
             "price_source": "carry_forward",
             "platform": "UgPhone",
@@ -88059,6 +90460,35 @@
             "carried_from_date": "2026-07-02",
             "source_price_source": "historical_products_region_paid_price",
             "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
+            "price": 5.99,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "South Korea",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
           }
         ],
         "Taiwan": [
@@ -90768,6 +93198,35 @@
           },
           {
             "date": "2026-08-03",
+            "price": 5.99,
+            "price_source": "carry_forward",
+            "platform": "UgPhone",
+            "product_model": "KVIP",
+            "config_signature": "6|5.3|64|purchase_mode=subscription",
+            "duration_bucket": "15",
+            "machine_room_region": "Taiwan",
+            "price_variant": "public_offer",
+            "price_variant_label": "公开活动实付价",
+            "device_count": 1,
+            "package_total_price": 5.99,
+            "promotion_text": "25% off for a limited time; activity",
+            "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+            "source_file": "products.csv",
+            "stock_status": "available",
+            "actual_duration_days": 15.0,
+            "actual_duration_display": "15天",
+            "comparison_duration_note": "",
+            "selected_android_versions": null,
+            "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+            "purchase_mode": "subscription",
+            "android_merge_weight": 3,
+            "source_collection_date": "2026-07-02",
+            "carried_from_date": "2026-07-02",
+            "source_price_source": "historical_products_region_paid_price",
+            "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+          },
+          {
+            "date": "2026-08-04",
             "price": 5.99,
             "price_source": "carry_forward",
             "platform": "UgPhone",
@@ -93543,6 +96002,35 @@
               "carried_from_date": "2026-07-12",
               "source_price_source": "historical_products_android_majority_region_paid_price",
               "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+            },
+            {
+              "date": "2026-08-04",
+              "price": 5.99,
+              "price_source": "carry_forward",
+              "platform": "UgPhone",
+              "product_model": "KVIP",
+              "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+              "duration_bucket": "15",
+              "price_variant": "public_offer",
+              "price_variant_label": "公开活动实付价",
+              "device_count": 1,
+              "package_total_price": 5.99,
+              "promotion_text": "25% off for a limited time",
+              "source_run_dir": "output/cloud_phone_monitor_20260712_020010",
+              "source_file": "products.csv",
+              "include_in_core_price_monitor": true,
+              "selected_regions": "Germany",
+              "selected_android_versions": "10",
+              "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 1/1 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+              "stock_status": "available",
+              "actual_duration_days": 15.0,
+              "actual_duration_display": "15天",
+              "comparison_duration_note": "",
+              "purchase_mode": "subscription",
+              "source_collection_date": "2026-07-12",
+              "carried_from_date": "2026-07-12",
+              "source_price_source": "historical_products_android_majority_region_paid_price",
+              "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -96144,6 +98632,34 @@
               },
               {
                 "date": "2026-08-03",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Germany",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time",
+                "source_run_dir": "output/cloud_phone_monitor_20260712_020010",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-12",
+                "carried_from_date": "2026-07-12",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
                 "price": 5.99,
                 "price_source": "carry_forward",
                 "platform": "UgPhone",
@@ -98807,6 +101323,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Hong Kong",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "Japan": [
@@ -101420,6 +103964,34 @@
               },
               {
                 "date": "2026-08-03",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Japan",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
                 "price": 5.99,
                 "price_source": "carry_forward",
                 "platform": "UgPhone",
@@ -104083,6 +106655,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Singapore",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "South Korea": [
@@ -106696,6 +109296,34 @@
               },
               {
                 "date": "2026-08-03",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "South Korea",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
                 "price": 5.99,
                 "price_source": "carry_forward",
                 "platform": "UgPhone",
@@ -109359,6 +111987,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "10|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Taiwan",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "10",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ]
           },
@@ -109473,7 +112129,8 @@
             "2026-07-30",
             "2026-08-01",
             "2026-08-02",
-            "2026-08-03"
+            "2026-08-03",
+            "2026-08-04"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
         },
@@ -112236,6 +114893,35 @@
               "carried_from_date": "2026-07-02",
               "source_price_source": "historical_products_android_majority_region_paid_price",
               "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+            },
+            {
+              "date": "2026-08-04",
+              "price": 5.99,
+              "price_source": "carry_forward",
+              "platform": "UgPhone",
+              "product_model": "KVIP",
+              "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+              "duration_bucket": "15",
+              "price_variant": "public_offer",
+              "price_variant_label": "公开活动实付价",
+              "device_count": 1,
+              "package_total_price": 5.99,
+              "promotion_text": "25% off for a limited time; activity",
+              "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+              "source_file": "products.csv",
+              "include_in_core_price_monitor": true,
+              "selected_regions": "Hong Kong; Japan; Singapore; South Korea; Taiwan",
+              "selected_android_versions": "12",
+              "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 5/5 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+              "stock_status": "available",
+              "actual_duration_days": 15.0,
+              "actual_duration_display": "15天",
+              "comparison_duration_note": "",
+              "purchase_mode": "subscription",
+              "source_collection_date": "2026-07-02",
+              "carried_from_date": "2026-07-02",
+              "source_price_source": "historical_products_android_majority_region_paid_price",
+              "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -114851,6 +117537,34 @@
               },
               {
                 "date": "2026-08-03",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Hong Kong",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
                 "price": 5.99,
                 "price_source": "carry_forward",
                 "platform": "UgPhone",
@@ -117514,6 +120228,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Japan",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "Singapore": [
@@ -120127,6 +122869,34 @@
               },
               {
                 "date": "2026-08-03",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Singapore",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
                 "price": 5.99,
                 "price_source": "carry_forward",
                 "platform": "UgPhone",
@@ -122790,6 +125560,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "South Korea",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ],
             "Taiwan": [
@@ -125428,6 +128226,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "12|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Taiwan",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "12",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ]
           },
@@ -125541,7 +128367,8 @@
             "2026-07-30",
             "2026-08-01",
             "2026-08-02",
-            "2026-08-03"
+            "2026-08-03",
+            "2026-08-04"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
         },
@@ -128304,6 +131131,35 @@
               "carried_from_date": "2026-07-02",
               "source_price_source": "historical_products_android_majority_region_paid_price",
               "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+            },
+            {
+              "date": "2026-08-04",
+              "price": 5.99,
+              "price_source": "carry_forward",
+              "platform": "UgPhone",
+              "product_model": "KVIP",
+              "config_signature": "13|6|5.3|64|purchase_mode=subscription",
+              "duration_bucket": "15",
+              "price_variant": "public_offer",
+              "price_variant_label": "公开活动实付价",
+              "device_count": 1,
+              "package_total_price": 5.99,
+              "promotion_text": "25% off for a limited time; activity",
+              "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+              "source_file": "products.csv",
+              "include_in_core_price_monitor": true,
+              "selected_regions": "Hong Kong",
+              "selected_android_versions": "13",
+              "region_price_selection_rule": "同产品/同购买天数/同Android版本/同配置存在多机房价格时，选择覆盖机房数量最多的当前可购买单设备实付价；若价格覆盖数量持平，选择低价。当前选择 5.99，覆盖 1/1 个机房/地区；新客价、无库存、不可购买价格不参与核心趋势。",
+              "stock_status": "available",
+              "actual_duration_days": 15.0,
+              "actual_duration_display": "15天",
+              "comparison_duration_note": "",
+              "purchase_mode": "subscription",
+              "source_collection_date": "2026-07-02",
+              "carried_from_date": "2026-07-02",
+              "source_price_source": "historical_products_android_majority_region_paid_price",
+              "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
             }
           ],
           "region_display_mode": "merged_all_regions",
@@ -130944,6 +133800,34 @@
                 "carried_from_date": "2026-07-02",
                 "source_price_source": "historical_products_android_region_paid_price",
                 "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
+              },
+              {
+                "date": "2026-08-04",
+                "price": 5.99,
+                "price_source": "carry_forward",
+                "platform": "UgPhone",
+                "product_model": "KVIP",
+                "config_signature": "13|6|5.3|64|purchase_mode=subscription",
+                "duration_bucket": "15",
+                "machine_room_region": "Hong Kong",
+                "price_variant": "public_offer",
+                "price_variant_label": "公开活动实付价",
+                "device_count": 1,
+                "package_total_price": 5.99,
+                "promotion_text": "25% off for a limited time; activity",
+                "source_run_dir": "output/cloud_phone_monitor_20260702_020007",
+                "source_file": "products.csv",
+                "stock_status": "available",
+                "actual_duration_days": 15.0,
+                "actual_duration_display": "15天",
+                "comparison_duration_note": "",
+                "selected_android_versions": "13",
+                "region_price_selection_rule": "按所选机房/地区展示该地区当前可购买单设备实付价；新客价、无库存、不可购买价格不参与该机房趋势。",
+                "purchase_mode": "subscription",
+                "source_collection_date": "2026-07-02",
+                "carried_from_date": "2026-07-02",
+                "source_price_source": "historical_products_android_region_paid_price",
+                "carry_forward_note": "当天没有采集数据，沿用上一采集日有效价格。"
               }
             ]
           },
@@ -131053,7 +133937,8 @@
             "2026-07-30",
             "2026-08-01",
             "2026-08-02",
-            "2026-08-03"
+            "2026-08-03",
+            "2026-08-04"
           ],
           "date_fill_mode": "natural_day_axis_with_collection_day_carry_forward"
         }
