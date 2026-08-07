@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T04:55:03+00:00",
+  "updated_at": "2026-08-07T02:31:29+00:00",
   "baseline_config_count": 18,
   "core_duration_buckets": [
     1,
@@ -1022,7 +1022,7 @@
           "product_model": "KVIP",
           "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
           "current_price": 25.99,
-          "config_similarity_score": 83.33,
+          "config_similarity_score": 81.67,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",
