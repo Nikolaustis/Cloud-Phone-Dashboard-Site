@@ -4638,7 +4638,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 66.99,
-    "current_promotion_text": "🔥 ANIME EXPEDITIONS - 50% OFF",
+    "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
     "reason_code": "price_up"
@@ -4722,7 +4722,7 @@
     "duration_bucket": 90,
     "duration_display": "90天",
     "current_price": 19.99,
-    "current_promotion_text": "🔥UG Expedition Promo 50% OFF",
+    "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
     "reason_code": "price_up"
