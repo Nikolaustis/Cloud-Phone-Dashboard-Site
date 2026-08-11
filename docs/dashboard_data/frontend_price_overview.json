@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T02:00:59+00:00",
+  "updated_at": "2026-08-11T01:51:42+00:00",
   "baseline_config_count": 18,
   "core_duration_buckets": [
     1,
@@ -711,7 +711,7 @@
       "exclude_from_core_price_comparison": false,
       "exclusion_reason": "",
       "ugphone_price": 19.99,
-      "has_price_change": true,
+      "has_price_change": false,
       "promotion_text_changed": true,
       "competitors": {
         "VSPhone": {
@@ -779,9 +779,9 @@
       "ugphone_relative_index": 122.375268,
       "market_position_label": "high",
       "promotion_text": null,
-      "price_change_pct": 0.052659,
-      "reason_code": "price_up",
-      "alert_level": "warning"
+      "price_change_pct": 0.0,
+      "reason_code": "promotion_text_changed",
+      "alert_level": "info"
     },
     {
       "ug_config_id": "uvip___android_10___3_cores___3gb___30gb",
