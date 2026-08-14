@@ -1,121 +1,121 @@
 [
   {
     "name": "products.csv",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\products.csv",
+    "path": "output\\latest\\products.csv",
     "exists": true,
-    "size_bytes": 5004854,
+    "size_bytes": 4916736,
     "safe_to_open": true
   },
   {
     "name": "products.xlsx",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\products.xlsx",
+    "path": "output\\latest\\products.xlsx",
     "exists": true,
-    "size_bytes": 198506,
+    "size_bytes": 195050,
     "safe_to_open": true
   },
   {
     "name": "products.jsonl",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\products.jsonl",
+    "path": "output\\latest\\products.jsonl",
     "exists": true,
-    "size_bytes": 25979262,
+    "size_bytes": 25786629,
     "safe_to_open": true
   },
   {
     "name": "daily_changes.xlsx",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\daily_changes.xlsx",
+    "path": "output\\latest\\daily_changes.xlsx",
     "exists": true,
-    "size_bytes": 167056,
+    "size_bytes": 171801,
     "safe_to_open": true
   },
   {
     "name": "baseline_products_updated.xlsx",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\baseline_products_updated.xlsx",
+    "path": "output\\latest\\baseline_products_updated.xlsx",
     "exists": true,
-    "size_bytes": 139852,
+    "size_bytes": 139914,
     "safe_to_open": true
   },
   {
     "name": "quality_price_report.xlsx",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\quality_price_report.xlsx",
+    "path": "output\\latest\\quality_price_report.xlsx",
     "exists": true,
-    "size_bytes": 333023,
+    "size_bytes": 330820,
     "safe_to_open": true
   },
   {
     "name": "run_summary.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\run_summary.json",
+    "path": "output\\latest\\run_summary.json",
     "exists": true,
-    "size_bytes": 3268,
+    "size_bytes": 3266,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/frontend_price_overview.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\dashboard_data\\frontend_price_overview.json",
+    "path": "output\\latest\\dashboard_data\\frontend_price_overview.json",
     "exists": true,
-    "size_bytes": 42157,
+    "size_bytes": 42291,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/pairing_matrix.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\dashboard_data\\pairing_matrix.json",
+    "path": "output\\latest\\dashboard_data\\pairing_matrix.json",
     "exists": true,
-    "size_bytes": 37934,
+    "size_bytes": 37939,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/duration_price_comparison.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\dashboard_data\\duration_price_comparison.json",
+    "path": "output\\latest\\dashboard_data\\duration_price_comparison.json",
     "exists": true,
-    "size_bytes": 403058,
+    "size_bytes": 405055,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_trends.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\dashboard_data\\price_trends.json",
+    "path": "output\\latest\\dashboard_data\\price_trends.json",
     "exists": true,
-    "size_bytes": 28864208,
+    "size_bytes": 29530846,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_change_tracking.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\dashboard_data\\price_change_tracking.json",
+    "path": "output\\latest\\dashboard_data\\price_change_tracking.json",
     "exists": true,
-    "size_bytes": 701894,
+    "size_bytes": 661899,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/product_text_changes.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\dashboard_data\\product_text_changes.json",
+    "path": "output\\latest\\dashboard_data\\product_text_changes.json",
     "exists": true,
-    "size_bytes": 229282,
+    "size_bytes": 216578,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/metric_definitions.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\dashboard_data\\metric_definitions.json",
+    "path": "output\\latest\\dashboard_data\\metric_definitions.json",
     "exists": true,
     "size_bytes": 6196,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/schedule_status.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\dashboard_data\\schedule_status.json",
+    "path": "output\\latest\\dashboard_data\\schedule_status.json",
     "exists": true,
     "size_bytes": 386,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/meta.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\dashboard_data\\meta.json",
+    "path": "output\\latest\\dashboard_data\\meta.json",
     "exists": true,
-    "size_bytes": 602,
+    "size_bytes": 573,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/current_price_snapshot.json",
-    "path": "output\\cloud_phone_monitor_20260812_012159\\dashboard_data\\current_price_snapshot.json",
+    "path": "output\\latest\\dashboard_data\\current_price_snapshot.json",
     "exists": true,
-    "size_bytes": 525391,
+    "size_bytes": 500460,
     "safe_to_open": true
   }
 ]
