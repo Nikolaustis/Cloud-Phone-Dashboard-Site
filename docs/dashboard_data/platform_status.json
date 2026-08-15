@@ -27,24 +27,24 @@
     "platform": "Redfinger",
     "status": "ok",
     "collection_status": "ok",
-    "baseline_coverage_status": "low",
-    "baseline_coverage_ratio": 0.3857,
-    "raw_records": 78,
-    "product_rows": 27,
-    "priced_product_rows": 27,
+    "baseline_coverage_status": "partial",
+    "baseline_coverage_ratio": 0.6,
+    "raw_records": 113,
+    "product_rows": 42,
+    "priced_product_rows": 42,
     "baseline_rows": 70,
-    "missing_vs_baseline": 43
+    "missing_vs_baseline": 28
   },
   {
     "platform": "LDCloud",
     "status": "ok",
     "collection_status": "ok",
-    "baseline_coverage_status": "full",
-    "baseline_coverage_ratio": 1.0514,
+    "baseline_coverage_status": "changed",
+    "baseline_coverage_ratio": 0.9143,
     "raw_records": 416,
-    "product_rows": 184,
-    "priced_product_rows": 184,
+    "product_rows": 160,
+    "priced_product_rows": 160,
     "baseline_rows": 175,
-    "missing_vs_baseline": 0
+    "missing_vs_baseline": 15
   }
 ]
