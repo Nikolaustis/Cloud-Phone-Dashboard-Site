@@ -5,7 +5,7 @@
     "collection_status": "ok",
     "baseline_coverage_status": "full",
     "baseline_coverage_ratio": 1.5657,
-    "raw_records": 432,
+    "raw_records": 420,
     "product_rows": 155,
     "priced_product_rows": 155,
     "baseline_rows": 99,
@@ -40,11 +40,11 @@
     "status": "ok",
     "collection_status": "ok",
     "baseline_coverage_status": "changed",
-    "baseline_coverage_ratio": 0.9143,
+    "baseline_coverage_ratio": 0.96,
     "raw_records": 416,
-    "product_rows": 160,
-    "priced_product_rows": 160,
+    "product_rows": 168,
+    "priced_product_rows": 168,
     "baseline_rows": 175,
-    "missing_vs_baseline": 15
+    "missing_vs_baseline": 7
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-15T01:27:07+00:00",
+  "generated_at_utc": "2026-08-16T01:27:41+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -59,17 +59,17 @@
       "collection_status": "success",
       "collection_health": "ok",
       "baseline_coverage_status": "changed",
-      "baseline_coverage_ratio": 0.9143,
+      "baseline_coverage_ratio": 0.96,
       "fallback_to_baseline": true,
       "fallback_reason": "current_missing_used_baseline",
       "unmatched_current_rows": 0,
-      "missing_baseline_rows": 15
+      "missing_baseline_rows": 7
     }
   ],
   "blocked_pages": {},
   "failed_pages": {},
   "warnings": [],
-  "fallback_to_baseline_rows": 352,
+  "fallback_to_baseline_rows": 377,
   "unmatched_current_rows": [],
   "missing_baseline_rows": [
     {
@@ -1610,7 +1610,7 @@
       "platform": "Redfinger",
       "product_model": "VIP",
       "device_model": null,
-      "android_version": "12.0",
+      "android_version": "10.0",
       "cpu": "8 cores",
       "ram": "4GB",
       "storage": "64GB",
@@ -1627,7 +1627,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.99/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Taiwan; Thailand; United States; North America",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1636,7 +1636,7 @@
       "platform": "Redfinger",
       "product_model": "VIP",
       "device_model": null,
-      "android_version": "12.0",
+      "android_version": "10.0",
       "cpu": "8 cores",
       "ram": "4GB",
       "storage": "64GB",
@@ -1653,7 +1653,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.37/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Taiwan; Thailand; United States; North America",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1662,7 +1662,7 @@
       "platform": "Redfinger",
       "product_model": "VIP",
       "device_model": null,
-      "android_version": "12.0",
+      "android_version": "10.0",
       "cpu": "8 cores",
       "ram": "4GB",
       "storage": "64GB",
@@ -1679,7 +1679,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.22/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Taiwan; Thailand; United States; North America",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1688,7 +1688,7 @@
       "platform": "Redfinger",
       "product_model": "VIP",
       "device_model": null,
-      "android_version": "12.0",
+      "android_version": "10.0",
       "cpu": "8 cores",
       "ram": "4GB",
       "storage": "64GB",
@@ -1705,7 +1705,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.56/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Taiwan; Thailand; United States; North America",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1714,7 +1714,7 @@
       "platform": "Redfinger",
       "product_model": "VIP",
       "device_model": null,
-      "android_version": "12.0",
+      "android_version": "10.0",
       "cpu": "8 cores",
       "ram": "4GB",
       "storage": "64GB",
@@ -1731,7 +1731,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.33/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Taiwan; Thailand; United States; North America",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -2303,7 +2303,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "Germany; Japan; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -2329,7 +2329,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "Germany; Japan; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -2355,7 +2355,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "Germany; Japan; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -2381,7 +2381,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "Germany; Japan; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -2407,7 +2407,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "🔥Auto-Renew Deal",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "America; Germany; Japan; Hong Kong; Singapore",
+      "current_supported_server_regions": "Germany; Japan; Hong Kong; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -2934,8 +2934,8 @@
     }
   ],
   "raw_run_summary": {
-    "start_time_utc": "2026-08-15T01:00:23+00:00",
-    "end_time_utc": "2026-08-15T01:22:41+00:00",
+    "start_time_utc": "2026-08-16T01:00:23+00:00",
+    "end_time_utc": "2026-08-16T01:23:05+00:00",
     "targets": {
       "VSPhone": "https://cloud.vsphone.com/buy",
       "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
@@ -2945,7 +2945,7 @@
     "blocked_pages": {},
     "failed_pages": {},
     "warnings": [],
-    "api_candidate_count": 161,
+    "api_candidate_count": 157,
     "platform_persistent_profiles": {
       "UgPhone": "output\\auth\\ugphone_profile"
     },
@@ -2969,13 +2969,13 @@
     },
     "quality_price_monitor": {
       "enabled": true,
-      "report_path": "output\\cloud_phone_monitor_20260815_010023\\quality_price_report.xlsx",
+      "report_path": "output\\cloud_phone_monitor_20260816_010023\\quality_price_report.xlsx",
       "ug_config_count": 110,
       "pairing_rows": 1287,
       "quality_adjusted_rows": 1287,
       "relative_index_rows": 110,
-      "critical_alerts": 36,
-      "warning_alerts": 237,
+      "critical_alerts": 37,
+      "warning_alerts": 235,
       "not_comparable_rows": 6,
       "input_basis": "baseline_with_current_overlay",
       "fallback_baseline_rows": 190
@@ -2983,20 +2983,20 @@
     "baseline_monitor": {
       "baseline_found": true,
       "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-      "updated_baseline_path": "output\\cloud_phone_monitor_20260815_010023\\baseline_products_updated.xlsx",
+      "updated_baseline_path": "output\\cloud_phone_monitor_20260816_010023\\baseline_products_updated.xlsx",
       "updated_baseline_price_rows": 323,
-      "daily_changes_path": "output\\cloud_phone_monitor_20260815_010023\\daily_changes.xlsx",
+      "daily_changes_path": "output\\cloud_phone_monitor_20260816_010023\\daily_changes.xlsx",
       "comparison_rows": 431,
       "alert_rows": 226,
       "ug_config_comparison_rows": 35,
       "price_down_rows": 0
     },
-    "total_records": 4737,
+    "total_records": 4725,
     "records_by_platform": {
       "VSPhone": 3776,
       "Redfinger": 113,
       "LDCloud": 416,
-      "UgPhone": 432
+      "UgPhone": 420
     },
     "missing_field_stats": {
       "platform": 0,
@@ -3015,20 +3015,20 @@
       "storage": 35,
       "price": 0,
       "original_price": 0,
-      "discount_price": 4737,
+      "discount_price": 4725,
       "billing_period": 0,
       "duration": 0,
       "purchase_mode": 529,
       "stock_status": 0,
       "promotion_text": 1,
-      "promotion_start_time": 4737,
-      "promotion_end_time": 4737,
+      "promotion_start_time": 4725,
+      "promotion_end_time": 4725,
       "raw_text": 0,
       "extraction_method": 0,
       "confidence": 0,
       "screenshot_path": 0,
       "html_path": 0,
-      "api_response_path": 432,
+      "api_response_path": 420,
       "notes": 0,
       "record_hash": 0
     }
