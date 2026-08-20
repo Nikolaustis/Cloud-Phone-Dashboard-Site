@@ -2,16 +2,16 @@
   "is_mock_data": false,
   "source": "dashboard_export",
   "source_output_dir": "output\\latest",
-  "generated_at_utc": "2026-08-19T02:08:17+00:00",
-  "last_run_at_utc": "2026-08-19T02:01:53+00:00",
-  "last_run_date": "2026-08-19",
+  "generated_at_utc": "2026-08-20T02:00:42+00:00",
+  "last_run_at_utc": "2026-08-20T01:54:46+00:00",
+  "last_run_date": "2026-08-20",
   "safe_data_only": true,
   "current_price_authority": "current_run_products_table",
   "current_price_snapshot_file": "current_price_snapshot.json",
-  "current_price_data_revision": "af0d6c399edb13af71b6",
+  "current_price_data_revision": "941c2c6e3192362d67c6",
   "current_price_overlay_rows": {
     "ug_rows": 1044,
-    "competitor_rows": 935,
-    "rationality_rows": 410
+    "competitor_rows": 1097,
+    "rationality_rows": 445
   }
 }
