@@ -2069,7 +2069,7 @@
     "config": "XVIP / A15 / 8 cores / 8GB / 90GB",
     "duration_bucket": 365,
     "duration_display": "365天",
-    "current_price": 149.989997,
+    "current_price": 149.99,
     "current_promotion_text": "365 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
@@ -3254,66 +3254,6 @@
   {
     "platform": "UgPhone",
     "product_model": "GVIP",
-    "config": "GVIP / A10.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 180,
-    "duration_display": "180天",
-    "current_price": 35.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A10.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 8.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A10.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 74.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A10.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 2.49,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A10.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 22.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 1,
     "duration_display": "1天",
@@ -3341,11 +3281,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 35.99,
+    "current_price": 39.99,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3353,11 +3293,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 8.99,
+    "current_price": 7.99,
     "current_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3365,11 +3305,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 365,
     "duration_display": "365天",
-    "current_price": 74.99,
+    "current_price": 79.990005,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "price_down"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3377,11 +3317,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.49,
+    "current_price": 2.99,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3389,71 +3329,11 @@
     "config": "GVIP / A10 / 4 cores / 4GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 22.99,
+    "current_price": 25.989999,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A12.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 180,
-    "duration_display": "180天",
-    "current_price": 35.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A12.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 8.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A12.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 74.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A12.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 2.49,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A12.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 22.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3485,11 +3365,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 35.99,
+    "current_price": 39.99,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3497,11 +3377,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 8.99,
+    "current_price": 7.99,
     "current_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "previous_promotion_text": "50% OFF For New User; activity; 25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3509,11 +3389,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 365,
     "duration_display": "365天",
-    "current_price": 74.99,
+    "current_price": 82.990001,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "price_down"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3521,11 +3401,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.49,
+    "current_price": 2.99,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3533,71 +3413,11 @@
     "config": "GVIP / A12 / 4 cores / 4GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 22.99,
+    "current_price": 25.989999,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A13.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 180,
-    "duration_display": "180天",
-    "current_price": 35.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A13.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 8.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A13.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 74.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A13.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 7,
-    "duration_display": "7天",
-    "current_price": 2.49,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "UgPhone",
-    "product_model": "GVIP",
-    "config": "GVIP / A13.0 / 4 cores / 4GB / 64GB",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 22.99,
-    "current_promotion_text": "🔥Auto-Renew Deal",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3629,11 +3449,11 @@
     "config": "GVIP / A13 / 4 cores / 4GB / 64GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 35.99,
+    "current_price": 45.99,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3641,11 +3461,11 @@
     "config": "GVIP / A13 / 4 cores / 4GB / 64GB",
     "duration_bucket": 30,
     "duration_display": "30天",
-    "current_price": 8.99,
+    "current_price": 7.99,
     "current_promotion_text": "50% OFF For New User; activity",
     "previous_promotion_text": "50% OFF For New User; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3653,11 +3473,11 @@
     "config": "GVIP / A13 / 4 cores / 4GB / 64GB",
     "duration_bucket": 365,
     "duration_display": "365天",
-    "current_price": 74.99,
+    "current_price": 82.990001,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "price_down"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3665,11 +3485,11 @@
     "config": "GVIP / A13 / 4 cores / 4GB / 64GB",
     "duration_bucket": 7,
     "duration_display": "7天",
-    "current_price": 2.49,
+    "current_price": 2.99,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -3677,11 +3497,11 @@
     "config": "GVIP / A13 / 4 cores / 4GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 22.99,
+    "current_price": 28.989999,
     "current_promotion_text": "25% off for a limited time; activity",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": false,
-    "reason_code": "abnormal_price_change"
+    "reason_code": "price_unchanged"
   },
   {
     "platform": "UgPhone",
@@ -4446,10 +4266,10 @@
     "duration_bucket": 30,
     "duration_display": "30天",
     "current_price": 22.99,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡",
+    "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
@@ -4470,10 +4290,10 @@
     "duration_bucket": 7,
     "duration_display": "7天",
     "current_price": 5.49,
-    "current_promotion_text": "LOWEST PRICE EVER ⚡",
+    "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
+    "reason_code": "price_up"
   },
   {
     "platform": "UgPhone",
