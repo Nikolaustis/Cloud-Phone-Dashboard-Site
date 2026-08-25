@@ -1,11 +1,11 @@
 {
-  "start_time_utc": "2026-08-24T01:32:58+00:00",
-  "end_time_utc": "2026-08-24T01:49:43+00:00",
+  "start_time_utc": "2026-08-25T01:30:49+00:00",
+  "end_time_utc": "2026-08-25T01:47:23+00:00",
   "records_by_platform": {
     "VSPhone": 3896,
     "Redfinger": 113,
     "LDCloud": 416,
-    "UgPhone": 288
+    "UgPhone": 276
   },
   "blocked_pages": {},
   "failed_pages": {},
@@ -13,9 +13,9 @@
   "baseline_monitor": {
     "baseline_found": true,
     "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-    "updated_baseline_path": "output\\cloud_phone_monitor_20260824_013258\\baseline_products_updated.xlsx",
+    "updated_baseline_path": "output\\cloud_phone_monitor_20260825_013049\\baseline_products_updated.xlsx",
     "updated_baseline_price_rows": 328,
-    "daily_changes_path": "output\\cloud_phone_monitor_20260824_013258\\daily_changes.xlsx",
+    "daily_changes_path": "output\\cloud_phone_monitor_20260825_013049\\daily_changes.xlsx",
     "comparison_rows": 431,
     "alert_rows": 221,
     "ug_config_comparison_rows": 28,
@@ -23,13 +23,13 @@
   },
   "quality_price_monitor": {
     "enabled": true,
-    "report_path": "output\\cloud_phone_monitor_20260824_013258\\quality_price_report.xlsx",
+    "report_path": "output\\cloud_phone_monitor_20260825_013049\\quality_price_report.xlsx",
     "ug_config_count": 95,
     "pairing_rows": 1116,
     "quality_adjusted_rows": 1116,
     "relative_index_rows": 95,
-    "critical_alerts": 37,
-    "warning_alerts": 209,
+    "critical_alerts": 40,
+    "warning_alerts": 208,
     "not_comparable_rows": 6,
     "input_basis": "baseline_with_current_overlay",
     "fallback_baseline_rows": 185
@@ -51,20 +51,20 @@
     "storage": 35,
     "price": 0,
     "original_price": 0,
-    "discount_price": 4713,
+    "discount_price": 4701,
     "billing_period": 0,
     "duration": 0,
     "purchase_mode": 529,
     "stock_status": 0,
     "promotion_text": 1,
-    "promotion_start_time": 4713,
-    "promotion_end_time": 4713,
+    "promotion_start_time": 4701,
+    "promotion_end_time": 4701,
     "raw_text": 0,
     "extraction_method": 0,
     "confidence": 0,
     "screenshot_path": 0,
     "html_path": 0,
-    "api_response_path": 288,
+    "api_response_path": 276,
     "notes": 0,
     "record_hash": 0
   }
