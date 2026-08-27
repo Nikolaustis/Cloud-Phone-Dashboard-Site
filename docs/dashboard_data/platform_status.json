@@ -16,10 +16,10 @@
     "status": "ok",
     "collection_status": "ok",
     "baseline_coverage_status": "full",
-    "baseline_coverage_ratio": 2.2249,
-    "raw_records": 3896,
-    "product_rows": 376,
-    "priced_product_rows": 376,
+    "baseline_coverage_ratio": 2.142,
+    "raw_records": 3882,
+    "product_rows": 362,
+    "priced_product_rows": 362,
     "baseline_rows": 169,
     "missing_vs_baseline": 0
   },
@@ -29,7 +29,7 @@
     "collection_status": "ok",
     "baseline_coverage_status": "low",
     "baseline_coverage_ratio": 0.4,
-    "raw_records": 89,
+    "raw_records": 75,
     "product_rows": 28,
     "priced_product_rows": 28,
     "baseline_rows": 70,
@@ -39,12 +39,12 @@
     "platform": "LDCloud",
     "status": "ok",
     "collection_status": "ok",
-    "baseline_coverage_status": "changed",
-    "baseline_coverage_ratio": 0.96,
+    "baseline_coverage_status": "full",
+    "baseline_coverage_ratio": 1.0514,
     "raw_records": 416,
-    "product_rows": 168,
-    "priced_product_rows": 168,
+    "product_rows": 184,
+    "priced_product_rows": 184,
     "baseline_rows": 175,
-    "missing_vs_baseline": 7
+    "missing_vs_baseline": 0
   }
 ]

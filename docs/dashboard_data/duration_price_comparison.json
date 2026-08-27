@@ -405,7 +405,7 @@
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -469,8 +469,8 @@
         "market_position_label": "high",
         "promotion_text": null,
         "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -497,7 +497,7 @@
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -561,8 +561,8 @@
         "market_position_label": "high",
         "promotion_text": null,
         "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -589,7 +589,7 @@
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
         "has_price_change": false,
-        "promotion_text_changed": true,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -653,8 +653,8 @@
         "market_position_label": "high",
         "promotion_text": null,
         "price_change_pct": 0.0,
-        "reason_code": "promotion_text_changed",
-        "alert_level": "info"
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -708,7 +708,7 @@
             "product_model": "SVIP",
             "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
             "current_price": null,
-            "config_similarity_score": 83.86,
+            "config_similarity_score": 81,
             "comparability_level": "adjusted_match",
             "included_in_core_median": false,
             "exclusion_reason": "actual_duration_bucket_mismatch",
@@ -724,7 +724,7 @@
             "product_model": "XVIP",
             "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
             "current_price": null,
-            "config_similarity_score": 77.92,
+            "config_similarity_score": 75.06,
             "comparability_level": "adjusted_match",
             "included_in_core_median": false,
             "exclusion_reason": "actual_duration_bucket_mismatch",
@@ -1331,8 +1331,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1377,9 +1377,9 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
             "current_price": 4.99,
-            "config_similarity_score": 77,
+            "config_similarity_score": 77.17,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -1399,9 +1399,9 @@
         "ugphone_relative_index": 76.565657,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.11655,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": 0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -1419,7 +1419,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 4.29,
+        "ugphone_price": 3.79,
         "ugphone_current_observed": true,
         "ugphone_non_subscription_observed": true,
         "ugphone_price_source": "current_products",
@@ -1427,8 +1427,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1492,12 +1492,12 @@
           }
         },
         "competitor_median_price": 4.95,
-        "ugphone_relative_index": 86.666665,
+        "ugphone_relative_index": 76.565657,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.11655,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": 0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -1523,8 +1523,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -1569,12 +1569,12 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
             "current_price": 4.99,
-            "config_similarity_score": 70,
-            "comparability_level": "weak_match",
-            "included_in_core_median": false,
-            "exclusion_reason": "weak_match_not_in_core_median",
+            "config_similarity_score": 79.17,
+            "comparability_level": "adjusted_match",
+            "included_in_core_median": true,
+            "exclusion_reason": "",
             "pairing_source": "manual_mapping",
             "promotion_text": "8 days; 日常价",
             "price_variant": "regular",
@@ -1587,13 +1587,13 @@
             "comparison_duration_note": "LDCloud没有7天购买时限；使用8天套餐参与7天档比较。"
           }
         },
-        "competitor_median_price": 4.47,
-        "ugphone_relative_index": 84.787472,
+        "competitor_median_price": 4.95,
+        "ugphone_relative_index": 76.565657,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.11655,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": 0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -1611,15 +1611,15 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 5.99,
-        "ugphone_current_observed": false,
-        "ugphone_non_subscription_observed": false,
-        "ugphone_price_source": "carry_forward_last_observed",
-        "analysis_status": "carry_forward_last_observed",
-        "analysis_note": "本次未采到该订阅SKU；沿用上一真实采集价，直到下一真实采集点。",
+        "ugphone_price": 5.49,
+        "ugphone_current_observed": true,
+        "ugphone_non_subscription_observed": true,
+        "ugphone_price_source": "current_products",
+        "analysis_status": "current_observed",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": false,
+        "has_price_change": true,
         "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
@@ -1647,7 +1647,7 @@
             "product_model": "SVIP",
             "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
             "current_price": 6.95,
-            "config_similarity_score": 92.86,
+            "config_similarity_score": 90,
             "comparability_level": "strong_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -1667,7 +1667,7 @@
             "product_model": "XVIP",
             "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
             "current_price": 6.99,
-            "config_similarity_score": 83.92,
+            "config_similarity_score": 81.06,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -1684,12 +1684,12 @@
           }
         },
         "competitor_median_price": 6.95,
-        "ugphone_relative_index": 86.187052,
+        "ugphone_relative_index": 78.992806,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": -0.083472,
+        "reason_code": "price_down",
+        "alert_level": "info"
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -1707,15 +1707,15 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 5.99,
-        "ugphone_current_observed": false,
-        "ugphone_non_subscription_observed": false,
-        "ugphone_price_source": "carry_forward_last_observed",
-        "analysis_status": "carry_forward_last_observed",
-        "analysis_note": "本次未采到该订阅SKU；沿用上一真实采集价，直到下一真实采集点。",
+        "ugphone_price": 5.49,
+        "ugphone_current_observed": true,
+        "ugphone_non_subscription_observed": true,
+        "ugphone_price_source": "current_products",
+        "analysis_status": "current_observed",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": false,
+        "has_price_change": true,
         "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
@@ -1780,12 +1780,12 @@
           }
         },
         "competitor_median_price": 5.97,
-        "ugphone_relative_index": 100.33501,
+        "ugphone_relative_index": 91.959799,
         "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": -0.083472,
+        "reason_code": "price_down",
+        "alert_level": "info"
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -2294,8 +2294,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2340,9 +2340,9 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
             "current_price": 12.99,
-            "config_similarity_score": 80,
+            "config_similarity_score": 80.17,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -2362,9 +2362,9 @@
         "ugphone_relative_index": 77.142857,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.166806,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": 0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -2382,7 +2382,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 11.99,
+        "ugphone_price": 9.99,
         "ugphone_current_observed": true,
         "ugphone_non_subscription_observed": true,
         "ugphone_price_source": "current_products",
@@ -2390,8 +2390,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2455,12 +2455,12 @@
           }
         },
         "competitor_median_price": 12.95,
-        "ugphone_relative_index": 92.586873,
-        "market_position_label": "competitive",
+        "ugphone_relative_index": 77.142857,
+        "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.166806,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": 0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -2486,8 +2486,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -2532,12 +2532,12 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
             "current_price": 12.99,
-            "config_similarity_score": 73,
-            "comparability_level": "weak_match",
-            "included_in_core_median": false,
-            "exclusion_reason": "weak_match_not_in_core_median",
+            "config_similarity_score": 82.17,
+            "comparability_level": "adjusted_match",
+            "included_in_core_median": true,
+            "exclusion_reason": "",
             "pairing_source": "manual_mapping",
             "promotion_text": "30 days; 日常价",
             "price_variant": "regular",
@@ -2550,13 +2550,13 @@
             "comparison_duration_note": ""
           }
         },
-        "competitor_median_price": 11.97,
-        "ugphone_relative_index": 83.458647,
+        "competitor_median_price": 12.95,
+        "ugphone_relative_index": 77.142857,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.166806,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": 0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -2574,15 +2574,15 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 17.99,
-        "ugphone_current_observed": false,
-        "ugphone_non_subscription_observed": false,
-        "ugphone_price_source": "carry_forward_last_observed",
-        "analysis_status": "carry_forward_last_observed",
-        "analysis_note": "本次未采到该订阅SKU；沿用上一真实采集价，直到下一真实采集点。",
+        "ugphone_price": 15.99,
+        "ugphone_current_observed": true,
+        "ugphone_non_subscription_observed": true,
+        "ugphone_price_source": "current_products",
+        "analysis_status": "current_observed",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": false,
+        "has_price_change": true,
         "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
@@ -2610,7 +2610,7 @@
             "product_model": "SVIP",
             "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
             "current_price": 15.95,
-            "config_similarity_score": 92.86,
+            "config_similarity_score": 90,
             "comparability_level": "strong_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -2630,7 +2630,7 @@
             "product_model": "XVIP",
             "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
             "current_price": 19.99,
-            "config_similarity_score": 86.92,
+            "config_similarity_score": 84.06,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -2647,12 +2647,12 @@
           }
         },
         "competitor_median_price": 15.99,
-        "ugphone_relative_index": 112.507817,
-        "market_position_label": "slightly_high",
+        "ugphone_relative_index": 100.0,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": -0.111173,
+        "reason_code": "abnormal_price_change",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -2670,15 +2670,15 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 17.99,
-        "ugphone_current_observed": false,
-        "ugphone_non_subscription_observed": false,
-        "ugphone_price_source": "carry_forward_last_observed",
-        "analysis_status": "carry_forward_last_observed",
-        "analysis_note": "本次未采到该订阅SKU；沿用上一真实采集价，直到下一真实采集点。",
+        "ugphone_price": 15.99,
+        "ugphone_current_observed": true,
+        "ugphone_non_subscription_observed": true,
+        "ugphone_price_source": "current_products",
+        "analysis_status": "current_observed",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": false,
+        "has_price_change": true,
         "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
@@ -2743,12 +2743,12 @@
           }
         },
         "competitor_median_price": 15.99,
-        "ugphone_relative_index": 112.507817,
-        "market_position_label": "slightly_high",
+        "ugphone_relative_index": 100.0,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": -0.111173,
+        "reason_code": "abnormal_price_change",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -3257,8 +3257,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3303,9 +3303,9 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
             "current_price": 25.99,
-            "config_similarity_score": 80,
+            "config_similarity_score": 80.17,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3325,9 +3325,9 @@
         "ugphone_relative_index": 111.115228,
         "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": -0.090937,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": -0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -3345,7 +3345,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 32.990001,
+        "ugphone_price": 29.99,
         "ugphone_current_observed": true,
         "ugphone_non_subscription_observed": true,
         "ugphone_price_source": "current_products",
@@ -3353,8 +3353,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3418,12 +3418,12 @@
           }
         },
         "competitor_median_price": 26.99,
-        "ugphone_relative_index": 122.230459,
-        "market_position_label": "high",
+        "ugphone_relative_index": 111.115228,
+        "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": -0.090937,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": -0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -3449,8 +3449,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -3495,12 +3495,12 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
             "current_price": 25.99,
-            "config_similarity_score": 73,
-            "comparability_level": "weak_match",
-            "included_in_core_median": false,
-            "exclusion_reason": "weak_match_not_in_core_median",
+            "config_similarity_score": 82.17,
+            "comparability_level": "adjusted_match",
+            "included_in_core_median": true,
+            "exclusion_reason": "",
             "pairing_source": "manual_mapping",
             "promotion_text": "90 days; 日常价",
             "price_variant": "regular",
@@ -3513,13 +3513,13 @@
             "comparison_duration_note": ""
           }
         },
-        "competitor_median_price": 31.47,
-        "ugphone_relative_index": 95.297108,
-        "market_position_label": "competitive",
+        "competitor_median_price": 26.99,
+        "ugphone_relative_index": 111.115228,
+        "market_position_label": "slightly_high",
         "promotion_text": null,
-        "price_change_pct": -0.090937,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": -0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -3537,15 +3537,15 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 50.990001,
-        "ugphone_current_observed": false,
-        "ugphone_non_subscription_observed": false,
-        "ugphone_price_source": "carry_forward_last_observed",
-        "analysis_status": "carry_forward_last_observed",
-        "analysis_note": "本次未采到该订阅SKU；沿用上一真实采集价，直到下一真实采集点。",
+        "ugphone_price": 47.99,
+        "ugphone_current_observed": true,
+        "ugphone_non_subscription_observed": true,
+        "ugphone_price_source": "current_products",
+        "analysis_status": "current_observed",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": false,
+        "has_price_change": true,
         "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
@@ -3573,7 +3573,7 @@
             "product_model": "SVIP",
             "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
             "current_price": 45.950001,
-            "config_similarity_score": 92.86,
+            "config_similarity_score": 90,
             "comparability_level": "strong_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3593,7 +3593,7 @@
             "product_model": "XVIP",
             "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
             "current_price": 39.99,
-            "config_similarity_score": 86.92,
+            "config_similarity_score": 84.06,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -3610,12 +3610,12 @@
           }
         },
         "competitor_median_price": 45.950001,
-        "ugphone_relative_index": 110.968444,
-        "market_position_label": "slightly_high",
+        "ugphone_relative_index": 104.439606,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": -0.058835,
+        "reason_code": "price_down",
+        "alert_level": "info"
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -3633,15 +3633,15 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 50.990001,
-        "ugphone_current_observed": false,
-        "ugphone_non_subscription_observed": false,
-        "ugphone_price_source": "carry_forward_last_observed",
-        "analysis_status": "carry_forward_last_observed",
-        "analysis_note": "本次未采到该订阅SKU；沿用上一真实采集价，直到下一真实采集点。",
+        "ugphone_price": 47.99,
+        "ugphone_current_observed": true,
+        "ugphone_non_subscription_observed": true,
+        "ugphone_price_source": "current_products",
+        "analysis_status": "current_observed",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": false,
+        "has_price_change": true,
         "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
@@ -3706,12 +3706,12 @@
           }
         },
         "competitor_median_price": 45.950001,
-        "ugphone_relative_index": 110.968444,
-        "market_position_label": "slightly_high",
+        "ugphone_relative_index": 104.439606,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": -0.058835,
+        "reason_code": "price_down",
+        "alert_level": "info"
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -4187,8 +4187,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -4225,9 +4225,9 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
             "current_price": 44.99,
-            "config_similarity_score": 80,
+            "config_similarity_score": 80.17,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -4247,9 +4247,9 @@
         "ugphone_relative_index": 117.781729,
         "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": -0.070188,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": -0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -4267,7 +4267,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 56.989998,
+        "ugphone_price": 52.99,
         "ugphone_current_observed": true,
         "ugphone_non_subscription_observed": true,
         "ugphone_price_source": "current_products",
@@ -4275,8 +4275,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -4332,12 +4332,12 @@
           }
         },
         "competitor_median_price": 44.99,
-        "ugphone_relative_index": 126.672589,
+        "ugphone_relative_index": 117.781729,
         "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": -0.070188,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": -0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -4360,11 +4360,11 @@
         "ugphone_non_subscription_observed": true,
         "ugphone_price_source": "current_products",
         "analysis_status": "current_observed",
-        "analysis_note": "本次 products 表存在订阅价格。 核心竞品价格不足，无法计算相对指数。",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
-        "market_position_status": "competitor_insufficient",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "market_position_status": "comparable",
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -4401,12 +4401,12 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
             "current_price": 44.99,
-            "config_similarity_score": 73,
-            "comparability_level": "weak_match",
-            "included_in_core_median": false,
-            "exclusion_reason": "weak_match_not_in_core_median",
+            "config_similarity_score": 82.17,
+            "comparability_level": "adjusted_match",
+            "included_in_core_median": true,
+            "exclusion_reason": "",
             "pairing_source": "manual_mapping",
             "promotion_text": "180 days: Aug. Offer; You Save: $32.95(42%); 六月180天特价：35.99、44.99、63.99、110.99",
             "price_variant": "public_offer",
@@ -4419,13 +4419,13 @@
             "comparison_duration_note": ""
           }
         },
-        "competitor_median_price": null,
-        "ugphone_relative_index": null,
-        "market_position_label": "unknown",
+        "competitor_median_price": 44.99,
+        "ugphone_relative_index": 117.781729,
+        "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": -0.070188,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": -0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -4443,15 +4443,15 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 85.990002,
-        "ugphone_current_observed": false,
-        "ugphone_non_subscription_observed": false,
-        "ugphone_price_source": "carry_forward_last_observed",
-        "analysis_status": "carry_forward_last_observed",
-        "analysis_note": "本次未采到该订阅SKU；沿用上一真实采集价，直到下一真实采集点。",
+        "ugphone_price": 81.99,
+        "ugphone_current_observed": true,
+        "ugphone_non_subscription_observed": true,
+        "ugphone_price_source": "current_products",
+        "analysis_status": "current_observed",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": false,
+        "has_price_change": true,
         "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
@@ -4475,7 +4475,7 @@
             "product_model": "SVIP",
             "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
             "current_price": null,
-            "config_similarity_score": 83.86,
+            "config_similarity_score": 81,
             "comparability_level": "adjusted_match",
             "included_in_core_median": false,
             "exclusion_reason": "actual_duration_bucket_mismatch",
@@ -4491,7 +4491,7 @@
             "product_model": "XVIP",
             "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
             "current_price": 63.99,
-            "config_similarity_score": 86.92,
+            "config_similarity_score": 84.06,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -4508,12 +4508,12 @@
           }
         },
         "competitor_median_price": 63.99,
-        "ugphone_relative_index": 134.380375,
+        "ugphone_relative_index": 128.129395,
         "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": -0.046517,
+        "reason_code": "price_down",
+        "alert_level": "info"
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -4531,15 +4531,15 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 85.990002,
-        "ugphone_current_observed": false,
-        "ugphone_non_subscription_observed": false,
-        "ugphone_price_source": "carry_forward_last_observed",
-        "analysis_status": "carry_forward_last_observed",
-        "analysis_note": "本次未采到该订阅SKU；沿用上一真实采集价，直到下一真实采集点。",
+        "ugphone_price": 81.99,
+        "ugphone_current_observed": true,
+        "ugphone_non_subscription_observed": true,
+        "ugphone_price_source": "current_products",
+        "analysis_status": "current_observed",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": false,
+        "has_price_change": true,
         "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
@@ -4596,12 +4596,12 @@
           }
         },
         "competitor_median_price": 63.99,
-        "ugphone_relative_index": 134.380375,
+        "ugphone_relative_index": 128.129395,
         "market_position_label": "high",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": -0.046517,
+        "reason_code": "price_down",
+        "alert_level": "info"
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
@@ -5101,8 +5101,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -5147,9 +5147,9 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
             "current_price": 95.99,
-            "config_similarity_score": 80,
+            "config_similarity_score": 80.17,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -5169,9 +5169,9 @@
         "ugphone_relative_index": 81.281922,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.060248,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": -0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_12___6_cores___5_3gb___64gb",
@@ -5189,7 +5189,7 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 82.990001,
+        "ugphone_price": 77.99,
         "ugphone_current_observed": true,
         "ugphone_non_subscription_observed": true,
         "ugphone_price_source": "current_products",
@@ -5197,8 +5197,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -5262,12 +5262,12 @@
           }
         },
         "competitor_median_price": 95.949995,
-        "ugphone_relative_index": 86.492971,
+        "ugphone_relative_index": 81.281922,
         "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.060248,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": -0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "kvip___android_13___6_cores___5_3gb___64gb",
@@ -5293,8 +5293,8 @@
         "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": true,
-        "promotion_text_changed": true,
+        "has_price_change": false,
+        "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
             "platform": "VSPhone",
@@ -5339,12 +5339,12 @@
           "LDCloud": {
             "platform": "LDCloud",
             "product_model": "KVIP",
-            "config": "KVIP / Android 12 / 4 cores / 5.3GB / 64GB",
+            "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
             "current_price": 95.99,
-            "config_similarity_score": 73,
-            "comparability_level": "weak_match",
-            "included_in_core_median": false,
-            "exclusion_reason": "weak_match_not_in_core_median",
+            "config_similarity_score": 82.17,
+            "comparability_level": "adjusted_match",
+            "included_in_core_median": true,
+            "exclusion_reason": "",
             "pairing_source": "manual_mapping",
             "promotion_text": "365 days; 日常价",
             "price_variant": "regular",
@@ -5357,13 +5357,13 @@
             "comparison_duration_note": ""
           }
         },
-        "competitor_median_price": 83.469998,
-        "ugphone_relative_index": 93.434769,
-        "market_position_label": "competitive",
+        "competitor_median_price": 95.949995,
+        "ugphone_relative_index": 81.281922,
+        "market_position_label": "below_market",
         "promotion_text": null,
-        "price_change_pct": -0.060248,
-        "reason_code": "price_down",
-        "alert_level": "info"
+        "price_change_pct": -0.0,
+        "reason_code": "price_unchanged",
+        "alert_level": "none"
       },
       {
         "ug_config_id": "mvip___android_10___8_cores___8gb___128gb",
@@ -5381,15 +5381,15 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 150.99,
-        "ugphone_current_observed": false,
-        "ugphone_non_subscription_observed": false,
-        "ugphone_price_source": "carry_forward_last_observed",
-        "analysis_status": "carry_forward_last_observed",
-        "analysis_note": "本次未采到该订阅SKU；沿用上一真实采集价，直到下一真实采集点。",
+        "ugphone_price": 145.99,
+        "ugphone_current_observed": true,
+        "ugphone_non_subscription_observed": true,
+        "ugphone_price_source": "current_products",
+        "analysis_status": "current_observed",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": false,
+        "has_price_change": true,
         "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
@@ -5417,7 +5417,7 @@
             "product_model": "SVIP",
             "config": "SVIP / Android 10 / 8 cores / 8GB / 128GB",
             "current_price": 139.950003,
-            "config_similarity_score": 92.86,
+            "config_similarity_score": 90,
             "comparability_level": "strong_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -5437,7 +5437,7 @@
             "product_model": "XVIP",
             "config": "XVIP / Android 10 / 8 cores / 8GB / 90GB",
             "current_price": 149.99,
-            "config_similarity_score": 86.92,
+            "config_similarity_score": 84.06,
             "comparability_level": "adjusted_match",
             "included_in_core_median": true,
             "exclusion_reason": "",
@@ -5454,12 +5454,12 @@
           }
         },
         "competitor_median_price": 139.950003,
-        "ugphone_relative_index": 107.888529,
-        "market_position_label": "slightly_high",
+        "ugphone_relative_index": 104.315825,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": -0.270013,
+        "reason_code": "abnormal_price_change",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "mvip___android_13___8_cores___8gb___128gb",
@@ -5477,15 +5477,15 @@
         "duration_parse_status": "success",
         "exclude_from_core_price_comparison": false,
         "exclusion_reason": "",
-        "ugphone_price": 199.989997,
-        "ugphone_current_observed": false,
-        "ugphone_non_subscription_observed": false,
-        "ugphone_price_source": "carry_forward_last_observed",
-        "analysis_status": "carry_forward_last_observed",
-        "analysis_note": "本次未采到该订阅SKU；沿用上一真实采集价，直到下一真实采集点。",
+        "ugphone_price": 145.99,
+        "ugphone_current_observed": true,
+        "ugphone_non_subscription_observed": true,
+        "ugphone_price_source": "current_products",
+        "analysis_status": "current_observed",
+        "analysis_note": "本次 products 表存在订阅价格。",
         "exclude_from_market_position": false,
         "market_position_status": "comparable",
-        "has_price_change": false,
+        "has_price_change": true,
         "promotion_text_changed": false,
         "competitors": {
           "VSPhone": {
@@ -5550,12 +5550,12 @@
           }
         },
         "competitor_median_price": 139.950003,
-        "ugphone_relative_index": 142.901031,
-        "market_position_label": "high",
+        "ugphone_relative_index": 104.315825,
+        "market_position_label": "competitive",
         "promotion_text": null,
-        "price_change_pct": 0.0,
-        "reason_code": "price_unchanged",
-        "alert_level": "none"
+        "price_change_pct": -0.270013,
+        "reason_code": "abnormal_price_change",
+        "alert_level": "warning"
       },
       {
         "ug_config_id": "svip___android_10___8_cores___16gb___200gb",
