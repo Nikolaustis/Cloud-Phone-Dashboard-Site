@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-27T02:19:12+00:00",
+  "generated_at_utc": "2026-08-28T01:48:19+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -11,11 +11,11 @@
       "collection_status": "success",
       "collection_health": "ok",
       "baseline_coverage_status": "changed",
-      "baseline_coverage_ratio": 0.8788,
+      "baseline_coverage_ratio": 0.9091,
       "fallback_to_baseline": true,
       "fallback_reason": "current_missing_used_baseline",
       "unmatched_current_rows": 0,
-      "missing_baseline_rows": 12
+      "missing_baseline_rows": 9
     },
     {
       "platform": "VSPhone",
@@ -27,7 +27,7 @@
       "collection_status": "success",
       "collection_health": "ok",
       "baseline_coverage_status": "full",
-      "baseline_coverage_ratio": 2.142,
+      "baseline_coverage_ratio": 2.0592,
       "fallback_to_baseline": false,
       "fallback_reason": "",
       "unmatched_current_rows": 0,
@@ -296,7 +296,7 @@
       "current_list_price_30d": 43.98,
       "list_price_index": null,
       "baseline_discount_rate": null,
-      "current_discount_rate": 0.0,
+      "current_discount_rate": 0,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
       "current_promotion_text": "15 days; 日常价",
@@ -304,7 +304,7 @@
       "current_supported_server_regions": "Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
+      "notes": "baseline_row_missing_for_current_product"
     },
     {
       "platform": "LDCloud",
@@ -330,7 +330,7 @@
       "current_supported_server_regions": "Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
+      "notes": "baseline_row_missing_for_current_product"
     },
     {
       "platform": "LDCloud",
@@ -348,7 +348,7 @@
       "current_list_price_30d": 69.9,
       "list_price_index": null,
       "baseline_discount_rate": null,
-      "current_discount_rate": 0.0,
+      "current_discount_rate": 0,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
       "current_promotion_text": "3 days; 日常价",
@@ -356,7 +356,7 @@
       "current_supported_server_regions": "Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
+      "notes": "baseline_row_missing_for_current_product"
     },
     {
       "platform": "LDCloud",
@@ -374,7 +374,7 @@
       "current_list_price_30d": 39.99,
       "list_price_index": null,
       "baseline_discount_rate": null,
-      "current_discount_rate": 0.0,
+      "current_discount_rate": 0,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
       "current_promotion_text": "30 days; 日常价",
@@ -382,7 +382,7 @@
       "current_supported_server_regions": "Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
+      "notes": "baseline_row_missing_for_current_product"
     },
     {
       "platform": "LDCloud",
@@ -408,7 +408,7 @@
       "current_supported_server_regions": "Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
+      "notes": "baseline_row_missing_for_current_product"
     },
     {
       "platform": "LDCloud",
@@ -434,7 +434,7 @@
       "current_supported_server_regions": "Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
+      "notes": "baseline_row_missing_for_current_product"
     },
     {
       "platform": "LDCloud",
@@ -452,7 +452,7 @@
       "current_list_price_30d": 48.7125,
       "list_price_index": null,
       "baseline_discount_rate": null,
-      "current_discount_rate": 0.0,
+      "current_discount_rate": 0,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
       "current_promotion_text": "8 days; 日常价",
@@ -460,7 +460,7 @@
       "current_supported_server_regions": "Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
+      "notes": "baseline_row_missing_for_current_product"
     },
     {
       "platform": "LDCloud",
@@ -486,7 +486,7 @@
       "current_supported_server_regions": "Taiwan; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
+      "notes": "baseline_row_missing_for_current_product"
     },
     {
       "platform": "LDCloud",
@@ -512,7 +512,7 @@
       "current_supported_server_regions": "Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product"
+      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
     },
     {
       "platform": "LDCloud",
@@ -538,7 +538,7 @@
       "current_supported_server_regions": "Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product"
+      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
     },
     {
       "platform": "LDCloud",
@@ -556,7 +556,7 @@
       "current_list_price_30d": 19.9,
       "list_price_index": null,
       "baseline_discount_rate": null,
-      "current_discount_rate": 0,
+      "current_discount_rate": 0.0,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
       "current_promotion_text": "3 days; 日常价",
@@ -564,7 +564,7 @@
       "current_supported_server_regions": "Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product"
+      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
     },
     {
       "platform": "LDCloud",
@@ -582,7 +582,7 @@
       "current_list_price_30d": 9.99,
       "list_price_index": null,
       "baseline_discount_rate": null,
-      "current_discount_rate": 0,
+      "current_discount_rate": 0.0,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
       "current_promotion_text": "30 days; 日常价",
@@ -590,7 +590,7 @@
       "current_supported_server_regions": "Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product"
+      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
     },
     {
       "platform": "LDCloud",
@@ -616,7 +616,7 @@
       "current_supported_server_regions": "Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product"
+      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
     },
     {
       "platform": "LDCloud",
@@ -642,7 +642,7 @@
       "current_supported_server_regions": "Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product"
+      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
     },
     {
       "platform": "LDCloud",
@@ -660,7 +660,7 @@
       "current_list_price_30d": 14.9625,
       "list_price_index": null,
       "baseline_discount_rate": null,
-      "current_discount_rate": 0,
+      "current_discount_rate": 0.0,
       "discount_rate_change": null,
       "baseline_promotion_text": null,
       "current_promotion_text": "8 days; 日常价",
@@ -668,7 +668,7 @@
       "current_supported_server_regions": "Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product"
+      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
     },
     {
       "platform": "LDCloud",
@@ -694,7 +694,7 @@
       "current_supported_server_regions": "Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
-      "notes": "baseline_row_missing_for_current_product"
+      "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
     },
     {
       "platform": "LDCloud",
@@ -925,7 +925,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.43/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Thailand; Taiwan; United States; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -951,7 +951,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.26/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Thailand; Taiwan; United States; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -977,7 +977,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.40/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Thailand; Taiwan; United States; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1003,7 +1003,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.43/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand",
+      "current_supported_server_regions": "Singapore; Thailand; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1029,7 +1029,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.26/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand",
+      "current_supported_server_regions": "Singapore; Thailand; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1055,7 +1055,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.40/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand",
+      "current_supported_server_regions": "Singapore; Thailand; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1081,7 +1081,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.43/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand",
+      "current_supported_server_regions": "Singapore; Thailand; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1107,7 +1107,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.26/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand",
+      "current_supported_server_regions": "Singapore; Thailand; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1133,7 +1133,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.40/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand",
+      "current_supported_server_regions": "Singapore; Thailand; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1159,7 +1159,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.53/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand; Taiwan; United States; North America",
+      "current_supported_server_regions": "Thailand; Taiwan; United States; North America; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1185,7 +1185,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.38/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand; Taiwan; United States; North America",
+      "current_supported_server_regions": "Thailand; Taiwan; United States; North America; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1211,7 +1211,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.51/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand; Taiwan; United States; North America",
+      "current_supported_server_regions": "Thailand; Taiwan; United States; North America; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1237,7 +1237,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.53/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1263,7 +1263,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.38/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1289,7 +1289,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.51/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1315,7 +1315,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.53/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand",
+      "current_supported_server_regions": "Thailand; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1341,7 +1341,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.38/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand",
+      "current_supported_server_regions": "Thailand; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1367,7 +1367,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.51/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand",
+      "current_supported_server_regions": "Thailand; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1454,7 +1454,7 @@
       "platform": "Redfinger",
       "product_model": "VIP",
       "device_model": null,
-      "android_version": "12",
+      "android_version": "10",
       "cpu": "8 cores",
       "ram": "4GB",
       "storage": null,
@@ -1471,7 +1471,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.37/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Taiwan; Thailand; United States; North America; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1480,7 +1480,7 @@
       "platform": "Redfinger",
       "product_model": "VIP",
       "device_model": null,
-      "android_version": "12",
+      "android_version": "10",
       "cpu": "8 cores",
       "ram": "4GB",
       "storage": null,
@@ -1497,7 +1497,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.22/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Taiwan; Thailand; United States; North America; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1506,7 +1506,7 @@
       "platform": "Redfinger",
       "product_model": "VIP",
       "device_model": null,
-      "android_version": "12",
+      "android_version": "10",
       "cpu": "8 cores",
       "ram": "4GB",
       "storage": null,
@@ -1523,7 +1523,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈0.33/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Taiwan; Thailand; United States; North America; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1549,7 +1549,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈1.13/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand; Taiwan",
+      "current_supported_server_regions": "Thailand; Taiwan; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1575,7 +1575,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈1.07/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Thailand; Taiwan",
+      "current_supported_server_regions": "Thailand; Taiwan; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1601,7 +1601,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈1.13/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1627,15 +1627,15 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "≈1.07/day",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States",
+      "current_supported_server_regions": "Singapore; Thailand; Taiwan; United States; Vietnam",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
     }
   ],
   "raw_run_summary": {
-    "start_time_utc": "2026-08-27T01:53:32+00:00",
-    "end_time_utc": "2026-08-27T02:11:27+00:00",
+    "start_time_utc": "2026-08-28T01:22:46+00:00",
+    "end_time_utc": "2026-08-28T01:40:32+00:00",
     "targets": {
       "VSPhone": "https://cloud.vsphone.com/buy",
       "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
@@ -1669,34 +1669,34 @@
     },
     "quality_price_monitor": {
       "enabled": true,
-      "report_path": "output\\cloud_phone_monitor_20260827_015332\\quality_price_report.xlsx",
+      "report_path": "output\\cloud_phone_monitor_20260828_012246\\quality_price_report.xlsx",
       "ug_config_count": 60,
       "pairing_rows": 765,
       "quality_adjusted_rows": 765,
       "relative_index_rows": 60,
-      "critical_alerts": 27,
-      "warning_alerts": 145,
-      "not_comparable_rows": 9,
+      "critical_alerts": 25,
+      "warning_alerts": 146,
+      "not_comparable_rows": 3,
       "input_basis": "baseline_with_current_overlay",
       "fallback_baseline_rows": 148
     },
     "baseline_monitor": {
       "baseline_found": true,
       "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-      "updated_baseline_path": "output\\cloud_phone_monitor_20260827_015332\\baseline_products_updated.xlsx",
+      "updated_baseline_path": "output\\cloud_phone_monitor_20260828_012246\\baseline_products_updated.xlsx",
       "updated_baseline_price_rows": 365,
-      "daily_changes_path": "output\\cloud_phone_monitor_20260827_015332\\daily_changes.xlsx",
+      "daily_changes_path": "output\\cloud_phone_monitor_20260828_012246\\daily_changes.xlsx",
       "comparison_rows": 431,
       "alert_rows": 224,
-      "ug_config_comparison_rows": 35,
-      "price_down_rows": 5
+      "ug_config_comparison_rows": 28,
+      "price_down_rows": 6
     },
-    "total_records": 4553,
+    "total_records": 4612,
     "records_by_platform": {
-      "VSPhone": 3882,
-      "Redfinger": 75,
+      "VSPhone": 3868,
+      "Redfinger": 100,
       "LDCloud": 416,
-      "UgPhone": 180
+      "UgPhone": 228
     },
     "missing_field_stats": {
       "platform": 0,
@@ -1708,27 +1708,27 @@
       "product_category": 0,
       "product_name": 0,
       "product_model": 0,
-      "device_model": 75,
+      "device_model": 100,
       "android_version": 120,
       "cpu": 0,
       "ram": 0,
-      "storage": 75,
+      "storage": 100,
       "price": 0,
       "original_price": 0,
-      "discount_price": 4553,
+      "discount_price": 4612,
       "billing_period": 0,
       "duration": 0,
-      "purchase_mode": 491,
+      "purchase_mode": 516,
       "stock_status": 0,
       "promotion_text": 0,
-      "promotion_start_time": 4553,
-      "promotion_end_time": 4553,
+      "promotion_start_time": 4612,
+      "promotion_end_time": 4612,
       "raw_text": 0,
       "extraction_method": 0,
       "confidence": 0,
       "screenshot_path": 0,
       "html_path": 0,
-      "api_response_path": 180,
+      "api_response_path": 228,
       "notes": 0,
       "record_hash": 0
     }
