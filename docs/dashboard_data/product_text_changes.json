@@ -473,7 +473,7 @@
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 44.989998,
+    "current_price": 44.99,
     "current_promotion_text": "180 days: Aug. Offer; You Save: $32.95(42%); 六月180天特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
@@ -545,7 +545,7 @@
     "config": "KVIP / A15 / 4 cores / 5.3GB / 64GB",
     "duration_bucket": 90,
     "duration_display": "90天",
-    "current_price": 25.989999,
+    "current_price": 25.99,
     "current_promotion_text": "90 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
@@ -929,7 +929,7 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
     "duration_bucket": 180,
     "duration_display": "180天",
-    "current_price": 110.989998,
+    "current_price": 110.99,
     "current_promotion_text": "180 days: Aug. Offer; You Save: $128.95(54%); 六月180天特价：35.99、44.99、63.99、110.99",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
@@ -965,7 +965,7 @@
     "config": "MVIP / A15 / 8 cores / 16GB / 185GB",
     "duration_bucket": 365,
     "duration_display": "365天",
-    "current_price": 269.990001,
+    "current_price": 269.99,
     "current_promotion_text": "365 days; 日常价",
     "previous_promotion_text": null,
     "promotion_text_changed": true,
@@ -2798,42 +2798,6 @@
   {
     "platform": "Redfinger",
     "product_model": "VIP",
-    "config": "VIP / A10 / 8 cores / 4GB / nan",
-    "duration_bucket": 30,
-    "duration_display": "30天",
-    "current_price": 10.95,
-    "current_promotion_text": "≈0.37/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A10 / 8 cores / 4GB / nan",
-    "duration_bucket": 365,
-    "duration_display": "365天",
-    "current_price": 79.95,
-    "current_promotion_text": "≈0.22/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
-    "config": "VIP / A10 / 8 cores / 4GB / nan",
-    "duration_bucket": 90,
-    "duration_display": "90天",
-    "current_price": 29.95,
-    "current_promotion_text": "≈0.33/day",
-    "previous_promotion_text": null,
-    "promotion_text_changed": true,
-    "reason_code": "promotion_text_changed"
-  },
-  {
-    "platform": "Redfinger",
-    "product_model": "VIP",
     "config": "VIP / A12 / 8 cores / 4GB / 64GB",
     "duration_bucket": 1,
     "duration_display": "1天",
@@ -2890,6 +2854,42 @@
     "previous_promotion_text": "≈0.33/day",
     "promotion_text_changed": false,
     "reason_code": "price_unchanged"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A12 / 8 cores / 4GB / nan",
+    "duration_bucket": 30,
+    "duration_display": "30天",
+    "current_price": 10.95,
+    "current_promotion_text": "≈0.37/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A12 / 8 cores / 4GB / nan",
+    "duration_bucket": 365,
+    "duration_display": "365天",
+    "current_price": 79.95,
+    "current_promotion_text": "≈0.22/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
+  },
+  {
+    "platform": "Redfinger",
+    "product_model": "VIP",
+    "config": "VIP / A12 / 8 cores / 4GB / nan",
+    "duration_bucket": 90,
+    "duration_display": "90天",
+    "current_price": 29.95,
+    "current_promotion_text": "≈0.33/day",
+    "previous_promotion_text": null,
+    "promotion_text_changed": true,
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "Redfinger",
@@ -3441,7 +3441,7 @@
     "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3453,7 +3453,7 @@
     "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3465,7 +3465,7 @@
     "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3477,7 +3477,7 @@
     "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",
@@ -3489,7 +3489,7 @@
     "current_promotion_text": "🔥Auto-Renew Deal",
     "previous_promotion_text": "25% off for a limited time; activity",
     "promotion_text_changed": true,
-    "reason_code": "price_down"
+    "reason_code": "promotion_text_changed"
   },
   {
     "platform": "UgPhone",

@@ -1,0 +1,391 @@
+{
+  "schema_version": 9,
+  "skill_release": "v30",
+  "generated_at_utc": "2026-08-31T04:03:32+00:00",
+  "overall_coverage_ratio": 0.4694,
+  "overall_status": "warning",
+  "platforms": [
+    {
+      "platform": "UgPhone",
+      "status": "warning",
+      "coverage_ratio": 0.4694,
+      "current_rows": 90,
+      "priced_rows": 90,
+      "baseline_reference_rows": 99,
+      "baseline_row_delta": -9,
+      "contract_components": [
+        {
+          "name": "plans",
+          "successes": 4,
+          "targets": 5,
+          "coverage_ratio": 0.8
+        },
+        {
+          "name": "variants",
+          "successes": 6,
+          "targets": 10,
+          "coverage_ratio": 0.6
+        },
+        {
+          "name": "regions",
+          "successes": 23,
+          "targets": 49,
+          "coverage_ratio": 0.4694
+        },
+        {
+          "name": "purchase_mode_pairs",
+          "successes": 18,
+          "targets": 18,
+          "coverage_ratio": 1.0
+        }
+      ],
+      "missing_cells": [
+        {
+          "plan": "UVIP",
+          "version": null,
+          "region": "Thailand",
+          "purchase_mode": "subscription",
+          "reason": "subscription_control_missing_after_retry"
+        },
+        {
+          "plan": "UVIP",
+          "version": null,
+          "region": "Thailand",
+          "purchase_mode": "non_subscription",
+          "reason": "subscription_control_missing_after_retry"
+        },
+        {
+          "plan": "UVIP",
+          "version": "android10.0",
+          "region": "Thailand",
+          "reason": "price_cards_missing_after_full_selection"
+        },
+        {
+          "plan": "UVIP",
+          "version": null,
+          "region": "Indonesia",
+          "purchase_mode": "subscription",
+          "reason": "subscription_control_missing_after_retry"
+        },
+        {
+          "plan": "UVIP",
+          "version": null,
+          "region": "Indonesia",
+          "purchase_mode": "non_subscription",
+          "reason": "subscription_control_missing_after_retry"
+        },
+        {
+          "plan": "UVIP",
+          "version": "android10.0",
+          "region": "Indonesia",
+          "reason": "price_cards_missing_after_full_selection"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android10.0",
+          "region": "Thailand",
+          "purchase_mode": "subscription",
+          "reason": "subscription_control_missing_after_retry"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android10.0",
+          "region": "Thailand",
+          "purchase_mode": "non_subscription",
+          "reason": "subscription_control_missing_after_retry"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android10.0",
+          "region": "Thailand",
+          "reason": "price_cards_missing_after_full_selection"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android10.0",
+          "region": "Indonesia",
+          "purchase_mode": "subscription",
+          "reason": "subscription_control_missing_after_retry"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android10.0",
+          "region": "Indonesia",
+          "purchase_mode": "non_subscription",
+          "reason": "subscription_control_missing_after_retry"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android10.0",
+          "region": "Indonesia",
+          "reason": "price_cards_missing_after_full_selection"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android12.0",
+          "region": "Thailand",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android12.0",
+          "region": "Indonesia",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android13.0",
+          "region": "America",
+          "reason": "region_state_not_confirmed_after_sync"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android13.0",
+          "region": "Germany",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android13.0",
+          "region": "Japan",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android13.0",
+          "region": "Hong Kong",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android13.0",
+          "region": "Singapore",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "GVIP",
+          "version": "android13.0",
+          "reason": "no_region_snapshot_captured"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android12.0",
+          "region": "Germany",
+          "reason": "region_state_not_confirmed_after_sync"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android12.0",
+          "region": "Japan",
+          "reason": "region_state_not_confirmed_after_sync"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android12.0",
+          "region": "Korea",
+          "reason": "region_state_not_confirmed_after_sync"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android12.0",
+          "region": "Singapore",
+          "reason": "region_state_not_confirmed_after_sync"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android12.0",
+          "region": "America",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android12.0",
+          "region": "Taiwan",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android13.0",
+          "region": "Japan",
+          "reason": "region_state_not_confirmed_after_sync"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android13.0",
+          "region": "Korea",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android13.0",
+          "region": "Hong Kong",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android13.0",
+          "region": "Singapore",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android13.0",
+          "region": "Taiwan",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥KVIP",
+          "version": "android13.0",
+          "reason": "no_region_snapshot_captured"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android10.0",
+          "region": "Hong Kong",
+          "purchase_mode": "subscription",
+          "reason": "subscription_control_missing_before_mode_switch"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android10.0",
+          "region": "Hong Kong",
+          "purchase_mode": "non_subscription",
+          "reason": "subscription_control_missing_before_mode_switch"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android10.0",
+          "region": "Hong Kong",
+          "reason": "price_cards_missing_after_full_selection"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android10.0",
+          "reason": "no_region_snapshot_captured"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "region": "America",
+          "reason": "region_state_not_confirmed_after_sync"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "region": "Germany",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "region": "Japan",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "region": "Taiwan",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "region": "Singapore",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "region": "Hong Kong",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "region": "Thailand",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "region": "Indonesia",
+          "reason": "region_click_failed"
+        },
+        {
+          "plan": "🔥MVIP",
+          "version": "android13.0",
+          "reason": "no_region_snapshot_captured"
+        },
+        {
+          "plan": "🔥MVIP",
+          "reason": "no_variant_snapshot_captured"
+        }
+      ],
+      "collector_status": "warning",
+      "collector_coverage_status": "partial",
+      "collector_coverage_note": "partial_visible_matrix_returned; plans=4/5; variants=6/10; priced_regions=36/49; resolved_regions=23/49; priced_rows=216"
+    },
+    {
+      "platform": "VSPhone",
+      "status": "ok",
+      "coverage_ratio": 1.0,
+      "current_rows": 376,
+      "priced_rows": 376,
+      "baseline_reference_rows": 169,
+      "baseline_row_delta": 207,
+      "contract_components": [
+        {
+          "name": "quantity_one",
+          "successes": 361,
+          "targets": 361,
+          "coverage_ratio": 1.0
+        },
+        {
+          "name": "purchase_mode_context",
+          "successes": 72,
+          "targets": 72,
+          "coverage_ratio": 1.0
+        },
+        {
+          "name": "auto_renew_confirmation",
+          "successes": 72,
+          "targets": 72,
+          "coverage_ratio": 1.0
+        }
+      ],
+      "missing_cells": [],
+      "collector_status": null,
+      "collector_coverage_status": null,
+      "collector_coverage_note": null
+    },
+    {
+      "platform": "Redfinger",
+      "status": "ok",
+      "coverage_ratio": 1.0,
+      "current_rows": 28,
+      "priced_rows": 28,
+      "baseline_reference_rows": 70,
+      "baseline_row_delta": -42,
+      "contract_components": [],
+      "missing_cells": [],
+      "collector_status": "ok",
+      "collector_coverage_status": null,
+      "collector_coverage_note": null
+    },
+    {
+      "platform": "LDCloud",
+      "status": "ok",
+      "coverage_ratio": 1.0,
+      "current_rows": 200,
+      "priced_rows": 200,
+      "baseline_reference_rows": 175,
+      "baseline_row_delta": 25,
+      "contract_components": [],
+      "missing_cells": [],
+      "collector_status": null,
+      "collector_coverage_status": null,
+      "collector_coverage_note": null
+    }
+  ],
+  "contract_rule": "current observations determine collection health; baseline counts are reference-only and never satisfy current coverage"
+}
