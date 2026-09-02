@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-01T02:30:30+00:00",
+  "generated_at_utc": "2026-09-02T01:53:03+00:00",
   "platform_diagnostics": [
     {
       "platform": "UgPhone",
@@ -11,11 +11,11 @@
       "collection_status": "success",
       "collection_health": "ok",
       "baseline_coverage_status": "partial",
-      "baseline_coverage_ratio": 0.6162,
+      "baseline_coverage_ratio": 0.7475,
       "fallback_to_baseline": true,
       "fallback_reason": "current_missing_used_baseline",
       "unmatched_current_rows": 0,
-      "missing_baseline_rows": 38
+      "missing_baseline_rows": 25
     },
     {
       "platform": "VSPhone",
@@ -59,7 +59,7 @@
       "collection_status": "success",
       "collection_health": "ok",
       "baseline_coverage_status": "full",
-      "baseline_coverage_ratio": 1.1429,
+      "baseline_coverage_ratio": 1.0514,
       "fallback_to_baseline": false,
       "fallback_reason": "",
       "unmatched_current_rows": 0,
@@ -69,7 +69,7 @@
   "blocked_pages": {},
   "failed_pages": {},
   "warnings": [],
-  "fallback_to_baseline_rows": 276,
+  "fallback_to_baseline_rows": 262,
   "unmatched_current_rows": [],
   "missing_baseline_rows": [
     {
@@ -301,7 +301,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "15 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -327,7 +327,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "180 days: Aug. Offer; You Save: $128.95(54%); 六月180天特价：35.99、44.99、63.99、110.99",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -353,7 +353,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "3 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -379,7 +379,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "30 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -405,7 +405,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "365 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -431,7 +431,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "60 days: Aug. Offer; You Save: $33.99(42%); 五月60天特价：13.99、17.99、25.99、45.99",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -457,7 +457,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "8 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -483,7 +483,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "90 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -717,7 +717,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "15 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -743,7 +743,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "180 days: Aug. Offer; You Save: $55.95(47%); 六月180天特价：35.99、44.99、63.99、110.99",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -769,7 +769,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "3 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -795,7 +795,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "30 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -821,7 +821,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "365 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -847,7 +847,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "60 days: Aug. Offer; You Save: $13.99(35%); 五月60天特价：13.99、17.99、25.99、45.99",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -873,7 +873,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "8 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -899,7 +899,7 @@
       "baseline_promotion_text": null,
       "current_promotion_text": "90 days; 日常价",
       "baseline_supported_server_regions": null,
-      "current_supported_server_regions": "Taiwan; Singapore; Netherlands",
+      "current_supported_server_regions": "Taiwan; Netherlands; Singapore",
       "reason_code": "abnormal_unexplained",
       "alert_level": "warning",
       "notes": "baseline_row_missing_for_current_product; dashboard_current_products_overlay_applied"
@@ -1610,8 +1610,8 @@
   "raw_run_summary": {
     "skill_release": "v30",
     "schema_version": 9,
-    "start_time_utc": "2026-09-01T02:08:05+00:00",
-    "end_time_utc": "2026-09-01T02:27:00+00:00",
+    "start_time_utc": "2026-09-02T01:30:26+00:00",
+    "end_time_utc": "2026-09-02T01:48:35+00:00",
     "targets": {
       "VSPhone": "https://cloud.vsphone.com/buy",
       "Redfinger": "https://www.cloudemulator.net/app/buy?utm_source=buying-guide&utm_medium=btn&utm_campaign=buy-btn&channelCode=web",
@@ -1621,7 +1621,7 @@
     "blocked_pages": {},
     "failed_pages": {},
     "warnings": [],
-    "api_candidate_count": 151,
+    "api_candidate_count": 148,
     "platform_persistent_profiles": {
       "UgPhone": "output\\auth\\ugphone_profile"
     },
@@ -1645,11 +1645,11 @@
     },
     "collection_contract": {
       "overall_status": "warning",
-      "overall_coverage_ratio": 0.3469,
+      "overall_coverage_ratio": 0.449,
       "platforms": {
         "UgPhone": {
           "status": "warning",
-          "coverage_ratio": 0.3469
+          "coverage_ratio": 0.449
         },
         "VSPhone": {
           "status": "ok",
@@ -1667,34 +1667,34 @@
     },
     "quality_price_monitor": {
       "enabled": true,
-      "report_path": "output\\cloud_phone_monitor_20260901_020805\\quality_price_report.xlsx",
+      "report_path": "output\\cloud_phone_monitor_20260902_013026\\quality_price_report.xlsx",
       "ug_config_count": 60,
       "pairing_rows": 765,
       "quality_adjusted_rows": 765,
       "relative_index_rows": 60,
-      "critical_alerts": 28,
+      "critical_alerts": 25,
       "warning_alerts": 105,
       "not_comparable_rows": 2,
       "input_basis": "baseline_with_current_overlay",
-      "fallback_baseline_rows": 166
+      "fallback_baseline_rows": 163
     },
     "baseline_monitor": {
       "baseline_found": true,
       "baseline_path": "output\\latest\\baseline_products_updated.xlsx",
-      "updated_baseline_path": "output\\cloud_phone_monitor_20260901_020805\\baseline_products_updated.xlsx",
-      "updated_baseline_price_rows": 347,
-      "daily_changes_path": "output\\cloud_phone_monitor_20260901_020805\\daily_changes.xlsx",
+      "updated_baseline_path": "output\\cloud_phone_monitor_20260902_013026\\baseline_products_updated.xlsx",
+      "updated_baseline_price_rows": 350,
+      "daily_changes_path": "output\\cloud_phone_monitor_20260902_013026\\daily_changes.xlsx",
       "comparison_rows": 431,
-      "alert_rows": 224,
-      "ug_config_comparison_rows": 28,
+      "alert_rows": 214,
+      "ug_config_comparison_rows": 24,
       "price_down_rows": 0
     },
-    "total_records": 4589,
+    "total_records": 4645,
     "records_by_platform": {
       "VSPhone": 3868,
       "Redfinger": 129,
       "LDCloud": 448,
-      "UgPhone": 144
+      "UgPhone": 200
     },
     "missing_field_stats": {
       "schema_version": 0,
@@ -1718,20 +1718,20 @@
       "storage": 129,
       "price": 0,
       "original_price": 0,
-      "discount_price": 4589,
+      "discount_price": 4645,
       "billing_period": 0,
       "duration": 0,
       "purchase_mode": 577,
       "stock_status": 0,
       "promotion_text": 0,
-      "promotion_start_time": 4589,
-      "promotion_end_time": 4589,
+      "promotion_start_time": 4645,
+      "promotion_end_time": 4645,
       "raw_text": 0,
       "extraction_method": 0,
       "confidence": 0,
       "screenshot_path": 0,
       "html_path": 0,
-      "api_response_path": 144,
+      "api_response_path": 200,
       "notes": 0,
       "record_hash": 0
     }
