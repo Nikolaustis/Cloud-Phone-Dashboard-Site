@@ -4,12 +4,12 @@
     "status": "ok",
     "collection_status": "ok",
     "baseline_coverage_status": "partial",
-    "baseline_coverage_ratio": 0.6162,
-    "raw_records": 144,
-    "product_rows": 61,
-    "priced_product_rows": 61,
+    "baseline_coverage_ratio": 0.7677,
+    "raw_records": 202,
+    "product_rows": 76,
+    "priced_product_rows": 76,
     "baseline_rows": 99,
-    "missing_vs_baseline": 38
+    "missing_vs_baseline": 23
   },
   {
     "platform": "VSPhone",
@@ -29,7 +29,7 @@
     "collection_status": "ok",
     "baseline_coverage_status": "low",
     "baseline_coverage_ratio": 0.3857,
-    "raw_records": 129,
+    "raw_records": 105,
     "product_rows": 27,
     "priced_product_rows": 27,
     "baseline_rows": 70,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T03:02:10+00:00",
+  "updated_at": "2026-09-04T01:48:46+00:00",
   "baseline_config_count": 10,
   "core_duration_buckets": [
     1,
@@ -25,12 +25,12 @@
   },
   "market_position_counts": {
     "high": 13,
-    "competitive": 9,
-    "below_market": 28,
-    "slightly_high": 6
+    "competitive": 10,
+    "below_market": 26,
+    "slightly_high": 7
   },
-  "above_market_count": 19,
-  "below_market_count": 28,
+  "above_market_count": 20,
+  "below_market_count": 26,
   "attention_items": [
     {
       "ug_config_id": "kvip___android_10___6_cores___5_3gb___64gb",
@@ -86,7 +86,7 @@
           "product_model": "KVIP",
           "config": "KVIP / Android 10 / 8 cores / 6GB / 80GB",
           "current_price": 1.19,
-          "config_similarity_score": 78.85,
+          "config_similarity_score": 80.85,
           "comparability_level": "adjusted_match",
           "included_in_core_median": true,
           "exclusion_reason": "",
@@ -104,10 +104,10 @@
         "LDCloud": {
           "platform": "LDCloud",
           "product_model": "KVIP",
-          "config": "KVIP / Android 14 / 6 cores / 8GB / 41GB",
+          "config": "KVIP / Android 10 / 4 cores / 5.3GB / 64GB",
           "current_price": null,
-          "config_similarity_score": 71.17,
-          "comparability_level": "weak_match",
+          "config_similarity_score": 75,
+          "comparability_level": "adjusted_match",
           "included_in_core_median": false,
           "exclusion_reason": "actual_duration_bucket_mismatch",
           "pairing_source": "manual_mapping",

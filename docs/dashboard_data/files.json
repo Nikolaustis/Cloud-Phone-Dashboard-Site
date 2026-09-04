@@ -3,63 +3,63 @@
     "name": "products.csv",
     "path": "output\\latest\\products.csv",
     "exists": true,
-    "size_bytes": 4266283,
+    "size_bytes": 4405634,
     "safe_to_open": true
   },
   {
     "name": "products.xlsx",
     "path": "output\\latest\\products.xlsx",
     "exists": true,
-    "size_bytes": 192178,
+    "size_bytes": 196275,
     "safe_to_open": true
   },
   {
     "name": "products.jsonl",
     "path": "output\\latest\\products.jsonl",
     "exists": true,
-    "size_bytes": 26337114,
+    "size_bytes": 26487235,
     "safe_to_open": true
   },
   {
     "name": "daily_changes.xlsx",
     "path": "output\\latest\\daily_changes.xlsx",
     "exists": true,
-    "size_bytes": 114305,
+    "size_bytes": 113854,
     "safe_to_open": true
   },
   {
     "name": "baseline_products_updated.xlsx",
     "path": "output\\latest\\baseline_products_updated.xlsx",
     "exists": true,
-    "size_bytes": 139788,
+    "size_bytes": 139792,
     "safe_to_open": true
   },
   {
     "name": "quality_price_report.xlsx",
     "path": "output\\latest\\quality_price_report.xlsx",
     "exists": true,
-    "size_bytes": 216638,
+    "size_bytes": 217098,
     "safe_to_open": true
   },
   {
     "name": "run_summary.json",
     "path": "output\\latest\\run_summary.json",
     "exists": true,
-    "size_bytes": 3944,
+    "size_bytes": 3942,
     "safe_to_open": true
   },
   {
     "name": "collection_contract.json",
     "path": "output\\latest\\collection_contract.json",
     "exists": true,
-    "size_bytes": 12809,
+    "size_bytes": 11766,
     "safe_to_open": true
   },
   {
     "name": "run_manifest.json",
     "path": "output\\latest\\run_manifest.json",
     "exists": true,
-    "size_bytes": 1003,
+    "size_bytes": 1002,
     "safe_to_open": true
   },
   {
@@ -73,42 +73,42 @@
     "name": "dashboard_data/frontend_price_overview.json",
     "path": "output\\latest\\dashboard_data\\frontend_price_overview.json",
     "exists": true,
-    "size_bytes": 48457,
+    "size_bytes": 48461,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/pairing_matrix.json",
     "path": "output\\latest\\dashboard_data\\pairing_matrix.json",
     "exists": true,
-    "size_bytes": 21154,
+    "size_bytes": 21156,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/duration_price_comparison.json",
     "path": "output\\latest\\dashboard_data\\duration_price_comparison.json",
     "exists": true,
-    "size_bytes": 250482,
+    "size_bytes": 250335,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_trends.json.gz",
     "path": "output\\latest\\dashboard_data\\price_trends.json.gz",
     "exists": true,
-    "size_bytes": 659039,
+    "size_bytes": 664863,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/price_change_tracking.json",
     "path": "output\\latest\\dashboard_data\\price_change_tracking.json",
     "exists": true,
-    "size_bytes": 604371,
+    "size_bytes": 604271,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/product_text_changes.json",
     "path": "output\\latest\\dashboard_data\\product_text_changes.json",
     "exists": true,
-    "size_bytes": 199189,
+    "size_bytes": 199110,
     "safe_to_open": true
   },
   {
@@ -136,28 +136,28 @@
     "name": "dashboard_data/current_price_snapshot.json",
     "path": "output\\latest\\dashboard_data\\current_price_snapshot.json",
     "exists": true,
-    "size_bytes": 565632,
+    "size_bytes": 576614,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/collection_contract.json",
     "path": "output\\latest\\dashboard_data\\collection_contract.json",
     "exists": true,
-    "size_bytes": 12809,
+    "size_bytes": 11766,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/run_manifest.json",
     "path": "output\\latest\\dashboard_data\\run_manifest.json",
     "exists": true,
-    "size_bytes": 1003,
+    "size_bytes": 1002,
     "safe_to_open": true
   },
   {
     "name": "dashboard_data/history_storage.json",
     "path": "output\\latest\\dashboard_data\\history_storage.json",
     "exists": true,
-    "size_bytes": 34040,
+    "size_bytes": 34035,
     "safe_to_open": true
   }
 ]
